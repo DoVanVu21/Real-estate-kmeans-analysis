@@ -1,0 +1,2016 @@
+Column1,title,area,price,location
+0,"Prosper Plaza  DT50m2 giá 1.9 t?, DT65m2 gía 2.15",65 m² - 2 PN,"2,15 t?",Qu?n 12
+1,"C?n H? Prosper Phan V?n H?n Có S? Giá Ch? 1,850 T?",54 m² - 2 PN,"1,85 t?",Qu?n 12
+2,"chuyên bán c?n h? sky9, 1,2,3pn giá t? 900tr > 3ty",53 m² - 2 PN,"1,6 t?",Qu?n 9 - Thành ph? Th? ??c
+3,C?n h? t?ng 33 River Gate Q.4  74m2. 2PN 2WC B3302,75 m² - 2 PN,"4,6 t?",Qu?n 4
+4,DIAMOND RIVERSIDE M?I CAO C?P 3 PN 2.850 T?,84 m² - 3 PN,"2,85 t?",Qu?n 8
+5,C?N H? D? ÁN CITY GATE 3  QU?N 8,52 m² - 1 PN,"1,25 t?",Qu?n 8
+6,Chung c? Qu?n 2 kho?ng 70m² 2 PN,70 m² - 2 PN,2.000 ?,Qu?n 2
+7,C?N H? ??P VIEW CÔNG VIÊN GIA ??NH 88M2 GIÁ 5.6 T?,88 m² - 3 PN,"5,6 t?",Qu?n Phú Nhu?n
+8,BÁN C?N H? 2 PHÒNG GIÁ T?NG PHONG THU? GIÁ 4.27 T?,74 m² - 2 PN,"4,27 t?",Qu?n Tân Bình
+9,C?t l? c?n 3PN view sông VinQ9 TT 900tr vào ? Ngay,81.5 m² - 3 PN,"2,75 t?",Qu?n 9
+10,Chung c? Dream Home Palace 61.75m² 2PN,61.75 m² - 2 PN,"1,673 t?",Qu?n 8
+11,C?N HÔ? V???N NHÂ?T ORIGAMI C?T VINHOMES VAY100%,45.6 m² - 1 PN,"2,8 t?",Qu?n 9
+12,Chung c? PiCity High Park 67m² 2PN,67 m² - 2 PN,39 tri?u,Qu?n 12
+13,"Chính ch? chuy?n nh??ng CC Qu?n 8 64m² 2PN, 2WC",64 m² - 2 PN,"1,65 t?",Qu?n 8
+14,Chung c? Carillon 7 105m² 3PN,105 m² - 3 PN,"3,85 t?",Qu?n Tân Phú
+15,Chung c? 67.61m² 2PN Q7 Sài Gòn Riverside Complex,67.61 m² - 2 PN,"2,55 t?",Qu?n 7
+16,"HEAVEN, CHUNG C? QU?N 8, GIÁ R?,? NGAY CÁCH Q1 15P",60 m² - 2 PN,"1,5 t?",Qu?n 8
+17,C?n h? CityGate 1 full n?i th?t l?u th?p,70 m² - 2 PN,"2,35 t?",Qu?n 8
+18,CHUNG C? PICITY SMARTHOME 4.0 - TR? TR??C CH? 760,65 m² - 2 PN,760 tri?u,Qu?n 12
+19,"C?n H? Cao C?p The Pegasuite, 2PN, 3PN, NT Cao C?p",60 m² - 2 PN,"2,35 t?",Qu?n 8
+20,Chính ch? c?n bán Chung c? Qu?n 8 62m² 2 PN,62 m² - 2 PN,"1,7 t?",Qu?n 8
+21,Bán nhanh CH Lavita Charm r? b?t ng? mu?a di?ch,67 m² - 2 PN,"2,8 t?",Qu?n Th? ??c
+22,"Bán c?n h? tr? góp, tr? tr??c 790tr chia ra 5 ??t",58 m² - 2 PN,790 tri?u,Qu?n 12
+23,LAVITA CHARM 2PN-2WC CH? 2.5T? BAO PHÍ VIEW H? B?I,68 m² - 2 PN,"2,6 t?",Qu?n Th? ??c
+24,BÁN NHANH 2PN - 76M2 - N?I TH?T CAO C?P -VIEW SÔNG,76 m² - 2 PN,"3,9 t?",Qu?n 2
+0,"Prosper Plaza  DT50m2 giá 1.9 t?, DT65m2 gía 2.15",65 m² - 2 PN,"2,15 t?",Qu?n 12
+1,"C?n H? Prosper Phan V?n H?n Có S? Giá Ch? 1,850 T?",54 m² - 2 PN,"1,85 t?",Qu?n 12
+2,"chuyên bán c?n h? sky9, 1,2,3pn giá t? 900tr > 3ty",53 m² - 2 PN,"1,6 t?",Qu?n 9 - Thành ph? Th? ??c
+3,C?n h? t?ng 33 River Gate Q.4  74m2. 2PN 2WC B3302,75 m² - 2 PN,"4,6 t?",Qu?n 4
+4,DIAMOND RIVERSIDE M?I CAO C?P 3 PN 2.850 T?,84 m² - 3 PN,"2,85 t?",Qu?n 8
+5,C?N H? D? ÁN CITY GATE 3  QU?N 8,52 m² - 1 PN,"1,25 t?",Qu?n 8
+6,Chung c? Qu?n 2 kho?ng 70m² 2 PN,70 m² - 2 PN,2.000 ?,Qu?n 2
+7,C?N H? ??P VIEW CÔNG VIÊN GIA ??NH 88M2 GIÁ 5.6 T?,88 m² - 3 PN,"5,6 t?",Qu?n Phú Nhu?n
+8,BÁN C?N H? 2 PHÒNG GIÁ T?NG PHONG THU? GIÁ 4.27 T?,74 m² - 2 PN,"4,27 t?",Qu?n Tân Bình
+9,C?t l? c?n 3PN view sông VinQ9 TT 900tr vào ? Ngay,81.5 m² - 3 PN,"2,75 t?",Qu?n 9
+10,Chung c? Dream Home Palace 61.75m² 2PN,61.75 m² - 2 PN,"1,673 t?",Qu?n 8
+11,C?N HÔ? V???N NHÂ?T ORIGAMI C?T VINHOMES VAY100%,45.6 m² - 1 PN,"2,8 t?",Qu?n 9
+12,Chung c? PiCity High Park 67m² 2PN,67 m² - 2 PN,39 tri?u,Qu?n 12
+13,"Chính ch? chuy?n nh??ng CC Qu?n 8 64m² 2PN, 2WC",64 m² - 2 PN,"1,65 t?",Qu?n 8
+14,Chung c? Carillon 7 105m² 3PN,105 m² - 3 PN,"3,85 t?",Qu?n Tân Phú
+15,Chung c? 67.61m² 2PN Q7 Sài Gòn Riverside Complex,67.61 m² - 2 PN,"2,55 t?",Qu?n 7
+16,"HEAVEN, CHUNG C? QU?N 8, GIÁ R?,? NGAY CÁCH Q1 15P",60 m² - 2 PN,"1,5 t?",Qu?n 8
+17,C?n h? CityGate 1 full n?i th?t l?u th?p,70 m² - 2 PN,"2,35 t?",Qu?n 8
+18,CHUNG C? PICITY SMARTHOME 4.0 - TR? TR??C CH? 760,65 m² - 2 PN,760 tri?u,Qu?n 12
+19,"C?n H? Cao C?p The Pegasuite, 2PN, 3PN, NT Cao C?p",60 m² - 2 PN,"2,35 t?",Qu?n 8
+20,Chính ch? c?n bán Chung c? Qu?n 8 62m² 2 PN,62 m² - 2 PN,"1,7 t?",Qu?n 8
+21,Bán nhanh CH Lavita Charm r? b?t ng? mu?a di?ch,67 m² - 2 PN,"2,8 t?",Qu?n Th? ??c
+22,"Bán c?n h? tr? góp, tr? tr??c 790tr chia ra 5 ??t",58 m² - 2 PN,790 tri?u,Qu?n 12
+23,LAVITA CHARM 2PN-2WC CH? 2.5T? BAO PHÍ VIEW H? B?I,68 m² - 2 PN,"2,6 t?",Qu?n Th? ??c
+24,BÁN NHANH 2PN - 76M2 - N?I TH?T CAO C?P -VIEW SÔNG,76 m² - 2 PN,"3,9 t?",Qu?n 2
+0,2PN Vinhomes Qu?n 9 full n?i th?t ???c tr? góp 80%,59 m² - 2 PN,440 tri?u,Qu?n 9 - Thành ph? Th? ??c
+1,BÁN G?P C?N HIM LAM CH? L?N 102M2 3 PHÒNG NG?,102 m² - 3 PN,"4,5 t?",Qu?n 6
+2,Chung c? 57m² 2PN 2WC Ph??ng Bình Chi?u Th? ??c,57 m² - 2 PN,"1,65 t?",Qu?n Th? ??c - Thành ph? Th? ??c
+3,"HEAVEN, CHUNG C? QU?N 8, GIÁ R?,? NGAY CÁCH Q1 15P",60 m² - 2 PN,"1,5 t?",Qu?n 8
+4,C?N H? GIÁ T?T PROSPER VIEW ??P ? NGAY - ?Ã CÓ S?,65 m² - 2 PN,"2,15 t?",Qu?n 12
+5,C?n H? Hoa H?u t?i The Pegasuite v?i TK 2 ban công,75 m² - 2 PN,"3,1 t?",Qu?n 8
+6,"Bán l? g?p c?n h? SunriseCity South, 2PN , 106m2",106 m² - 2 PN,"4,05 t?",Qu?n 7
+7,Chung c? Qu?n 12 45m² 2 PN,2 PN,"1,9 t?",Qu?n 12
+8,Bán G?p The Gold View 50m² 1 PN ?ang k?t Ti?n,50 m² - 1 PN,3 t?,Qu?n 4
+9,C?N H? NGAY UBND BÌNH CHÁNH 5 M?T TI?N CH? 660TR,59 m² - 2 PN,"2,2 t?",Huy?n Bình Chánh
+10,"Chung c? Q12 68m2,2PN,2WC, Gi?m 50tr mua mùa d?ch",68 m² - 2 PN,"1,55 t?",Qu?n 12
+11,Bán Nhanh C?n H? 2PN The Sun Avenue,75 m² - 2 PN,"3,9 t?",Qu?n 2
+12,Bán CC arillon 7 86m² 3PN r? h?n th? tr??ng 100tr,86 m² - 3 PN,"3,1 t?",Qu?n Tân Phú
+13,mua nhà sài gòn 600tr? có h? b?i và công viên,65 m² - 2 PN,600 tri?u,Huy?n Bình Chánh
+14,Chung c? H? V?n Huê Phú Nhu?n 2PN,54 m² - 2 PN,"2,67 t?",Qu?n Phú Nhu?n
+15,Bán c?n h? 2PN +1 WC Lovera Vista nh?n nhà ? ngay,52 m² - 2 PN,"1,7 t?",Huy?n Bình Chánh
+16,Chính ch? bán l? c?n Citi Grand Q2,60 m² - 2 PN,"2,295 t?",Qu?n 2
+17,"C?n h? Millennium 74m² 2PN VIEW BITEXCO, H? B?I",74 m² - 2 PN,"5,99 t?",Qu?n 4
+18,c?n bán g?p chính ch? ký bán,48 m² - 2 PN,"1,6 t?",Huy?n Bình Chánh
+19,Chính ch? c?t l? c?nh? 1PN+ VinhomesGrandPark 47m2,47 m² - 2 PN,"1,293 t?",Qu?n 9
+20,Chung c? Saigonhomes 75m² 3 PN 2 WC,75 m² - 3 PN,"2,03 t?",Qu?n Bình Tân
+21,"C?n h? Ngô T?t T? 2PN-1Toliet,66m2 Full NT P19 BT.",66 m² - 2 PN,"2,75 t?",Qu?n Bình Th?nh
+22,Chung c? Saigon Homes Bình Tân 70m² 2PN 2WC,70 m² - 2 PN,"1,85 t?",Qu?n Bình Tân
+23,C?N H? CENTUM WEATH 2PN-2WC GIÁ 2.6T? FULL PHÍ,68 m² - 2 PN,"2,6 t?",Qu?n 9
+24,LAVITA CHARM 2.1T?-1PN-2WC BAO PHÍ,51 m² - 1 PN,"2,1 t?",Qu?n Th? ??c
+0,BÁN OFFICÊTEL 1PN LAVITA CHARM GIÁ 1.7T? THÔI ?,51 m² - 2 PN,"1,7 t?",Qu?n Th? ??c
+1,9 VIEW CH? C?N 700TR NH?N NGAY C?N 2PN VIEW LANMAR,65 m² - 2 PN,"1,4 t?",Qu?n 9
+2,C?n Shop-House M?t ti?n nh?a 12m Kinh Doanh SHR,87 m² - 2 PN,"2,9 t?",Qu?n 12
+3,Chung c? Topaz Home 70m² 3PN,70 m² - 3 PN,"2,1 t?",Qu?n 12
+4,Chung c? Qu?n Bình Tân 70m² 2 PN hàng C?T m?i 100%,70 m² - 2 PN,"2,03 t?",Qu?n Bình Tân
+5,CHÍNH CH? BÁN NHANH C?N 2PN 67M2 GIÁ 2T?650TRI?U,68 m² - 2 PN,"2,6 t?",Qu?n Th? ??c
+6,Chung c? Moonlight Residences 51m² 1PN 2.3t?,51 m² - 1 PN,"2,3 t?",Qu?n Th? ??c
+7,T?NG H?P CÁC C?N 2PN-2WC T?I 9VIEW T? 1.4T? BP,58 m² - 2 PN,"1,4 t?",Qu?n 9
+8,"Chung c? H?ng Ngân Garden chính ch?, 69m2 2PN, 2WC",69 m² - 2 PN,"1,85 t?",Qu?n 12
+9,G?N METRO BÌNH THÁI LAVITA CHARM 3PN 87M2- 3.5T?,87 m² - 3 PN,"3,5 t?",Qu?n Th? ??c
+10,Chính ch? giá t?t Richstar Rs7,91 m² - 3 PN,"3,75 t?",Qu?n Tân Phú
+11,LAVITA CHARM 2PN-2WC VIEW H? B?I GIÁ 2.6T? ?,68 m² - 2 PN,"2,6 t?",Qu?n Th? ??c
+12,C?N H? TÔ KÝ TOWER 61m² 2PN S? H?ng Riêng 1 T? 800,61 m² - 2 PN,"1,8 t?",Qu?n 12
+13,"C?n h? ?? cho gia ?ình, Th?nh L?c 27, Qu?n 12, HCM",43 m² - 2 PN,"1,2 t?",Qu?n 12
+14,1PN 50M2 T?I T?NG 9 BÁN GIÁ M?M NH?T LAVITA CHARM,50 m² - 1 PN,"1,95 t?",Qu?n Th? ??c
+15,"C?n H? Xi Grand Court Qu?n 10, 105m² ,3PN 3WC",105 m² - 3 PN,"6,55 t?",Qu?n 10
+16,Bán G?p C?n Góc View ?ông Nam Lavita Charm ? ngay,68 m² - 2 PN,"2,75 t?",Qu?n Th? ??c
+17,Chung c? t?i Gò V?p giá r?t r? 77m2 2.2 t?,77 m² - 2 PN,"2,2 t?",Qu?n Gò V?p
+18,9 VIEW GIÁ BÁN R? R? T?I KHU QU?N 9 CH? 1.4T? ?,58 m² - 2 PN,"1,4 t?",Qu?n 9
+19,Chung c? Carillon 7 66m² 2 PN View h??ng Nam,66 m² - 2 PN,"2,5 t?",Qu?n Tân Phú
+0,Sang nh??ng c?n 80.43m2 3pn giá t?t,80.43 m² - 3 PN,"2,09 t?",Qu?n 8
+1,CH Duplex Celadon City 191m² 1T1L 4PN 37.5tr/Mét,191 m² - 4 PN,"37,5 tri?u",Qu?n Tân Phú
+2,"??M?i ch?a ? ,coi bóng ?á trên thiên ?àng VINHOMES",51 m² - 1 PN,"1,95 t?",Qu?n 9
+3,BÁN G?P C?N 2PN - 2 PN AKARI CITY GIÁ C?C T?T,56 m² - 2 PN,"2,15 t?",Qu?n Bình Tân
+4,C?P NH?T GI? HÀNG BÁN D? ÁN MASTERI TH?O ?I?N,68 m² - 2 PN,"4,15 t?",Qu?n 2
+5,"C?n h? The Gold View c?a h??ng Tây B?c, 2 PN",65 m² - 2 PN,"3,4 t?",Qu?n 4
+6,Chung c? Qu?n 9 - Thành ph? Th? ??c,60 m² - 2 PN,500 tri?u,Qu?n 9
+7,Chung c? C?n Góc 3 M?t Ti?n H3 Hoàng Di?u 75m²,75 m² - 2 PN,"3,55 tri?u",Qu?n 4
+8,Chung c? Flora Anh ?ào 55m² 1PN- view ?ông b?c.,55 m² - 1 PN,"16,9 tri?u",Qu?n 9
+9,Bán G?p C?n 2PN 2WC 1.8 t? Saigonhome Bình Tân,67 m² - 2 PN,"1,8 t?",Qu?n Bình Tân
+10,"CH The Park Residences 3PN-2WC, 106m2 giá 2,350 t?",106 m² - 3 PN,"2,35 t?",Huy?n Nhà Bè
+11,CHÍNH CH? C?N BÁN NHANH TRONG TU?N C?N H?,73 m² - 3 PN,"3,2 t?",Qu?n 7
+12,C?n H? M?tTi?n ???ng Nguy?n V?n Linh Ch? 700 Tri?u,59 m² - 2 PN,"2,1 t?",Huy?n Bình Chánh
+13,CH Wesgate ?ã Có Gi?y Phép-TT 700 Tri?u Nh?n Nhà,60 m² - 2 PN,700 tri?u,Huy?n Bình Chánh
+14,C?n hô? Vinhomes  BaSon Q1 Gia? Re? Mu?a Covid,49 m² - 1 PN,"7,888921 t?",Qu?n 1
+15,"Bán G?p CH Sunrise Riverside 2PN 2WC giá 2,8t?",70 m² - 2 PN,"2,8 t?",Huy?n Nhà Bè
+16,GREEN TOWN BÌNH C?N H? CHUNG C? ? LI?N  TÂN 1.29T,52 m² - 2 PN,"1,3 t?",Qu?n Bình Tân
+17,C?n H? cao c?p Xi Grand Court 70m² 2PN có NT t?ng,70 m² - 2 PN,"4,4 tri?u",Qu?n 10
+18,Chung c? Qu?n Tân Phú 77m² 2PN,77 m² - 2 PN,"2,8 t?",Qu?n Tân Phú
+19,C?n h? Akari 2pn+1wc giá full 2.1 t?,56 m² - 2 PN,"2,1 t?",Qu?n Bình Tân
+0,C?n góc block B t?ng trung 2 ban công,70 m² - 2 PN,"1,95 t?",Qu?n 8
+1,72m² ?ã có s? - Giá 1.750 t? - Vay ???c t?t c? NH,72 m² - 2 PN,"1,75 t?",Huy?n Nhà Bè
+2,??C?n 1PN+ full NT Vinhomes Q9 r? h?n giá g?c 300t,47 m² - 1 PN,"1,59 t?",Qu?n 9
+3,"Thanh lý g?p c?n nhà m?t ti?n g?n ch?, khu v?c HCM",125 m² - 2 PN,"1,75 t?",Huy?n Bình Chánh
+4,??C?n 1PN+ h? b?i ??pnh?t Vinhomes Q9 D??I GIÁ G?C,47 m² - 1 PN,400 tri?u,Qu?n 9
+5,Penthouse Vinhomes Central Park 168m² 4PN,168 m² - 4 PN,"15,89 t?",Qu?n Bình Th?nh
+6,"CC Ph??ng 7, Qu?n 8 62m² 2PN nhà chính ch?",62 m² - 2 PN,650 tri?u,Qu?n 8
+7,??C?n 2 P Ng? +NT Vinhomes Q9 R? h?n giá g?c 400tr,59 m² - 2 PN,"1,92 t?",Qu?n 9
+8,"Bán nhà chung c? T?NG 1 ??p, vào ? ngay. P4, Q8",70 m² - 2 PN,"2,35 t?",Qu?n 8
+9,Chính Ch? C?n Bán Chung c? Qu?n Tân Phú 112m² 3PN,112 m² - 3 PN,4 t?,Qu?n Tân Phú
+10,Chung c? Dream Home Palace 62m² 2 PN,62 m² - 2 PN,"1,7 t?",Qu?n 8
+11,??C?n 2 P Ng? +FULL NT ?ep Vinhomes r? h?n TT 200t,59 m² - 2 PN,580 tri?u,Qu?n 9
+12,"Penthouse Th?y L?i 4 , Nguy?n Xí  , 165m² ,  4PN",165 m² - 4 PN,"7,7 t?",Qu?n Bình Th?nh
+13,GIÁ T?N G?C T? C?T C?N H? M?T TI?N PH?M V?N ??NG,85 m² - 2 PN,870 tri?u,Qu?n Th? ??c
+14,C?n Penthouse Hoàng Anh Thanh Bình P.Tân H?ng Q7,277 m² - 5 PN,"7,8 t?",Qu?n 7
+15,cho thuê c?n h? 1pn+ Vinhome Grand Park 47m2,47 m² - 1 PN,4 tri?u,Qu?n 9
+16,CHUNG C? PROSPER PH? ?ÔNG - TH? ??C GIÁ CH? ??U T?,53 m² - 2 PN,310 tri?u,Qu?n Th? ??c
+17,Chung c? Docklands Sài Gòn 125m² 3PN,125 m² - 3 PN,"5,35 t?",Qu?n 7
+18,C?n H? cao c?p Xi Grand Court 75m² 2PN full NT,75 m² - 2 PN,"4,95 t?",Qu?n 10
+19,??KH?NG KHI?P 60 T? C?N 57M2 H?NG TRUNG ? HK,46 m² - 1 PN,"1,9 t?",Qu?n 9
+0,"?? b?ng giá h?p ??ng, t?ng toàn b? n?i th?t",83 m² - 3 PN,"3,45 t?",Huy?n Nhà Bè
+1,Bán l? C?n h? 3pn(81m2) Vinhomes GrandPark Qu?n 9,81 m² - 3 PN,"2,83 t?",Qu?n 9
+2,C?n H? 7 T?ng TTTM Central Premium 87m² 3PN 2WWC,87 m² - 3 PN,"4,3 t?",Qu?n 8
+3,C?n h? ven sông Saigon Q7 Riverside s?p bàn giao,53 m² - 2 PN,"2,2 t?",Qu?n 7
+4,"CH 76m2 (2PN,2WC) 1,680 t? bao h?t. Vay ??n 70%",76 m² - 2 PN,"1,68 t?",Huy?n Nhà Bè
+5,"C?N H? ""??P NH? VINHOME"" - CH? 9 C?N ??P (GIÁ M?M)",78 m² - 2 PN,"2,611 t?",Qu?n 12
+6,C?n h? 60m2 khu C?ng Hòa giá g?n 1 t? t?i Tân Bình,33 m² - 1 PN,926 tri?u,Qu?n Tân Bình
+7,C?n h?  Bình Th?nh  giá 900tr full n?i th?t,36 m² - 1 PN,900 tri?u,Qu?n Bình Th?nh
+8,"C?n h? xanh gi?a Saigon, giá m?m ? ngay.",50 m² - 1 PN,"1,5 t?",Qu?n Bình Tân
+9,Officetel Central Premium 32m² Trung Tâm Q8,32 m² - 1 PN,"1,45 t?",Qu?n 8
+10,Bán g?p c?n h? Vinhomes 2pn full n?i th?t view ?ep,59 m² - 2 PN,"2,2 t?",Qu?n 9
+11,bán g?p c?n h? 1pn+ giá 1.7 t?,47 m² - 1 PN,"1,7 t?",Qu?n 9
+12,C?n H? Góc Dreamhome Palace 78.91m² 3PN,78.91 m² - 3 PN,"2,136 t?",Qu?n 8
+13,C?n H? Cao C?p V??n nh?t Vinhomes Grand Park Q9,47 m² - 1 PN,"2,75 tri?u",Qu?n 9
+14,Bán c?n h? 3PN C.T Plaza Nguyên H?ng Gò V?p 5ty4,112 m² - 3 PN,"5,4 t?",Qu?n Gò V?p
+15,C?n H? ??i di?n SC Vivo Lavida Plus 97m² 3PN 2WC,97 m² - 3 PN,"3,9 t?",Qu?n 7
+16,c?n h? 2PN dt 69m2  Vinhome Grand Park qu?n 9,69 m² - 2 PN,"2,5 t?",Qu?n 9
+17,"C?N BÁN C?N 2PN T?I Q7 BOULEVARD, T?NG PHÍ B?O TRÌ",57 m² - 2 PN,"2,55 t?",Qu?n 7
+18,"C?n h? Oficetel Lavida Plus Q7, ??i di?n SC Vivo",27 m² - 1 PN,"1,4 t?",Qu?n 7
+19,Nh?nh 1 t? có nhà 2pn n?i th?t cao c?p view sông,72 m² - 2 PN,"1,85 t?",Qu?n 7
+0,"BÁN CH KV 9VIEW FULL NT VIEW ??P, NH HT VAY.",58 m² - 2 PN,"1,4 t?",Qu?n 9
+1,"C?n H? M?i Nh?n P7, Q8, T?ng 17 View Sông 2PN 2WC",62 m² - 2 PN,649 tri?u,Qu?n 8
+2,RAO GIÁ TH?T BÁN C?N 75m2 GIÁ C?C T?T AKARI CITY,75 m² - 2 PN,"2,58 t?",Qu?n Bình Tân
+3,C?N BÁN C?N H? LAVITA CHARM 3PN 87M2 GIÁ 3.5 T?,87 m² - 3 PN,"3,5 t?",Qu?n Th? ??c
+4,C. c? Sunrise City 106m² 2PN - Giá t?t mùa Covid,106 m² - 2 PN,"4,5 t?",Qu?n 7
+5,"Bán C?n H? 2PN Saigonhomes , Q. Bình Tân, view HL2",65 m² - 2 PN,"1,8 t?",Qu?n Bình Tân
+6,Chi?nh Chu? 68m² 2PN ?E?P c?n sa?t go?c,68 m² - 2 PN,"2,75 t?",Qu?n Bình Th?nh
+7,C?N 2 PHÒNG TRUNG TÂM THE SUN AVENUE 3.3TR Full nt,56 m² - 1 PN,"3,3 t?",Qu?n 2
+8,Bán R? C?n H? 2PN Vinhomes  TP Th? ??c Giá 2t250,70 m² - 2 PN,"2,25 t?",Qu?n 9
+9,"SaiGon South Residence 3pn thô bán 3,7ty btp",95 m² - 3 PN,"3,7 t?",Huy?n Nhà Bè
+10,"3PN BRILLIANT VIEW H? B?I TRÀN, GIÁ M?M 50TR/M2",141 m² - 3 PN,"7,25 t?",Qu?n Tân Phú
+11,C?n h? Saigon Pavillon 2PN 78m2 - Full nôi th?t,78 m² - 2 PN,"6,5 t?",Qu?n 3
+12,C?n góc có balcon Chung c? Flora Fuji 68m² 2 PN,68 m² - 2 PN,"2,45 t?",Qu?n 9
+13,"C?n h? 2PN 2WC 97m2 Him Lam Ch? L?n, Qu?n 6.",97 m² - 2 PN,"3,65 t?",Qu?n 6
+14,"Bán C?n h? The View Riviera Point 147m², 8.35 t?",147 m² - 4 PN,"8,3 t?",Qu?n 7
+15,"C?n h? 1PN 47m2 M? ??c, Q. Bình Th?nh, HCM",47 m² - 1 PN,"2,1 t?",Qu?n Bình Th?nh
+16,CH Celadon City Khu Ruby 68.8m² 2PN 2WC Full NT,68.8 m² - 2 PN,"2,63 t?",Qu?n Tân Phú
+17,DUY NH?T C?N 65M2 T?I 9VIEW NHÀ CÓ BAN CÔNG LANMAR,65 m² - 2 PN,"1,95 t?",Qu?n 9
+18,"Nhà 2 m?t ti?n 76,8 m2 Chung C? Hùng V??ng",76.8 m² - 2 PN,7 t?,Qu?n 5
+19,"Bán c?n h? Saigon Pavillon 1pn 55m2, full n?i th?t",55 m² - 1 PN,"5,3 t?",Qu?n 3
+0,"BÁN CH KV 9VIEW FULL NT VIEW ??P, NH HT VAY.",58 m² - 2 PN,"1,4 t?",Qu?n 9
+1,"C?n H? M?i Nh?n P7, Q8, T?ng 17 View Sông 2PN 2WC",62 m² - 2 PN,649 tri?u,Qu?n 8
+2,RAO GIÁ TH?T BÁN C?N 75m2 GIÁ C?C T?T AKARI CITY,75 m² - 2 PN,"2,58 t?",Qu?n Bình Tân
+3,C?N BÁN C?N H? LAVITA CHARM 3PN 87M2 GIÁ 3.5 T?,87 m² - 3 PN,"3,5 t?",Qu?n Th? ??c
+4,C. c? Sunrise City 106m² 2PN - Giá t?t mùa Covid,106 m² - 2 PN,"4,5 t?",Qu?n 7
+5,"Bán C?n H? 2PN Saigonhomes , Q. Bình Tân, view HL2",65 m² - 2 PN,"1,8 t?",Qu?n Bình Tân
+6,Chi?nh Chu? 68m² 2PN ?E?P c?n sa?t go?c,68 m² - 2 PN,"2,75 t?",Qu?n Bình Th?nh
+7,C?N 2 PHÒNG TRUNG TÂM THE SUN AVENUE 3.3TR Full nt,56 m² - 1 PN,"3,3 t?",Qu?n 2
+8,Bán R? C?n H? 2PN Vinhomes  TP Th? ??c Giá 2t250,70 m² - 2 PN,"2,25 t?",Qu?n 9
+9,"SaiGon South Residence 3pn thô bán 3,7ty btp",95 m² - 3 PN,"3,7 t?",Huy?n Nhà Bè
+10,"3PN BRILLIANT VIEW H? B?I TRÀN, GIÁ M?M 50TR/M2",141 m² - 3 PN,"7,25 t?",Qu?n Tân Phú
+11,C?n h? Saigon Pavillon 2PN 78m2 - Full nôi th?t,78 m² - 2 PN,"6,5 t?",Qu?n 3
+12,C?n góc có balcon Chung c? Flora Fuji 68m² 2 PN,68 m² - 2 PN,"2,45 t?",Qu?n 9
+13,"C?n h? 2PN 2WC 97m2 Him Lam Ch? L?n, Qu?n 6.",97 m² - 2 PN,"3,65 t?",Qu?n 6
+14,"Bán C?n h? The View Riviera Point 147m², 8.35 t?",147 m² - 4 PN,"8,3 t?",Qu?n 7
+15,"C?n h? 1PN 47m2 M? ??c, Q. Bình Th?nh, HCM",47 m² - 1 PN,"2,1 t?",Qu?n Bình Th?nh
+16,CH Celadon City Khu Ruby 68.8m² 2PN 2WC Full NT,68.8 m² - 2 PN,"2,63 t?",Qu?n Tân Phú
+17,DUY NH?T C?N 65M2 T?I 9VIEW NHÀ CÓ BAN CÔNG LANMAR,65 m² - 2 PN,"1,95 t?",Qu?n 9
+18,"Nhà 2 m?t ti?n 76,8 m2 Chung C? Hùng V??ng",76.8 m² - 2 PN,7 t?,Qu?n 5
+19,"Bán c?n h? Saigon Pavillon 1pn 55m2, full n?i th?t",55 m² - 1 PN,"5,3 t?",Qu?n 3
+0,C?N H? 3PN & 2WC ??O KIM C??NG Q. 2 117M2,117 m² - 3 PN,"10,5 t?",Qu?n 2
+1,Chung c? Qu?n 9 - Thành ph? Th? ??c Giá T?t,30 m² - 1 PN,"1,3 t?",Qu?n 9
+2,Bán c?n H? Sen H?ng 1pn block B giá 1.1ty s? s?n,39 m² - 1 PN,"1,1 t?",Qu?n Th? ??c
+3,C?n h? t?ng 33 River Gate Q.4  74m2. 2PN 2WC B3302,75 m² - 2 PN,"4,6 t?",Qu?n 4
+4,Gi? hàng 50 c?n CitiEsto -Q2 ?ang giao nhà giá t?t,59 m² - 2 PN,"1,655 t?",Qu?n 2
+5,Bán Richmond 3pn c?n góc view Q1 4.9 t?,86 m² - 3 PN,"4,9 t?",Qu?n Bình Th?nh
+6,H? tr? cho THUÊ  và CHUY?N NH??NG c?n h? 24/7,40 m² - 1 PN,"3,5 tri?u",Qu?n 9
+7,Bán nhà ho?c cho thuê dài h?n 367C bình ?ông P15Q8,54 m² - 4 PN,500 t?,Qu?n 8
+8,"mua nhà Sài Gòn 600tr, c?n 2pn 60m2",60 m² - 2 PN,600 tri?u,Huy?n Bình Chánh
+9,Nhà bán 4x10m giá 1ty100tr 1/???ng v?nh l?c,40 m² - 2 PN,"1,1 t?",Huy?n Bình Chánh
+10,Bán c?n h? cao c?p Vimhomes Landmark 167m2 4PN,167 m² - 4 PN,16 t?,Qu?n Bình Th?nh
+11,C?n h? cao c?p 2PN giáp Phú M? H?ng giá r?,60 m² - 2 PN,2 t?,Huy?n Nhà Bè
+12,G?p! Bán c?n 75m2 h??ng Nam t?ng ??p NThat c? b?n,75.13 m² - 2 PN,"2,65 t?",Qu?n Bình Tân
+13,Ch? bán H?ng Ngân 2PN có s? ban công view cvpm QT,68 m² - 2 PN,"1,9 t?",Qu?n 12
+14,??Ai mu?n VINHOMES gi?m thì ch? ?i nhé .,46 m² - 1 PN,"1,9 t?",Qu?n 9
+15,Chung c? Ehomes Nam Sài Gòn 46m² 1 PN,46 m² - 1 PN,"1,049 t?",Huy?n Bình Chánh
+16,Bán c?n h? cao c?p River Gate c?n góc 95m2 6.2 t?,95 m² - 3 PN,"6,2 t?",Qu?n 4
+17,C?n bán c?n h? River Gate 2PN DT 57m2 view sông,57 m² - 2 PN,"3,98 t?",Qu?n 4
+18,Bán c?n h? 2PN 2WC River Gate view sông t?ng 20,74 m² - 2 PN,"4,75 t?",Qu?n 4
+19,C?n bán g?p c?n h? River Gate 115m2 Full n?i th?t,115 m² - 3 PN,"6,9 t?",Qu?n 4
+0,Bán c?n h? River Gate 3 Phòng ng? 115m2 view sông,115 m² - 3 PN,"7,2 t?",Qu?n 4
+1,Chung c? Chung c? 1050 Chu V?n An 2PN,61.5 m² - 2 PN,"2,6 t?",Qu?n Bình Th?nh
+2,Nh?n nhà ngay Ascent Lakeside qu?n 7 1PN giá C?T,45 m² - 1 PN,"2,4 t?",Qu?n 7
+3,Bán c?n h? ?. Võ V?n Ki?t. Q.8. 72m. Full n?i th?t,72 m² - 2 PN,"2,8 tri?u",Qu?n 8
+4,"K?t ti?n c?n bán c?n h? 2PN , chung c? MorningStar",88 m² - 2 PN,"3,15 t?",Qu?n Bình Th?nh
+5,Chung c? Th?o ?i?n green Thành Ph? Th? ??c,55 m² - 1 PN,"4,5 t?",Qu?n 2
+6,Chung c? Vinhomes Grand Park (Vincity Qu?n 9) 59m²,59 m² - 2 PN,"2,05 t?",Qu?n 9
+7,"Bán 2 officetel Wilton, ?ang cho thuê 30 tr/tháng",36.5 m² - 2 PN,"2,1 t?",Qu?n Bình Th?nh
+8,"C?p nh?y gi? hàng giá g?c C?T c?n h? Ecogreen, q.7",65 m² - 2 PN,"3,3 t?",Qu?n 7
+9,C?n h? The CBD c?n góc 3PN lô A T?ng NT h? tr? Va,80 m² - 3 PN,"3,2 t?",Qu?n 2
+10,Bán c?n h? l? gia 2 phòng ng? qu?n 11,75 m² - 2 PN,"3,2 t?",Qu?n 11
+11,"Bán g?p g?p c?n Emerald, 63m2, N?i th?t c? b?n",63 m² - 2 PN,"3,05 t?",Qu?n Tân Phú
+12,"Em chuyên bán TECCO, gi? hàng ??p, giá r? t? 1,5t?",58 m² - 2 PN,"1,5 t?",Qu?n 12
+13,NHÀ NH? VÕ CÔNG TO B?- 3T?- CÓ NGAY NGÔI NHÀ XINH,35 m² - 2 PN,3 t?,Qu?n Gò V?p
+14,C?N H? CHUNG C? citisoho,61 m² - 2 PN,"2,2 t?",Qu?n 2
+15,"K?t ti?n bán Akari 2PN, 1WC 56m2 full giá 2,17 t?",56 m² - 2 PN,"2,17 t?",Qu?n Bình Tân
+16,Chuy?n nh??ng Officetel Sunrise CityView 32m2 1PQ7,32 m² - 1 PN,"1,65 t?",Qu?n 7
+17,C?n h? chung c? Victoria,60 m² - 2 PN,"1,2 t?",Qu?n 6
+18,Chung c? Saigon South Residences 76m² 2 PN,76 m² - 2 PN,"3,6 t?",Huy?n Nhà Bè
+19,C?n H? Richmond lock Glory 2PN,66 m² - 2 PN,"3,5 t?",Qu?n Bình Th?nh
+0,Bán g?p c?n góc 70m2 VHGP giá r? nh?n nhà ngay,70 m² - 3 PN,"2,5 t?",Qu?n 9
+1,C?N H? WEST GATE ??C TÔN CAO C?P KHU TÂY SÀI GÒN,59 m² - 2 PN,"2,2 t?",Huy?n Bình Chánh
+2,"Bán c?n h? chung c? Topaz Elite 3PN P4, Q8",85 m² - 3 PN,3 t?,Qu?n 8
+3,"Bán cc Hai Thành (K? bên Aeonmall Tên L?a) 1,65t?",52 m² - 2 PN,"1,65 t?",Qu?n Bình Tân
+4,Sang l? c?n h? 2PN Vinhomes Grand Park 47m2,47 m² - 2 PN,"1,271 t?",Qu?n 9
+5,Sang l? 50tr c?n h? VHGP 2PN 47m2 nh?n nhà ? ngay,47 m² - 2 PN,"1,771 t?",Qu?n 9
+6,Chuy?n nh??ng nhanh c?n h? 2PN The Manor giá t?t,80 m² - 2 PN,"3,8 t?",Qu?n Bình Th?nh
+7,C?n h? trung tâm Bình Th?nh giáp Q1-Q3-Phú Nhu?n,54 m² - 2 PN,"2,1 t?",Qu?n Bình Th?nh
+8,C?n H? Chung C? The Harmona Tr??ng Công ??nh 2 PN,68 m² - 2 PN,"3,05 t?",Qu?n Tân Bình
+9,"Emerald Celadon City, 84m2, Nhà m?i 99%",84 m² - 2 PN,"3,8 t?",Qu?n Tân Phú
+10,C?N GÓC CHUNG C? ERA TOWN 65M2 2PN 2WC CHÍNH CH?,65 m² - 2 PN,"1,7 t?",Qu?n 7
+11,C? dân Green Town Bình Tân g?i 49-53-63-68-72-92m2,63.2 m² - 2 PN,"1,63 t?",Qu?n Bình Tân
+12,Chung c? Phú M? H?ng Q7 Boulevard 74m² 3PN,74 m² - 3 PN,"3,1 t?",Qu?n 7
+13,Bán c?n h? Vinhomes - Toà Landmark Plus 110m² 3PN,110.5 m² - 3 PN,"7,6 t?",Qu?n Bình Th?nh
+14,Officetel Sunrise CityView 33m² 1 PN,33 m² - 1 PN,"1,67 t?",Qu?n 7
+15,C?n h? cao c?p qu?n 2 Th?o ?i?n Green,55 m² - 1 PN,6 t?,Qu?n 2
+16,C?n bán Shop House Phú M? H?ng DT 139m2 giá 7 t?,139 m² - 4 PN,7 t?,Qu?n 7
+17,Chính ch? bán c?n h? t?ng 4 chung c? Hai Thành,51 m² - 2 PN,"1,68 t?",Qu?n Bình Tân
+18,"Bán c?n h? cao c?p qu?n 7 67M2 2PN - 2,3 T?",67 m² - 2 PN,"2,3 t?",Qu?n 7
+19,Su?t n?i b? c?n Q7 sg Riverside ký tr?c ti?p C?T,53 m² - 2 PN,"1,92584 t?",Qu?n 7
+0,Chính ch? C?n H? Q7 - 65m2 / 2 PN. S? H?ng.,66 m² - 2 PN,"1,78 t?",Qu?n 7
+1,"bán g?p CHCC Phú M? H?ng,t?ng 2 ch? SJC",70 m² - 2 PN,"3,2 t?",Qu?n 7
+2,C?N 2PN + NT T?I VINHOMES Q9 R? H?N GIÁ G?C 100TR,59 m² - 2 PN,"1,999679 t?",Qu?n 9
+3,R? Hàng Conic Riverside 50m² Qu?n 8 giá bán 1.430,51 m² - 2 PN,"1,48 t?",Qu?n 8
+4,BÁN G?P C?N H? TOPAZ HOME Q9 DT 56.44M2,56.44 m² - 2 PN,"1,335 t?",Qu?n 9
+5,K?t Ti?n Bán Nhanh Duplex 98m2 Full NT M?i ?,98 m² - 3 PN,"4,05 t?",Qu?n Tân Phú
+6,C?N 1PN+ 47M2 T?I VINHOMES Q9 R? H?N GIÁ G?C 100TR,47 m² - 1 PN,"1,7 t?",Qu?n 9
+7,K?t Tài chính c?n chuy?n nh??ng g?p!!,25 m² - 1 PN,"1,4 t?",Qu?n 3
+8,Bán g?p c?n h? 3PN Sunrise city nhà ??p,125 m² - 3 PN,"5,3 t?",Qu?n 7
+9,C?n bán chung c? Phúc Yên 90m2 full n?i th?t,90 m² - 2 PN,"2,8 t?",Qu?n Tân Bình
+10,C?N BÁN FULL C?N H? 1PN THE SUN AVENUE 2.9 T? Q2,58 m² - 1 PN,"2,9 t?",Qu?n 2
+11,Chính ch? g?i bán m?t s? c?n h? Citrine -T? House,72 m² - 2 PN,"2,15 t?",Qu?n 9
+12,"BÁN NHANH C?N H? 1PN 51M2, THE SUN AVENUE, 2,3T?",51 m² - 1 PN,"2,3 t?",Qu?n 2
+13,C?N BÁN 2 PN THE SUN AVENUE Q2 FULL NT TP TH? ??C,57 m² - 2 PN,"3,3 t?",Qu?n 2
+14,"SANG NH???NG T7/2021 PRECIA Q2. C?N ?E?P, GIA TÔ?T",49 m² - 1 PN,"2,607 t?",Qu?n 2
+15,"C?n h? 2PN Orchid Park 76m2 giá 1,750 t? ?ã có s?",76 m² - 2 PN,"1,75 t?",Huy?n Nhà Bè
+16,"Ch? 2780tr, s? h?u cc 65m trung tâm Phú Nhu?n",65 m² - 2 PN,"2,78 t?",Qu?n Phú Nhu?n
+17,Ch? 700tri?u s? h?u c?n h? trung tâm Tây Sài Gòn,59 m² - 2 PN,"2,1 t?",Huy?n Bình Chánh
+18,Bán c?n h? Idico t?ng th?p 2ty370 chính ch?,64 m² - 2 PN,"2,37 t?",Qu?n Tân Phú
+19,M? BÁN ??T M?T C?N H? CAO C?P T?I KHU NAM SÀI GÒN,50 m² - 1 PN,"2,6 t?",Huy?n Nhà Bè
+0,BÁN 3PN GÓC 4.330 T? THE SUN AVENUE Q2 TP THU DUC,90 m² - 3 PN,"4,35 t?",Qu?n 2
+1,Bán c?n h? d? án New City Th? Thiêm Block Hawai2,60.78 m² - 2 PN,"4,9 t?",Qu?n 2
+2,Chung c? Celadon City 83m² 3PN 2WC ? ngay,83 m² - 3 PN,"3,26 t?",Qu?n Tân Phú
+3,S?N NHÀ GIÁ R? MÙA D?CH CENTUM WEALTH THÁNG 6,77 m² - 3 PN,"2,1 t?",Qu?n 9
+4,Bán chung c?,52 m² - 2 PN,"1,75 t?",Qu?n Gò V?p
+5,"CHÍNH CH? BÁN 2 C?N H? VINHOMES Q9, 1PN. 46m2",46 m² - 1 PN,"1,545 t?",Qu?n 9
+6,Chung c? Central q8 3PN giá T?T tr?c ti?p t? C?T,84.4 m² - 3 PN,"4,415642 t?",Qu?n 8
+7,Chung c? C?ng qu?nh Q1 56m² 2 PN,56 m² - 2 PN,"2,6 t?",Qu?n 1
+8,"C?n h? Golview Q4, view siêu ??p, 80m2 giá 4,3 t?",80 m² - 2 PN,"4,3 t?",Qu?n 4
+9,"Chung c? Saigon Riverside Complex Q7 53m² 2PN 1,9",53 m² - 2 PN,"1,95 t?",Qu?n 7
+10,C?n Bán c?n h? ? Trung Tâm Qu?n Bình Th?nh,35 m² - 1 PN,300 tri?u,Qu?n Bình Th?nh
+11,City Garden 117m2 2PN l?u cao view h? b?i giá t?t,117 m² - 2 PN,"7,5 t?",Qu?n Bình Th?nh
+12,"C?n h? 2PN, 76m2, FULL N?I TH?T",76 m² - 2 PN,"3,78 t?",Qu?n 7
+13,"C?n bán Shophouse d? án Q7 Bouevard,139m,giá t?t.",174 m² - 3 PN,12 t?,Qu?n 7
+14,"Him Lam Phu An, full n?i th?t, View ?ông Nam",69 m² - 2 PN,"2,6 t?",Qu?n 9
+15,C?N H? 2PN FULL N?I TH?T VIEW ??P,76 m² - 2 PN,"3,9 t?",Qu?n 7
+16,"BÁN G?P C?N GÓC THE ART GIA HÒA FULL NT, VIEW ??P.",70 m² - 2 PN,3 t?,Qu?n 9
+17,Bán 2PN 1WC Full NT 2.5 t?. C?n H? Richstar,55 m² - 2 PN,"2,5 t?",Qu?n Tân Phú
+18,BÁN NHANH CH THE ART T?NG NGAY NT CÒN R?T M?I.,66 m² - 2 PN,"2,35 t?",Qu?n 9
+19,Sunrise CityView 99m² 3 PN full nh? hình,99 m² - 3 PN,"5,25 t?",Qu?n 7
+0,"Chính ch? c?n bán c?n h? Q7 BOULEVARD, Phú M? H?ng",70.58 m² - 2 PN,"3,21139 t?",Qu?n 7
+1,Chung c? The Flemington 111m² 3PN,111 m² - 3 PN,"6,05 t?",Qu?n 11
+2,"""CHÍNH CH?"" C?N H? 78M2 - GIÁ R? H?N C?T 170 TRI?U",79 m² - 2 PN,"2,7 t?",Qu?n 12
+3,2PN - FULL N?I TH?T NHÀ ??P,65 m² - 2 PN,"3,65 t?",Qu?n 7
+4,Chung c? Qu?n 8 50m² 2PN,50 m² - 2 PN,"1,48 t?",Qu?n 8
+5,Officetel Sunrise CityView 48m² 1 PN,48 m² - 1 PN,"2,4 t?",Qu?n 7
+6,C?n h? 3PN 94m2 Q.Tân Bình,94 m² - 3 PN,"4,2 tri?u",Qu?n Phú Nhu?n
+7,Officetel Qu?n 7 38m² 1 PN,38 m² - 1 PN,"1,7 t?",Qu?n 7
+8,Duplex Celadon City 100m² 4PN,100 m² - 4 PN,"3,95 t?",Qu?n Tân Phú
+9,Chung c? Bình Tân g?n siêu th? Aon,71 m² - 2 PN,"2,85 t?",Qu?n Bình Tân
+10,"M?i có s? 75m² 2PN, t?ng n?i th?t, vay ??n 1.2 t?",75 m² - 2 PN,"1,78 t?",Huy?n Nhà Bè
+11,OFFICETEL 1PN BÁN CÓ S?N H? THUÊ,38 m² - 1 PN,"1,95 t?",Qu?n 7
+12,??Vinhome ?ã l?p m?t b?ng giá m?i khi có s?,47 m² - 1 PN,"1,93 t?",Qu?n 9
+13,Chung c? Gò D?u 2 58.6m² 2PN S? H?ng lâu dài,58.6 m² - 2 PN,"1,75 t?",Qu?n Tân Phú
+14,C?n h? Masteri Centre Point phong cách 5 sao SG,70 m² - 2 PN,"4,2 t?",Qu?n 9
+15,Bán c?n h? 2pn full n?i th?t CC Gia Hoà PLB Q9,66 m² - 2 PN,"2,35 t?",Qu?n 9
+16,"C?n góc 1,8 t? (bao h?t) có th??ng l??ng - SHR",75 m² - 2 PN,"1,8 t?",Huy?n Nhà Bè
+17,"Th?t 100%, c?n h? 42m2 Saigon Mia, giá ch? 1,8 T?",42 m² - 1 PN,"1,8 t?",Huy?n Bình Chánh
+18,Officetel Qu?n 7 38m² 1 PN full có s?n H? thuê,38 m² - 1 PN,"1,75 t?",Qu?n 7
+19,"C?n ch?t c?n 1PN Ehome 3, giá 1.39 t? nhà tr?ng",50 m² - 1 PN,"1,39 t?",Qu?n Bình Tân
+0,Chính ch? bán g?p c?n 2pn giá 2ty25 bao thu? phí,66 m² - 2 PN,"2,25 t?",Qu?n 7
+1,Bán g?p c?n 2pn ??y ?? n?i th?t Bank h? tr? 1 t?,58 m² - 2 PN,"1,65 t?",Qu?n 12
+2,"C?n h? The Art Gia Hoà, 2 phòng ng?, 2WC",66 m² - 2 PN,"2,37 t?",Qu?n 9
+3,"C?n h? Copac qu?n 4 90m view sát sông SG, s? h?ng",90 m² - 2 PN,"2,95 t?",Qu?n 4
+4,Bán c.h? Khu Th??ng M?i Ch? L?n F 2 Qu?n 6 giáp Q5,90 m² - 3 PN,"3,8 t?",Qu?n 6
+5,khách k?t ti?n do d?ch bán l? c?n 1pn giá 1ty8,53 m² - 1 PN,"1,8 t?",Qu?n 7
+6,Bán G?p C?n Có S? 2pn giá 1ty7 Bank h? tr? 1 t?,58 m² - 2 PN,"1,7 t?",Qu?n 12
+7,Gia ?ình chuy?n n?i ? nên bán 54m2 Full n?i th?t,55 m² - 2 PN,2 t?,Qu?n 9
+8,"C?n H? C?n Bán 71m2 Celadon City 2PN, 2WC GIÁ T?T.",71 m² - 2 PN,"3,35 t?",Qu?n Tân Phú
+9,I - Park An S??ng 900 Tri?u S? H?u Ngay Hôm Nay.,78 m² - 2 PN,"2,6 t?",Qu?n 12
+10,Bán G?P c?n h? New City Q.2 view Q1 + view Vinhome,75 m² - 2 PN,"4,75 t?",Qu?n 2
+11,Gi? hàng ??c quy?n 121m2 t? Nam Long CK ngay 5%,121 m² - 3 PN,"3,6 t?",Qu?n Bình Tân
+12,Bán c?n h? Dream Home Q.8 bàn giao nhà hoàn thi?n,56 m² - 2 PN,"1,5 t?",Qu?n 8
+13,"Bán c?n h? IDICO Tân Phú, 64m2 2PN Full n?i th?t",64 m² - 2 PN,"2,35 t?",Qu?n Tân Phú
+14,"C?n h? Akari City chu?n b? giao nhà,h??ng Nam mát",56 m² - 2 PN,"2,1 t?",Qu?n Bình Tân
+15,G?p C?n bán chcc vinhomes grand park 2.040 t? 2pn,59 m² - 2 PN,"2,04 tri?u",Qu?n 9
+16,C?n H? Cao C?p Giá R? Q.8,63 m² - 2 PN,"2,2 t?",Qu?n 8
+17,"Bán c?n 50m2, 2 phòng ng?, khu ?ô th? Mizuki Park",50 m² - 2 PN,"1,69 t?",Huy?n Bình Chánh
+18,"Phòng tr? cho thuê 18tr/ tháng, 15 phòng 610tr",210 m² - nhi?u h?n 10 PN,790 tri?u,Qu?n Th? ??c
+19,"Chính Ch? Bán C?n H? 3PN, 2WC, MT Nguy?n V?n Quá",80 m² - 3 PN,"1,78 t?",Qu?n 12
+0,R? hàng tháng 7 GIÁ T?T - Central Premium Qu?n 8,36 m² - 1 PN,"1,9 t?",Qu?n 8
+1,Còn 1 c?n H??ng Nam 75m2 l?u ?ep giá ??p ?? ??u t?,75 m² - 2 PN,"2,62 t?",Qu?n Bình Tân
+2,Chính ch? bán c?n 50m2 2PN 2WC,50 m² - 2 PN,"1,5 t?",Huy?n Bình Chánh
+3,( Hàng Hi?m ) Bán c?n chung c? 3PN richstar 3.450T,86 m² - 3 PN,"3,45 t?",Qu?n Tân Phú
+4,"??Bán g?p c?n h? Quang Thái 2PN giá r?, có s? h?ng",63 m² - 2 PN,"1,95 t?",Qu?n Tân Phú
+5,C?n Ti?n Bán C?n 2PN 70m² Saigonhomes View HL2,70 m² - 2 PN,"1,85 t?",Qu?n Bình Tân
+6,"Chính ch? c?n bán c?n CitiAto, 2pn 2wc, giá g?c",55 m² - 2 PN,"1,69 t?",Qu?n 2
+7,"Bán c?n h? Emerald 71 m2-nhà m?i, có n?i th?t",71 m² - 2 PN,"3,15 t?",Qu?n Tân Phú
+8,Chung c? The Mansion 83m² 2PN 2WC- Có SHR,83 m² - 2 PN,"1,9 t?",Huy?n Bình Chánh
+9,Gia ?ình c?n bán 84m2 r?ng nh?t 2pn phù h?p ?? ?.,84 m² - 2 PN,"2,875 t?",Qu?n Bình Tân
+10,Chung c? Lovera Vista 65m² 2PN,65 m² - 2 PN,"2,1 t?",Huy?n Bình Chánh
+11,Kinh Doanh tr? V?n 250 tri?u - thu nh?p 6Tr/ thang,1000 m² - 1 PN,250 tri?u,Qu?n 2
+12,C?n h? Sunrise riverside Novaland 70m2 view sông,70 m² - 2 PN,"2,9 t?",Huy?n Nhà Bè
+13,"Bán c?n Akari City 2PN, 75M2 ,Võ V?n Ki?t k? Q5",75 m² - 2 PN,"2,59 tri?u",Qu?n Bình Tân
+14,?C?n bán chung c? D??I 2 t? giá t?t t?i Tân Phú,69 m² - 2 PN,"1,45 t?",Qu?n Tân Phú
+15,C?N BÁN CHCC EMERALD T.PHÚ C?N GÓC 74M2 BY WINDOW,74 m² - 2 PN,"3,23 t?",Qu?n Tân Phú
+16,Còn 1 c?n duy nh?t 56 giá 2170 View n?i khu,56 m² - 2 PN,"2,15 t?",Qu?n Bình Tân
+17,"Bán c?n Lexington, dt 82m2 full NT. Giá 3,7 t?",82 m² - 2 PN,"3,7 t?",Qu?n 2
+18,?? ??U T? NHÀ TR? V?I V?N 500TR - THU V? 12TR/THAG,100 m² - 1 PN,250 tri?u,Qu?n 2
+19,"Giá bán Feliz 1PN: 3.59 t?, 2PN: 5.3 t?, 3PN: 6.8t",85 m² - 2 PN,"5,3 t?",Qu?n 2
+0,"Bán nhanh CH Akari city 56m2, 2.3 full sang nh??ng",56 m² - 2 PN,"2,3 t?",Qu?n Bình Tân
+1,"Bán c?n h? Richstar 91 m2 -3PN nhà m?i, t?ng cao",91 m² - 3 PN,"3,45 t?",Qu?n Tân Phú
+2,C?n h? Masteri Centre Point 77m2 2PN TP Th? ??c,77 m² - 2 PN,50 tri?u,Qu?n 9
+3,"C?n h? MT QL13, TT 20% nh?n nhà, giá ch? 27TR/M2",67 m² - 2 PN,540 tri?u,Qu?n Th? ??c
+4,GIÁ C?C T?T Bán c?n h? t?ng cao Millennium qu?n 4,56 m² - 1 PN,"3,8 t?",Qu?n 4
+5,Bán c?n A6.6.08 Diamond Alnata Plus Celadon City,88.8 m² - 2 PN,"5,185 t?",Qu?n Tân Phú
+6,C?N BÁN C?N PALM 2PN 85M2- C?N GÓC- FULL NT 4.6 T?,85 m² - 2 PN,"4,6 t?",Qu?n 2
+7,C?n h? WEST-GATE - ?ã có GPXD - giá ?u ?ãi,59 m² - 2 PN,"2,1 t?",Huy?n Bình Chánh
+8,"C?n h? belleza phú m? qu?n 7, 2pn, 80m, s? h?ng",80 m² - 2 PN,"2,5 t?",Qu?n 7
+9,HÀNG TH?T 100%: 2PN view ?ông Nam C?c mát ch? 2ty3,100 m² - 2 PN,"2,3 t?",Huy?n Nhà Bè
+10,Bán C?n h? cao c?p Sapphire 2 - SaiGon Pearl,92 m² - 2 PN,"5,35 t?",Qu?n Bình Th?nh
+11,"K?t ti?n bán c?n h? Akari 75m2, 2pn,2wc, giá t?t",75 m² - 2 PN,"2,65 t?",Qu?n Bình Tân
+12,Chính ch? c?n bán g?p c?n 2PN t?ng 10 full nt,57.6 m² - 2 PN,"5,59 t?",Qu?n 3
+13,MUA C?N H? GIÁ G?C C?T TT Q2. QUÀ T?NG 370 TRI?U.,101 m² - 3 PN,"1,8 t?",Qu?n 2
+14,CHÍNH CH? BÁN C?N H? 50M2 GIÁ 1TY42 BAO THU? PHÍ,50 m² - 2 PN,"1,42 t?",Huy?n Bình Chánh
+15,"Không ?? kh? n?ng tr? lãi ngân hàng, c?n bán g?p c",70 m² - 2 PN,3 t?,Qu?n 9
+16,"C?N H? NH?T SHR VIEW BI?N, TT 280TR NH?N NHÀ.",45 m² - 1 PN,280 tri?u,Qu?n 1
+17,Chính ch? bán c?n 96m2 Diamond brilliant Celadon,96 m² - 2 PN,"4,9 t?",Qu?n Tân Phú
+18,"C?n h? chung c? An S??ng, F.Tân H?ng Thu?n, Q.12",52 m² - 1 PN,"1,399 t?",Qu?n 12
+19,"S?p bán c?n h? Celesta Height, c?n nh?, view ??p",50 m² - 2 PN,55 tri?u,Huy?n Nhà Bè
+0,"BÁN NHANH C?N 2PN VIEW ??M SEN 2,5 T? BAO H?T",66 m² - 2 PN,"2,4 t?",Qu?n Tân Phú
+1,Chung c? TaniBuilding S?n K? 1 64m² 2PN SHR,64 m² - 2 PN,2 t?,Qu?n Tân Phú
+2,Shophouse v? trí ??p t?i Diamond Riverside Q.8,165 m² - 2 PN,"7,5 t?",Qu?n 8
+3,Duplex Emerald 127m² 3PN 3WC Ban công r?ng Giá T?t,127 m² - 3 PN,"4,55 t?",Qu?n Tân Phú
+4,BÁN G?P CH HIM LAM PHÚ AN FULL NT GIÁ 2.9 T?.,70 m² - 2 PN,"2,9 t?",Qu?n 9
+5,"Bán c?n h? Mizuki mp6.7.8, 0% Ls, ch? c?n 340tr",78 m² - 2 PN,"3,3 t?",Huy?n Bình Chánh
+6,Siêu ph?m Celesta heights 10 su?t n?i b? t? C?T,50 m² - 1 PN,"2,3 t?",Huy?n Nhà Bè
+7,Ba?n c?n hô? Prosper 1ty750,50 m² - 2 PN,"1,9 t?",Qu?n 12
+8,BÁN G?P C?N H? CAO C?P TRONG KHU PHÚ M? H?NG Q7,57 m² - 2 PN,"2,1 t?",Qu?n 7
+9,"Sky Center Ph? Quang, 36m2 1.8 t?, 42m2 2.1t?,",36 m² - 1 PN,"1,8 t?",Qu?n Tân Bình
+10,C?n h? Q7 SÀi Gòn Riverside Complex 54m² 1PN,54 m² - 1 PN,"1,95 t?",Qu?n 7
+11,C?n h? The Botanica 57m² 2PN,57 m² - 2 PN,"3,32 t?",Qu?n Tân Bình
+12,Hãy quy?t ??nh mua nha ngay trong khi ch? có 600tr,49 m² - 1 PN,2 t?,Qu?n 12
+13,bán g?p c?n h? h?ng ngân- 1pn-1wc-50 mét,50 m² - 1 PN,"1,4 t?",Qu?n 12
+14,C?n H? 55m2 TT 280tr Nh?n Nhà. Trã góp 20 N?m,55 m² - 2 PN,"1,4 t?",Qu?n Th? ??c
+15,C?n h? Masteri Centre Point 70m2 2PN ch? 0 ??ng,70 m² - 2 PN,"3,9 tri?u",Qu?n 9
+16,"C?n bán Scenic Valley 2 ,72m2, 2 PN ,Phú M? H?ng",72 m² - 2 PN,"3,799 t?",Qu?n 7
+17,"3PN ALNATA VIEW ?ÔNG B?C MÁT M?, KO CÓ GIÁ T?T H?N",117 m² - 3 PN,"5,77 t?",Qu?n Tân Phú
+18,Chung c? KDC V?nh L?c D'Gold 38m² 1PN,38 m² - 1 PN,760 tri?u,Huy?n Bình Chánh
+19,"C?n h? cao c?p Q7 3 m?t view sông 2PN giá 2,3 t?",66.66 m² - 2 PN,"2,3 t?",Qu?n 7
+0,"BÁN DUPLEX PHÚ, 160M2 NHÀ DECOR VIEW THOÁNG 3T?5",160 m² - 2 PN,"3,5 tri?u",Huy?n Nhà Bè
+1,Chung c? D? Án Vinhomes Grand Park Qu?n 9,30 m² - 1 PN,50 tri?u,Qu?n 9
+2,"BÁN G?P 2PHÒNG 88M2,GIÁ:2T?450,VIEW THOÁNG MÁT",88 m² - 2 PN,"2,45 t?",Huy?n Nhà Bè
+3,"BÁN DUPLEX PHA,GIÁ 4T?3,NHÀ DECOR HI?N ??I",240 m² - 4 PN,"4,3 t?",Huy?n Nhà Bè
+4,Su?t n?i b? 2Pn 71m2 giá g?c C?T nh?n nhà ngay T7,71.14 m² - 2 PN,"3,37 tri?u",Qu?n 6
+5,C?n h? Saigon Asiana 65m² 2PN Giá g?c C?T 3.1 t?,65 m² - 2 PN,"3,1 t?",Qu?n 6
+6,Chính ch? c?n bán g?p c?n h? 2pn chung c? Bàu Cát,68 m² - 2 PN,"2,5 t?",Qu?n Tân Bình
+7,C?n h? Q7 Boulevard 2PN 69.7m2 ký tr?c ti?p C?T,69.7 m² - 2 PN,"3,167865 t?",Qu?n 7
+8,??Lo l?ng vì giá s?t thép t?ng nên ??i g?p,63 m² - 1 PN,"2,3 t?",Qu?n 9
+9,C?n góc ??p homyland3,99 m² - 3 PN,"6,5 t?",Qu?n 2
+10,"K?T TI?N BÁN L? 100TR  C?N H? LUMIE RIVERS,T?NG 27",52 m² - 1 PN,"5,4 t?",Qu?n 2
+11,Bán c?n h? 73m2 chung c?  21/12 Lê Tr?c,73 m² - 2 PN,"3,7 t?",Qu?n Bình Th?nh
+12,"BÁN C?N H? TH? ??C 68M2 CH? 1,5 T?",68 m² - 2 PN,"1,5 t?",Qu?n Th? ??c
+13,C?n H? 2PN West Gate ch? 15% T?ng 10-15 vàng,60 m² - 2 PN,"2,05 t?",Huy?n Bình Chánh
+14,"Bán G?p C?n 1PN 48m2 Saigonhome Bình Tân, View HL",48 m² - 1 PN,"1,48 t?",Qu?n Bình Tân
+15,C?n h? Saigonres Plaza 71m² 2PN full n?i th?t lô A,71 m² - 2 PN,3 t?,Qu?n Bình Th?nh
+16,"Jamona Heights 1PN 2PN 3PN - 2 t?,Cam K?t Giá t?t",76 m² - 2 PN,"2,15 t?",Qu?n 7
+17,"C?n 56m2, 2PN Akari City Võ V?n Ki?t, Ki?u Nh?t",56 m² - 2 PN,"2,25 t?",Qu?n Bình Tân
+18,CH.Richstar 65m2 View ??m sen - giá t?t mùa d?ch,65 m² - 2 PN,"3,05 t?",Qu?n Tân Phú
+19,C?n h? m?t ti?n Nguy?n V?n Linh 660 tri?u,59 m² - 2 PN,660 tri?u,Huy?n Bình Chánh
+0,"BÁN C?N H? V?A NH?N NHÀ THÁNG 7, 69M2, 2PN. 2WC",69 m² - 2 PN,"2,754642 t?",Huy?n Bình Chánh
+1,Bán c?n h? Oriental Plaza - 3PN 106m2 view n?i khu,106 m² - 3 PN,"3,5 t?",Qu?n Tân Phú
+2,"Bán c?n h? 2PN 72m2 chung c? Green River P6, Q8",72 m² - 2 PN,"1,9 t?",Qu?n 8
+3,Chung c? cao ?c H2-Hoàng Di?u Q4 1PN,41 m² - 1 PN,"2,5 t?",Qu?n 4
+4,"TÌM CH? M?I C?N H? 62M2, 2PN, 2WC  S?P NH?N NHÀ Q8",62 m² - 2 PN,"1,7 t?",Qu?n 8
+5,Bán c?n h? cao c?p 2PN t?i chung c? Citizen - BC,83 m² - 2 PN,"2,75 t?",Huy?n Bình Chánh
+6,Chung c? 2PN full N?i Th?t ??t 1 375tr góp ti?n ??,59 m² - 2 PN,750 tri?u,Qu?n 8
+7,"Bán c?n h? CC City Gate P16,Q8 - C?n góc",73 m² - 2 PN,"2,35 t?",Qu?n 8
+8,Bán c?n h? LOVERA VISTA,82 m² - 3 PN,"2,8 t?",Huy?n Bình Chánh
+9,Chung c? Qu?n Phú Nhu?n 70m² 2 PN 1WC,70 m² - 2 PN,"3,35 t?",Qu?n Phú Nhu?n
+10,"C?n H? hàng hi?u Marriott, Grand Marina Saigon",63 m² - 1 PN,22 t?,Qu?n 1
+11,C?n h? Chung c? safira Khang ?i?n 50m2 ?ã ra s?,50 m² - 1 PN,"2,15 t?",Qu?n 9
+12,CH Dream Home 62m2 giá chênh l?ch th?p,62 m² - 2 PN,"1,6 t?",Qu?n 8
+13,CHÍNH CH? C?n Bán c?n 1pn+1 VHGP sát giá g?c,46 m² - 1 PN,"2,1 t?",Qu?n 9
+14,"Cho thuê Carillon 7 77m2, Full n?i th?t, giá 11tr",77 m² - 2 PN,11 tri?u,Qu?n Tân Phú
+15,0-700tr s? h?u C?n H? Masteri Centre Point Q9,50 m² - 2 PN,"3,2 t?",Qu?n 9
+16,Saigon Riverside Complex Q7 - 1PN - 40tr/m2,53.2 m² - 1 PN,"1,4 t?",Qu?n 7
+17,Chính ch? k?t ti?n bán g?p c?n 2PN Q7 SaigonRiver,67 m² - 2 PN,"2,3 t?",Qu?n 7
+18,G?P-Kingdom101 bán 2pn 72m2 full n?i th?t 5ty600,2 PN,"5,6 t?",Qu?n 10
+19,CHUNG C? A4 PHAN XÍCH LONG  41m2,41 m² - 1 PN,"2,15 t?",Qu?n Phú Nhu?n
+0,"C?n h? sân tennis trên cao, trung tâm Tây Sài Gòn",85 m² - 3 PN,980 tri?u,Huy?n Bình Chánh
+1,Lavita Charm - 3PN - 42tr/m2,90 m² - 3 PN,"3,85 t?",Qu?n Th? ??c
+2,"C?n h? 2PN View bi?n,h??ng ?N tr? ch?m 3 n?m",96 m² - 2 PN,"7,4 t?",Qu?n Tân Phú
+3,Chung c? 8x ??m Sen 47m² 1 PN,47 m² - 1 PN,"1,38 t?",Qu?n Tân Phú
+4,Q7 Boulevard - 2PN - 43tr/m2 - T/T 75% nh?n nhà,69.5 m² - 2 PN,"2,99 t?",Qu?n 7
+5,C?n h? 2PN 71m2 Full n?i th?t block A view ??p,71 m² - 2 PN,3 t?,Qu?n Bình Th?nh
+6,C?n h? Saigonres Plaza 77m² 2PN full n?i th?t,77 m² - 2 PN,"3,2 t?",Qu?n Bình Th?nh
+7,Chính ch? k?t bán nhanh c?n h? 2PN 60m2 topaz Q9,60 m² - 2 PN,"1,713 t?",Qu?n 9
+8,Chung c? Qu?n 12 65m² 2PN,65 m² - 2 PN,"1,6 t?",Qu?n 12
+9,"nhà h?m thoáng mát, cách ???ng l?n 7m, g?n ch?",39 m² - 2 PN,"2,5 t?",Qu?n 8
+10,C?n h? cao c?p - ?u ?ãi ch?a t?ng có,59 m² - 2 PN,"2,36 t?",Huy?n Bình Chánh
+11,"C?n 3pn full n?i th?t cao c?p,giá t?t hi?n t?i",95 m² - 3 PN,"3,4 t?",Qu?n 7
+12,600TR s? h?u C?n h? Qu?n 9 Nh?n nhà Tháng 6,58 m² - 1 PN,"1,95 t?",Qu?n 9
+13,"C?n h? ? ngay Q9 Him Lam Phú An 2PN-2WC 69m2, 2ty9",69 m² - 2 PN,"2,9 t?",Qu?n 9
+14,Chung c? PICITY HIGH PARK 57m2 2pn1wc,57 m² - 2 PN,"2,1 t?",Qu?n 12
+15,C?n h? 59m² 4 m?t ti?n ???ng khu Tây,59 m² - 2 PN,"2,3 t?",Huy?n Bình Chánh
+16,Chung c? Vinhomes Qu?n 9) Studio 30m² Giá t?t,30 m² - 1 PN,"1,28 t?",Qu?n 9
+17,Chung c? M?t ti?n Nguy?n V?n Linh,70 m² - 2 PN,"2,8 t?",Huy?n Bình Chánh
+18,Tài chính bé có ngay h? kh?u B?n Nghé,12 m² - 1 PN,"2,9 t?",Qu?n 1
+19,C?n 3PN - Emerald Celadon City - full NT view ??p,104.5 m² - 3 PN,"4,7 t?",Qu?n Tân Phú
+0,Chung c? WESTGATE 70m² 2 PN,70 m² - 2 PN,840 tri?u,Huy?n Bình Chánh
+1,"Tô Ký Tower Q12, nhà m?i có s?, 51 - 75m2 1Ty700",51 m² - 2 PN,"1,7 t?",Qu?n 12
+2,"Chuyên trách bán Jamona Heights , Giá t?t và ??p",75 m² - 2 PN,"2,65 t?",Qu?n 7
+3,Chung c? Dream Home Residence 53m² 2PN,53 m² - 2 PN,"1,9 t?",Qu?n Gò V?p
+4,"C?n h? TP. Th? ??c Dt 65m2 giá 2,9 t? nh?n ? ngay",65 m² - 2 PN,"2,9 t?",Qu?n Th? ??c
+5,"NG?P COVID: C?n 3PN- V? trí ??p - Full N?i TH?t,",92 m² - 3 PN,"3,63 t?",Qu?n Tân Phú
+6,Chính ch? bán nhanh c?n Duplex shophouse 2 t?ng,112 m² - 3 PN,"3,8 t?",Qu?n 9
+7,"C?n hô cao c?p Saigonhomes - Bình Tân, 70m2, 2PN",70 m² - 2 PN,"1,97 t?",Qu?n Bình Tân
+8,Duplex 4Pn 152m Emerald View H? Sinh Thái ?ông Nam,152 m² - 4 PN,"6,4 t?",Qu?n Tân Phú
+9,"C?n h? Bellaza, 80m, 2pn, 2wc. ?ã có s?| Giá 2ty5.",80 m² - 2 PN,"2,5 t?",Qu?n 7
+10,"C?n góc 2 PN - DT l?n  Nhà tr?ng, View Công Viên",86.3 m² - 2 PN,"3,9 t?",Qu?n Tân Phú
+11,T T 200tr mi?n lãi su?t 0% 18th c? h?i ??u t? FO,47 m² - 2 PN,"1,1 t?",Qu?n Th? ??c
+12,CHCC Lavita Charm ngã 4 Bình Thái ch? 2t?930 68m2,68 m² - 2 PN,"2,93 t?",Qu?n Th? ??c
+13,Bán nhanh c?n h? 83m² 2PN SADORA (Th? Thiêm),83 m² - 2 PN,"6,2 t?",Qu?n 2
+14,"Chung c? Qu?n Bình Tân 75m² 2PN, C?n H? ki?u Nh?t",75 m² - 2 PN,"2,6 tri?u",Qu?n Bình Tân
+15,"C?n h? Richstar Novaland, 53m2, 2PN - 2.450 t? BH",53 m² - 2 PN,"2,4 t?",Qu?n Tân Phú
+16,C?n bán chung c? Sunrise Central 2pn 76m2 3.6X t?,76 m² - 2 PN,"3,69 t?",Qu?n 7
+17,"C?n h? Lavida Plus 75m² view sông giá 2,850 t?",75 m² - 2 PN,"2,85 t?",Qu?n 7
+18,C?n bán nhanh c?n h? sunrise city 2pn view ?ông,76 m² - 2 PN,"3,8 t?",Qu?n 7
+19,C? h?i an c? v?i c?n h? Dream Home Qu?n 8 giá t?t,56 m² - 2 PN,"1,5 t?",Qu?n 8
+0,C?n h? Diamond Riverside - City Gate 2 và Gate 3,72 m² - 2 PN,"1,97 t?",Qu?n 8
+1,C?n H? HT PEARL G?n Metro S? 1 2PN Ch?T? 540 Tri?u,55.62 m² - 2 PN,"1,8 t?",Qu?n Th? ??c
+2,c?n bán c?n h? tara residence trung tâm q8 28tr/m2,90 m² - 3 PN,"2,65 t?",Qu?n 8
+3,Chung c? Botanica Premier 35m² 1 PN GIÁ T?T,35 m² - 1 PN,"2,2 t?",Qu?n Tân Bình
+4,Ket ti?n bán g?p 2PN view h? b?i giá 1.78 t? !,58 m² - 2 PN,"1,78 t?",Huy?n Nhà Bè
+5,D? án c?n h? City Gate 5 giá h?n 1 t?,55 m² - 2 PN,"1,65 t?",Qu?n 8
+6,Condo Villa-Chu?n m?c s?ng v??ng gi? t?i Sài gòn,300 m² - 2 PN,25 t?,Qu?n Tân Phú
+7,C?n bán Prosper Plaza s? h?ng DT65m2 giá 2.15 t?,65 m² - 2 PN,"2,15 t?",Qu?n 12
+8,Chung c? 61m² 2PN 2wc Th? ??c H? tr? vay 70%,61 m² - 2 PN,"1,69 t?",Qu?n Th? ??c
+9,bán c?n h? ThePegaSuite 69m 2PN 2W nhà tr?ng,69 m² - 2 PN,"2,6 t?",Qu?n 8
+10,Chung c? Lavita Charm 51m² 1PN d?ng officetel,51 m² - 1 PN,"1,6 t?",Qu?n Th? ??c
+11,C/kh?u ngay 370 TRI?U khi mua c/H? Precia 3PN Q.2,101 m² - 3 PN,"5,97 t?",Qu?n 2
+12,"Bán c?n 1PN, 50 ti?n ích n?i khu, t?ng trung, ??p",53 m² - 1 PN,"1,9 t?",Qu?n 7
+13,bán c?n h? tara residence 68m 2pn 2wc nhà m?i,68 m² - 2 PN,"2,1 t?",Qu?n 8
+14,"Bán C?n h? D'Lusso Q2 chênh th?p, 3.64 t? 2PN 69m2",68 m² - 2 PN,"3,64 t?",Qu?n 2
+15,C?n H? C?nh Aeon Mall Bình Tân 45m2 -1PN,45 m² - 1 PN,"1,15 t?",Qu?n Bình Tân
+16,DA Th?o ?i?n Green,89 m² - 1 PN,80 tri?u,Qu?n 2
+17,C?n h? Qu?n 12 57m² 2PN,57 m² - 2 PN,"2,4 t?",Qu?n 12
+18,CITRINE QU?N 9 GIÁ T?T 2PN-2.1T? BAO PHÍ NHÀ M?I,68 m² - 2 PN,2 t?,Qu?n 9
+19,C?n H? Resort PI CITY thanh toán 720tr(30%) s? h?u,57 m² - 2 PN,"2,4 t?",Qu?n 12
+0,C?n h? Diamond Riverside - City Gate 2 và Gate 3,72 m² - 2 PN,"1,97 t?",Qu?n 8
+1,C?n H? HT PEARL G?n Metro S? 1 2PN Ch?T? 540 Tri?u,55.62 m² - 2 PN,"1,8 t?",Qu?n Th? ??c
+2,c?n bán c?n h? tara residence trung tâm q8 28tr/m2,90 m² - 3 PN,"2,65 t?",Qu?n 8
+3,Chung c? Botanica Premier 35m² 1 PN GIÁ T?T,35 m² - 1 PN,"2,2 t?",Qu?n Tân Bình
+4,Ket ti?n bán g?p 2PN view h? b?i giá 1.78 t? !,58 m² - 2 PN,"1,78 t?",Huy?n Nhà Bè
+5,D? án c?n h? City Gate 5 giá h?n 1 t?,55 m² - 2 PN,"1,65 t?",Qu?n 8
+6,Condo Villa-Chu?n m?c s?ng v??ng gi? t?i Sài gòn,300 m² - 2 PN,25 t?,Qu?n Tân Phú
+7,C?n bán Prosper Plaza s? h?ng DT65m2 giá 2.15 t?,65 m² - 2 PN,"2,15 t?",Qu?n 12
+8,Chung c? 61m² 2PN 2wc Th? ??c H? tr? vay 70%,61 m² - 2 PN,"1,69 t?",Qu?n Th? ??c
+9,bán c?n h? ThePegaSuite 69m 2PN 2W nhà tr?ng,69 m² - 2 PN,"2,6 t?",Qu?n 8
+10,Chung c? Lavita Charm 51m² 1PN d?ng officetel,51 m² - 1 PN,"1,6 t?",Qu?n Th? ??c
+11,C/kh?u ngay 370 TRI?U khi mua c/H? Precia 3PN Q.2,101 m² - 3 PN,"5,97 t?",Qu?n 2
+12,"Bán c?n 1PN, 50 ti?n ích n?i khu, t?ng trung, ??p",53 m² - 1 PN,"1,9 t?",Qu?n 7
+13,bán c?n h? tara residence 68m 2pn 2wc nhà m?i,68 m² - 2 PN,"2,1 t?",Qu?n 8
+14,"Bán C?n h? D'Lusso Q2 chênh th?p, 3.64 t? 2PN 69m2",68 m² - 2 PN,"3,64 t?",Qu?n 2
+15,C?n H? C?nh Aeon Mall Bình Tân 45m2 -1PN,45 m² - 1 PN,"1,15 t?",Qu?n Bình Tân
+16,DA Th?o ?i?n Green,89 m² - 1 PN,80 tri?u,Qu?n 2
+17,C?n h? Qu?n 12 57m² 2PN,57 m² - 2 PN,"2,4 t?",Qu?n 12
+18,CITRINE QU?N 9 GIÁ T?T 2PN-2.1T? BAO PHÍ NHÀ M?I,68 m² - 2 PN,2 t?,Qu?n 9
+19,C?n H? Resort PI CITY thanh toán 720tr(30%) s? h?u,57 m² - 2 PN,"2,4 t?",Qu?n 12
+0,C?n H? Resort PI CITY thanh toán 720tr(30%) s? h?u,57 m² - 2 PN,"2,4 t?",Qu?n 12
+1,Chung c? Ph?m V?n ??ng Thành ph? Th? ??c 75m² 2PN,75 m² - 2 PN,"2,5 t?",Qu?n Th? ??c
+2,Bán chung c? Prosper Plaza ?Ã CÓ S? H?NG,65 m² - 2 PN,"2,3 t?",Qu?n 12
+3,"T?ng n?i th?t - ?ã có s? - 75m2 Giá 1,820 t? có TL",75 m² - 2 PN,"1,82 t?",Huy?n Nhà Bè
+4,Chung c? Lotus Sen H?ng ( Violet Tower ) 52m² 2 PN,52 m² - 2 PN,"1,6 t?",Qu?n Th? ??c
+5,"C?n h? 2 phòng ng? 46m2 chung c? Hà Ki?u, Gò V?p",46 m² - 2 PN,"1,85 t?",Qu?n Gò V?p
+6,Chính ch? bán l? c?n h? Ecogreen Sài Gòn giá r?,69.96 m² - 2 PN,"3,98 t?",Qu?n 7
+7,I Park An S??ng Qu?n 12 80m2 3 Phòng Ng? 900 Tri?u,80 m² - 3 PN,"2,6 t?",Qu?n 12
+8,"MÌNH C?N BÁN CHUNG C? VIEW PH?M V?N ??NG,BÌNHTHANH",60 m² - 3 PN,"2,1 t?",Qu?n Bình Th?nh
+9,C?N H? 109M2 3 PHÒNG NG? - N?I TH?T NH? HÌNH,109 m² - 3 PN,"5,7 t?",Qu?n 2
+10,BÁN C?N H? 2 PHÒNG NG? - 56M2 VIEW ?ÔNG NAM ??P,56 m² - 2 PN,"3,3 t?",Qu?n 2
+11,Chung c? Vinhomes Central Park 156m² 4PN,156 m² - 4 PN,13 t?,Qu?n Bình Th?nh
+12,CHUNG C? THANH TOÁN 589TR VÀO ?. FULL N?I TH?T ??C,59 m² - 2 PN,"1,8 t?",Huy?n Bình Chánh
+13,"Giá mùa d?ch-bán 2PN Kingdom101-Q10, 73m2, 4.8t?",73 m² - 2 PN,"4,8 t?",Qu?n 10
+14,"CHÍNH CH? BÁN C?N H? 58.1M2,  GIÁ 1.4T?, bao phí",58 m² - 2 PN,"1,4 t?",Qu?n 9
+15,"C?n H? 2PN Galaxy 9 65m² 3,65 t?, Full NT, Giáp Q1",65 m² - 2 PN,"3,65 t?",Qu?n 4
+16,Thi?u n? Bán g?p c?n Q7 RVS  54m² 2PN giá 1.78 t?,54 m² - 2 PN,"1,78 t?",Qu?n 7
+17,C?n Bán g?p,97 m² - 2 PN,"2,4 t?",Qu?n Bình Tân
+18,Bán g?p c?n Duplex 127m2- 3PN-3WC chung c? Emerald,127 m² - 3 PN,"4,35 t?",Qu?n Tân Phú
+19,Bán Chung c? Vinhomes Central Park 80m² 2PN 4.5 T?,80 m² - 2 PN,"4,5 t?",Qu?n Bình Th?nh
+0,"C?N H? MINI QU?N 3 GIÁ R?, T?NG GÓI FULL N?I TH?T",39 m² - 1 PN,"1,1 t?",Qu?n 3
+1,"C?n H? Xinh 80m2, Ngay TT, View Bitexco, 3,4 t?",80.88 m² - 2 PN,"3,4 t?",Qu?n 4
+2,Chung c? Qu?n Tân Phú 72m² 2PN,72 m² - 2 PN,"2,33 t?",Qu?n Tân Phú
+3,3Pn Brilliant V?i 2 View Công Viên L?n và H? B?i,135 m² - 3 PN,"7,92 t?",Qu?n Tân Phú
+4,K?t ti?n bán c?n 2pn Q7 ?ào Trí 68m2 giá 2.15Ty,68 m² - 2 PN,"2,09 t?",Qu?n 7
+5,Chung c? Richstar T.Phú 65m2 2PN giá c?c t?t 2.6ty,652 m² - 2 PN,"2,6 t?",Qu?n Tân Phú
+6,"C?n h? d?ch v?, mini Qu?n 9 - Thành ph? Th? ??c",55 m² - 2 PN,29 tri?u,Qu?n 9
+7,C?N H? PICITY HIGH PARK QU?N 12,48 m² - 2 PN,40 tri?u,Qu?n 12
+8,C?N H? ??NG C?P - TR?I NGHI?M S?NG X?NG T?M,50 m² - 2 PN,"1,9 t?",Qu?n 12
+9,C?n h? 2PN Full NT 71m2 Emerald Celadon Tân Phú,71 m² - 2 PN,"3,4 t?",Qu?n Tân Phú
+10,Chung c? Dreamhome Palace Qu?n 8 61.75m2 2PN,61.75 m² - 2 PN,"1,72 t?",Qu?n 8
+11,"Chung c? Phú ??t, Bình Th?nh - 69m² - 2PN",69 m² - 2 PN,"3,5 t?",Qu?n Bình Th?nh
+12,Tôi bán cc Petroland Qu?n 2 82m² 2PN Giá 2.25 t?,82 m² - 2 PN,"2,25 t?",Qu?n 2
+13,C?n h? 2pn belleza phú m? qu?n 7| s? h?ng riêng,80 m² - 2 PN,"2,5 t?",Qu?n 7
+14,Bán 3 c?n 67m2 giá 2.4-2470 t? view ?B-?ông Nam,67 m² - 2 PN,"2,35 t?",Qu?n Th? ??c
+15,9VIEW FULLL N?I TH?T 2PN-2WC NH? CH? 1.4TI BAO VAY,58 m² - 2 PN,"1,4 t?",Qu?n 9
+16,Chung c? Eco Green Sài Gòn 95m² 3PN,95 m² - 3 PN,"4,7 t?",Qu?n 7
+17,"3Pn Diamond Centery Giá ??u T?, V? Trí ??p",121 m² - 2 PN,"7,823 t?",Qu?n Tân Phú
+18,Chung c? Conic Riverside 50m² 2PN,50 m² - 2 PN,"1,99 t?",Qu?n 8
+19,Chung c? Ricca Qu?n 9 - Thành ph? Th? ??c 56m² 1PN,56 m² - 1 PN,"1,8 t?",Qu?n 9
+0,Chung c? c?n h? giá r? Qu?n 7 69m² 2PN,69 m² - 2 PN,"3,2 t?",Qu?n 7
+1,K?t ti?n bán g?p c?n h? Lavida+ Qu?n 7 2.9t?/75m2,75 m² - 2 PN,"2,9 t?",Qu?n 7
+2,C?n sang nh??ng c?n h? 1PN Lavita Charm ?ông Nam,52 m² - 1 PN,"2,2 t?",Qu?n Th? ??c
+3,"CHÍNH CH? C?N BÁN C?N H? 2PN+1PN  GIÁ 2,850 T?",70 m² - 3 PN,"2,85 t?",Qu?n 9
+4,"Bán G?p Chung c? Richmond city,66m2 giá 3.450t?",66 m² - 2 PN,"3,45 t?",Qu?n Bình Th?nh
+5,C?N H? WESTGATE 2PN GIÁ T?T - ??Y ?? PHÁP LÝ,59 m² - 2 PN,2 t?,Huy?n Bình Chánh
+6,C?n h? 3PN t?i Daimond Lotus qu?n 8,93 m² - 3 PN,"4,3 t?",Qu?n 8
+7,"C?n h? Happy One Qu?n 12, DT 68m² 2PN",68 m² - 2 PN,40 tri?u,Qu?n 12
+8,C?n h? 2PN - CC Sunrise khu South 106 m2,106 m² - 2 PN,5 t?,Qu?n 7
+9,Penthouse Qu?n Th? ??c 145m² 3 PN,145 m² - 3 PN,"5,6 t?",Qu?n Th? ??c
+10,"?ã nh?n s?, c?n 75m² có n?i th?t, giá 1.78 t?",75 m² - 2 PN,"1,78 t?",Huy?n Nhà Bè
+11,Chính ch? bán g?p c?n h? cao c?p Westgate 2pn 2wc,59 m² - 2 PN,"2,087 t?",Huy?n Bình Chánh
+12,Bán Chung c? Jamila Khang ?i?n 72.17m² 2PN,72.17 m² - 2 PN,"2,85 t?",Qu?n 9
+13,C?P NH?T 9 VIEW  2PN-2WC 1.4T? VIEW CÔNG VIÊN,58 m² - 2 PN,"1,4 t?",Qu?n 9
+14,Chung c? Vinhomes Grand Park (Vincity Qu?n 9) 59m²,59 m² - 2 PN,"1,912 t?",Qu?n 9
+15,"BÁN C?N H? 2 PHÒNG NG? - ??Y ?? N?I TH?T 3,9 T?",73 m² - 2 PN,"3,9 t?",Qu?n 2
+16,"Topaz Mùa d?ch, Bán G?p Giá C?c t?t. ?ã nh?n nhà",92 m² - 3 PN,"2,58 t?",Qu?n 8
+17,Bán giá g?c c?n h? cao c?p m?t ti?n Q1,73.87 m² - 2 PN,"14,2 t?",Qu?n 1
+18,CHÍNH CH? 9VIEW 3PN-2WC CH? 1.9T? LS VAY H?P D?N ?,86 m² - 3 PN,"1,9 t?",Qu?n 9
+19,T?NG N?I TH?T 200TR+2 N?M PHÍ QL KHI MUA PRECIA Q2,101 m² - 3 PN,"3,28 t?",Qu?n 2
+0,"MÙA D?CH, C?N H? S?C KH?E LÊN NGÔI ??",57 m² - 2 PN,"2,5 t?",Qu?n 12
+1,"TECCO: ?ã có s? block 1: 58-65m2-2PN giá t? 1,5 t?",65 m² - 2 PN,"1,5 t?",Qu?n 12
+2,Chung c? ??c Kh?i ph??ng Phú M? q7 block A1 l?u 30,75 m² - 2 PN,"2,3 t?",Qu?n 7
+3,"Chung c? Th? ??c, 50m2 giá 1,700 t?",50 m² - 2 PN,"1,79 t?",Qu?n Th? ??c
+4,B?n c?n nhà ? ngay v?i giá 1 t? trung tâm Hóc Môn,50 m² - 2 PN,1 t?,Huy?n Hóc Môn
+5,CHÍNH CH? BÁN C?N VIEW DÔNG NAM T?I LAVITA CHARM,68 m² - 2 PN,"2,75 t?",Qu?n Th? ??c
+6,"c?n 79m2 AK1 t?ng 9 h??ng B?C Giá 2,9 t? (95%)",79 m² - 2 PN,"2,9 t?",Qu?n Bình Tân
+7,T?p ?oàn H?ng Th?nh m? bán c?n h? mùa Covid 19,73 m² - 2 PN,"2,25 t?",Qu?n Tân Phú
+8,C?n bán g?p c?n h? Ch??ng D??ng Home full n?i th?t,50 m² - 2 PN,"1,7 t?",Qu?n Th? ??c
+9,"Bán c?n h? Sky 9 qu?n 9 DT 74m 3PN 2WC, h? tr? vay",74 m² - 3 PN,"2,02 t?",Qu?n 9
+10,CHUY?N NH??NG C?N H? 85M2 DIAMOND ALNATA PLUS,85.4 m² - 2 PN,"5,066 t?",Qu?n Tân Phú
+11,C?n h? Chung c? Qu?n 9 Thành ph? Th? ??c 81m² 3PN,81 m² - 3 PN,"2,9 t?",Qu?n 9
+12,"C?n h? cao c?p qu?n 7, 54m² g?m 2 phòng ng?.",54 m² - 2 PN,"1,83 t?",Qu?n 7
+13,"Chung C? DT:153m, 4pn, Full n?i th?t, giá ch? 3ty8",153 m² - 4 PN,"3,75 t?",Qu?n 2
+14,C?n h? 3pn 115m2 có s? ?? ngay Q7 ch? 23tr/m2,115 m² - 3 PN,"2,65 t?",Qu?n 7
+15,CHDV  Khu V?n Phòng Chính Ph? hi?p Bình Ph??c,80 m² - nhi?u h?n 10 PN,"5,86 t?",Qu?n Th? ??c
+16,Prosper nhà tr?ng ?ã có s?,65 m² - 2 PN,"2,05 t?",Qu?n 12
+17,"MUA CH KV 9VIEW T? CH? T? 1.4 T?, AN NINH T?T.",58 m² - 2 PN,"1,4 t?",Qu?n 9
+18,"C?N H? CENTANA 2PN, 2WC, N?I TH?T C? B?N, 64m2",64 m² - 2 PN,"2,9 t?",Qu?n 2
+19,"CHÍNH CH? BÁN KV 9VIEW BAO PHÍ, CÓ NTCB, NHÀ M?I.",87 m² - 3 PN,2 t?,Qu?n 9
+0,CH lk Ngã T? 550 Vô ? Li?n-C?n 2PN Ch? 1.3T?,61 m² - 2 PN,"1,1 t?",Qu?n Th? ??c
+1,CH Newcity Th? Thiêm Block Hawaii 2PN 2NVS,60 m² - 2 PN,"3,95 t?",Qu?n 2
+2,"Bán c?n h? d?n vào ? ngay Q7 Boulevard, 2PN, 2,2t?",57 m² - 2 PN,"2,253 t?",Qu?n 7
+3,Chính ch? bán chung c? Q2 - 2pn giá ch? 1 ti 800,61 m² - 2 PN,"1,8 t?",Qu?n 2
+4,"C?N H? CENTANA 1PN, 45m2, L?A CH?N S?NG HOÀN H?O",45 m² - 1 PN,"1,95 t?",Qu?n 2
+5,TT 599tr s? h?u CH 2PN 2PVS -full n?i th?t cao c?p,60 m² - 2 PN,599 tri?u,Huy?n Bình Chánh
+6,"C?n h? Bcons QL1K, 490tr s? h?u, h? tr? LS 0%",52 m² - 2 PN,490 tri?u,Qu?n Th? ??c
+7,C?n bán ho?c cho thuê chung c? saigon land,68 m² - 2 PN,"3,1 t?",Qu?n Bình Th?nh
+8,C?n góc 85m2 t?ng 18 Chung C? Linh Tây Tower,85 m² - 2 PN,"2,32 t?",Qu?n Th? ??c
+9,TECCO GREEN NEST-CH? TT 500TR - BANK CHO VAY 70%,58 m² - 2 PN,"1,55 t?",Qu?n 12
+10,"Bán g?p C?n H? Q2 59m2 tháng 6 bàn giao nhà,1.9 t?",56 m² - 2 PN,"1,8 t?",Qu?n 2
+11,85m2 Tháp A8 m?t ti?n ??i l? Diamond alnata plus,85 m² - 2 PN,"5,21 t?",Qu?n Tân Phú
+12,Chung c? Lovera Vista 72m² 2PN,72 m² - 2 PN,"2,249 t?",Huy?n Bình Chánh
+13,C?n h? 3pn Richstar full ??p y hình H?MB,92 m² - 3 PN,"4,2 t?",Qu?n Tân Phú
+14,C?T Bán C?n H? Carillon 7_DT:88m²_3PN+2WC-Nhà HTCB,88.2 m² - 3 PN,"2,95 t?",Qu?n Tân Phú
+15,Metro star t?ng trung 2pn 2wc 61m Hai.1 t?,61 m² - 2 PN,"2,1 t?",Qu?n 9
+16,Bán c?n h? Quang thái 3pn2wc 90m2 ?ã có s? h?ng,90 m² - 3 PN,"2,55 t?",Qu?n Tân Phú
+17,MUA C?N H? T?NG GÓI LÃI SU?T VAY NGÂN HÀNG 0%,59 m² - 2 PN,"2,109643 t?",Huy?n Bình Chánh
+18,BU?I CÔNG B? GI?Y PHÉP XÂY D?NG WEST GATE-AN GIA,59 m² - 2 PN,"2,279644 t?",Huy?n Bình Chánh
+19,9 View Apartment 58m² 2PN-2WC full NT ch? 1.6t?,58 m² - 2 PN,"1,6 t?",Qu?n 9
+0,"C?n Góc 2PN 2WC, 2.7ty, 71m2. C?n H? Khuông Vi?t",71 m² - 2 PN,"2,7 t?",Qu?n Tân Phú
+1,OT 1PN RIÊNG BI?T CÓ BAN CÔNG FULL NH? HÌNH,38 m² - 1 PN,"2,4 t?",Qu?n 7
+2,"Bán C?n 2PN 2WC Full NT, 2.85 t?. CHCC Richstar",65 m² - 2 PN,"2,85 t?",Qu?n Tân Phú
+3,"SHOPHOUSE TRUNG TÂM QU?N 7, GIÁ CH? 36TR/M2",265 m² - 1 PN,"9,55 t?",Qu?n 7
+4,Chung c? Homyland Riverside 75m2 2PN view sông Q2,75 m² - 2 PN,"3,35 t?",Qu?n 2
+5,Chính ch? g?i c?n h? Akari City 100m2 3PN - 3.45Ty,100.11 m² - 3 PN,"3,45 t?",Qu?n Bình Tân
+6,Saigon Asiana Nguy?n V?n Luông Q6 ngay Ch? L?n,60.56 m² - 2 PN,"2,6 t?",Qu?n 6
+7,Hh 1% Bán Chung C? 776/20B Nguy?n Ki?m P Nhu?n,50 m² - 3 PN,"3,5 t?",Qu?n Phú Nhu?n
+8,"Chính ch? c?n 2PN MT Ph?m V?n ??ng, d?n vào ? ngay",75 m² - 2 PN,"2,5 t?",Qu?n Th? ??c
+9,"NG?P LÃI THANH LÝ MIZUKI 78m²2PN,ban công c?c mát",78 m² - 2 PN,"2,65 t?",Huy?n Bình Chánh
+10,C?n h? cao c?p 56m2 giá t?t trung tâm Qu?n 8,56 m² - 2 PN,"1,5 t?",Qu?n 8
+11,18 phòng tr? thu nh?p 21 tr / tháng 920tr có s?,216 m² - nhi?u h?n 10 PN,"9,2 tri?u",Huy?n Hóc Môn
+12,??????C?n h? Vinhomes GrandPark Q9:2PN;2PWC;T34,62 m² - 2 PN,"2,6 t?",Qu?n 9
+13,"Bán g?p c?n 80,43m2, ch? 26 tri?u/m2",80.43 m² - 3 PN,2 t?,Qu?n 8
+14,C?n bán g?p c?n h? Q7 Boulevard tr? n? mùa Covid,57.21 m² - 2 PN,"2,53 t?",Qu?n 7
+15,"Picity High Park Q12, TT 30% s? h?u, CK 12%, LS 0%",57 m² - 2 PN,"2,1 t?",Qu?n 12
+16,Shophouse 2 t?ng Picity High Park Q12,115 m² - 2 PN,6 t?,Qu?n 12
+17,NGÂN HÀNG PHÁT MÃI C?N 2PN 59M2 VINHOME Q9 GIÁ R?,46.5 m² - 2 PN,"2,1 t?",Qu?n 9
+18,Giá G?c F0 C?n H? Cao C?p Thi?t K? Nh?t B?n,46 m² - 2 PN,"1,485 t?",Qu?n Th? ??c
+19,C?p Nh?t B?ng Giá C?n H? VHCP 3PN M?i Nh?t,95 m² - 3 PN,"6,6 t?",Qu?n Bình Th?nh
+0,Ch? Nh??ng G?p C?n 2PN2WC+ 29.2m2 VHGPN Qu?n 9,69.2 m² - 2 PN,"2,5 t?",Qu?n 9
+1,Ch? Nhà Sang L? 60TR C?n 1PN+ 46.5m2 VHGP Q.9,46.5 m² - 1 PN,"1,75 t?",Qu?n 9
+2,"GIÁ G?C C?T S? H?U C?N H? TP. TH? ??C, CK T?I 11%",76 m² - 2 PN,720 tri?u,Qu?n Th? ??c
+3,"5 LÔ ??T C?NH ?Ô TH? V?N PHÚC, GIÁP QU?C L? 13",104 m² - 1 PN,"5,25 t?",Qu?n Th? ??c
+4,B?ng Giá C?n H? VHCP 2PN M?i Nh?t,89 m² - 2 PN,"5,75 t?",Qu?n Bình Th?nh
+5,C?n h? Ngon - B? - Êm nh?t khu Tây Sài Gòn,59 m² - 2 PN,"2,1 t?",Huy?n Bình Chánh
+6,Bán g?p c?n h? Lovera Vista ?ã bàn giao 65m2 2 PN,65 m² - 2 PN,"2,25 t?",Huy?n Bình Chánh
+7,K?t ti?n c?n bán 2PN view h? b?i chênh th?p Dlusso,68 m² - 2 PN,"4,04 t?",Qu?n 2
+8,chính ch? c?n bán c?n h?,95 m² - 3 PN,"3,6 t?",Qu?n Bình Th?nh
+9,Chính Ch? C?n Bán C?n H? Q7 Boulevard 60m² 2PN,60 m² - 2 PN,"2,5 t?",Qu?n 7
+10,Chính ch? bán c?n 63.2m2 block B1 Green Town 2MT,63.2 m² - 2 PN,"1,65 t?",Qu?n Bình Tân
+11,"3PN Diamond ??u T?, Ôm hàng 2 n?m ?óng t?i ?a 30%",117 m² - 3 PN,"7,2 t?",Qu?n Tân Phú
+12,Ng?p Covid Mình C?n Bán L?i C?n 2PN và 3PN Centum,70 m² - 2 PN,"2,111111 t?",Qu?n 9
+13,"CENTUM WEALTH 3PN 2WC VIEW H? B?I , GIÁ CH? T? 7TR",68 m² - 2 PN,6 tri?u,Qu?n 9
+14,C?n ti?n KD nên sang l?i c?n h? 51m2 nhà m?i,51 m² - 1 PN,"1,5 t?",Qu?n 8
+15,BÁN NHANH 3PN EMERALD 104M2 NHÀ TR?NG T?NG ??P,104 m² - 3 PN,"4,45 t?",Qu?n Tân Phú
+16,"C?n h? Cao c?p 2PN ?? ti?n ích TTHC Q12, giá t?t",80 m² - 2 PN,"1,7 t?",Qu?n 12
+17,Chung c? Vinhomes Q9 - Thành ph? Th? ??c 59m² 2PN,59 m² - 2 PN,"2,27 t?",Qu?n 9
+18,C?n Bán G?p C?n H? Saigon Riverside Q7 52m² 2PN,53 m² - 2 PN,"1,8 t?",Qu?n 7
+19,C?n h? Flora Anh ?ào 54m2 1PN h??ng ?N view LM 81,54 m² - 1 PN,"1,71 t?",Qu?n 9
+0,Chung c? Th? ??c 2PN,74 m² - 2 PN,"2,4 t?",Qu?n Th? ??c
+1,BÁN G?P CH HIM LAM PHÚ AN FULL NT D?N VÀO ? NGAY.,70 m² - 2 PN,"2,6 t?",Qu?n 9
+2,C?N BÁN C?N H? THE SUN AVENUE Q2 1.750 T? 32M2,32 m² - 1 PN,"1,75 t?",Qu?n 2
+3,Chung c? The MarQ 144m² giá ?u ?ãi t?ng xe sang,144 m² - 4 PN,"25,97535 t?",Qu?n 1
+4,Chung c? M? bán 200 c?n Legarcy Central 60m² 2PN,60 m² - 2 PN,870 tri?u,Qu?n Tân Bình
+5,"Chính ch? bán g?p 2PN2WC 66,57 VIEW ??P",66 m² - 2 PN,"3,5 t?",Qu?n 7
+6,Chung c? Dream Home Residence 60m² 2PN,60 m² - 2 PN,2 t?,Qu?n Gò V?p
+7,S? h?u CH cao c?p Dream Home Qu?n 8 giá r?,56 m² - 2 PN,"1,5 t?",Qu?n 8
+8,Officetel Lavita Charm 51m² 1 PN,51 m² - 1 PN,"1,7 t?",Qu?n Th? ??c
+9,"Bán g?p CH 57m2 (?ã có s? )Chung C? H?ng Ngân,Q12.",57 m² - 1 PN,"1,55 t?",Qu?n 12
+10,C?n mua nhà ho?c chung c?,40 m² - 1 PN,2 t?,Qu?n 11
+11,Chung c? Lavita Charm 51m² 1PN giá 1.6t?,51 m² - 1 PN,"1,6 t?",Qu?n Th? ??c
+12,"Sky Garden 1, 2pn 2wc, có sân v??n, thi?t k? ??p",83.7 m² - 2 PN,"3,3 t?",Qu?n 7
+13,Duplex Phú Hoàng Anh 220m² 4 PN n?i th?t cao c?p,220 m² - 4 PN,"4,3 t?",Huy?n Nhà Bè
+14,C?n h? 750 Tri?u giá t?t Uy tín- Ch?t l??ng,65 m² - 2 PN,750 tri?u,Qu?n 12
+15,Bán c?n h? Saigon South 71m2 2PN n?i th?t cao c?p,71 m² - 2 PN,"3,5 t?",Huy?n Nhà Bè
+16,Ke?t tiê?n ba?n gâ?p c?n hô? Prosper Plaza quâ?n12,65 m² - 2 PN,"2,2 t?",Qu?n 12
+17,Chung c? 64m2 ??y ?? n?i th?t,64 m² - 2 PN,"1,85 t?",Qu?n 12
+18,Chung c? Kingston Residence 70m² 2PN,70 m² - 2 PN,"5,1 t?",Qu?n Phú Nhu?n
+19,Bán g?p 3pn 94m2 - 4.5 t?  L??ng ??nh C?a qu?n 2,94 m² - 3 PN,"4,5 t?",Qu?n 2
+0,"Bán, cho thuê c?n h? Võ ?ình",50 m² - 1 PN,"1,4 t?",Qu?n 12
+1,Chung c? Novaland Phú Nhu?n Garden Gate 85m² 3 PN,85 m² - 3 PN,"5,05 t?",Qu?n Phú Nhu?n
+2,C?n H? & ShopHouse Trung Tâm Hành Chính Bình Chánh,60 m² - 2 PN,750 tri?u,Huy?n Bình Chánh
+3,Sang l? c?n 2PN 59.4m2 t?i Vinhomes Qu?n 9 ? ngay,59.4 m² - 2 PN,"2,01 t?",Qu?n 9
+4,Chung c? Qu?n 8 54.4m² 2PN,54.4 m² - 2 PN,"2,66854 t?",Qu?n 8
+5,"Bán c?n h? Richstar 63 m2 (2Pn-2WC), 2,68 t?",63 m² - 2 PN,"2,68 t?",Qu?n Tân Phú
+6,Penthouse Feliz En Vista 407m² 6 PN,407 m² - 6 PN,46 t?,Qu?n 2
+7,"MOONLIGHT RESIDENCES TH? ??C, 89M2 -3PN-FULL NT",89 m² - 3 PN,"3,75 t?",Qu?n Th? ??c
+8,"Bán c?n h? Osimi Tower 75m² 3PN, 2WC full nt",75 m² - 3 PN,"2,7 t?",Qu?n Gò V?p
+9,WestGate Bình Chánh59m2 -thanh toán ch? 30% 599tr,60 m² - 2 PN,600 tri?u,Huy?n Bình Chánh
+10,QUA HÀN QU?C ??NH C? C?N BÁN C?N H?,68 m² - 2 PN,"2,9 t?",Qu?n 9
+11,"Bán g?p CH Phú Gia SHR giá 1,780 t? bao h?t -Có NT",75 m² - 2 PN,"1,78 t?",Huy?n Nhà Bè
+12,C?n h? Vinhomes 2PN+ 69m2 C?t L?,69 m² - 2 PN,"2,9 t?",Qu?n 9
+13,Chung c? cao c?p 2pn Dlusso Qu?n2,68 m² - 2 PN,"3,98 t?",Qu?n 2
+14,"C?n h? cao c?p Skyline, PMH, Q7, ?ã có s?, 2.4 t?",66 m² - 2 PN,"2,4 t?",Qu?n 7
+15,Bán c?n h? ngay KDL B?n X?a ch? còn 20 c?n giá g?c,67 m² - 2 PN,800 tri?u,Qu?n Gò V?p
+16,C?N H? 2PN 90m2 M?T TI?N LÝ TH??NG KI?T,90 m² - 2 PN,"2,35 t?",Qu?n 11
+17,CHÍNH CH? c?n h? Vinhome Central Park 3PN,94.7 m² - 3 PN,7 t?,Qu?n Bình Th?nh
+18,V?i 700Tri?u S? H?u Ngay C?n H? Resort Chu?n 5 Sao,58 m² - 2 PN,"2,3 t?",Qu?n 12
+19,"Bán 2PN 2WC 2.15 t?, S? H?ng. CH: Fortuna V??n Lài",80 m² - 2 PN,"2,15 t?",Qu?n Tân Phú
+0,"Bán g?p CH 2PN giá 3.8 t? bao phí, full n?i th?t",56.6 m² - 2 PN,"3,8 t?",Qu?n 2
+1,"Chính ch? c?n nhà ? li?n nên bán g?p, r? h?n C?T",62 m² - 2 PN,"1,457568 t?",Qu?n 8
+2,Bán c?n 2PN ?ã Có s? h?ng Ngân Hàng H? Tr? vay 80%,58 m² - 2 PN,"1,6 t?",Qu?n 12
+3,C?n H? M?i Bàn Giao D?n Vào ? Ngay Ko Lo V? Giá,68 m² - 2 PN,"2,25 tri?u",Huy?n Nhà Bè
+4,Gi? hàng sang nh??ng Q7 Boulervard giá c?c t?t,70 m² - 2 PN,"2,35 t?",Qu?n 7
+5,C?n h? ?ã có s? h?ng riêng Qu?n 12,58 m² - 2 PN,"1,67 t?",Qu?n 12
+6,C?n h? vào ? ngay gi?a Th? Thiêm t?ng n?i th?t,60 m² - 2 PN,"3,3 t?",Qu?n 2
+7,Chung c? masteri lumière riverside 73m² 2 PN,73.2 m² - 2 PN,"1,74 t?",Qu?n 2
+8,Chung c? Green Town Bình Tân 91.7m² 3PN giá 2ty3,91.74 m² - 3 PN,"2,3 t?",Qu?n Bình Tân
+9,C?n bán G?p C?n h? v?n phòng_OFFICETEL Q7Boulevard,35 m² - 1 PN,"1,4 t?",Qu?n 7
+10,Bán G?P c?n 3Pn2Wc ng?p t?ng ??p,81 m² - 3 PN,"3,24 t?",Qu?n 9
+11,Bán c?n góc 73m2 view h? b?i giá 3ty310 giá ch?t,73 m² - 2 PN,"3,31 t?",Qu?n 6
+12,"Bán C?n Alnata 2PN View công viên,h??ng TN,lau 8",88 m² - 2 PN,"4,3 t?",Qu?n Tân Phú
+13,G?I BÁN C?N H? MASTERI T? 2PN 70M2 VIEW SÔNG,70 m² - 2 PN,"4,7 t?",Qu?n 2
+14,Sang l? c?n 33.8m2 VHGP TT 474tr nh?n nhà ngay,33 m² - 1 PN,"1,24 t?",Qu?n 9
+15,Chung c? Qu?n 12 81m² 3PN cao c?p 5*,81 m² - 3 PN,"2,439 t?",Qu?n 12
+16,C?n h? Cao c?p giá r? ngay Trung tâm Qu?n 3,20 m² - 1 PN,"1,1 t?",Qu?n 3
+17,Bán Chung c? Sunrise CityView 76m² 2 PN,76 m² - 2 PN,"3,7 t?",Qu?n 7
+18,Chung c? Saigon Riverside Complex Q7 66m² 2 PN,66.66 m² - 2 PN,"2,35 tri?u",Qu?n 7
+19,"Bán CH Saigon Riverside Complex Q7 66.6m²  2,35 t?",66.6 m² - 2 PN,"2,35 t?",Qu?n 7
+0,Can h? 2pn 68m2 view pháo hoa ??p q7,62.9 m² - 2 PN,"2,25 tri?u",Qu?n 7
+1,C?n h? 2PN 75m2 LavidaPlus Q7 ??i di?n SCViVo City,75 m² - 2 PN,"2,85 t?",Qu?n 7
+2,BÁN G?P NHI?U C?N H? CAO C?P SUNRISE CITYVIEW LH :,58 m² - 1 PN,"1,75 t?",Qu?n 7
+3,"Bán Chung c? Tây Th?nh 59m² 2PN, Q Tphu",59 m² - 2 PN,"1,625 t?",Qu?n Tân Phú
+4,C?n H? saigon royal- 82m2- View thoáng,82 m² - 2 PN,"5,6 t?",Qu?n 4
+5,"Bán Officetel 35m2 The Sun Avenue, Qu?n 2.",35 m² - 1 PN,"1,8 t?",Qu?n 2
+6,"Bán CH 3PN 103m2 Kingdom101, Q10 giá 7.78 t?",103 m² - 3 PN,"7,8 t?",Qu?n 10
+7,C?n 95 m2 (3pn 2wc).,95 m² - 3 PN,"3,05 t?",Qu?n 8
+8,"Bán g?p ch era town 67m2/1,520 t? có t?ng n?i th?t",67 m² - 2 PN,"1,52 t?",Qu?n 7
+9,M? bán giai ?o?n 2-Celesta Heights- Nguy?n H?u Th?,50 m² - 1 PN,52 tri?u,Huy?n Nhà Bè
+10,Chung c? Celadon City 55m² 2PN,55 m² - 2 PN,"2,17 t?",Qu?n Tân Phú
+11,"CHÍNH CH? - BÁN CHUNG C? 82.7M2 GIÁ 1,975 T?",82.7 m² - 2 PN,"1,975 t?",Qu?n Tân Phú
+12,3PN VIEW TR?N SÔNG SG THE SUN AVENUE C?N GÓC 5.2 Y,95 m² - 3 PN,"5,2 t?",Qu?n 2
+13,BÁN G?P 2PN VIEW SÔNG MASTERI TH?O ?I?N 4TY5,70 m² - 2 PN,"4,5 t?",Qu?n 2
+14,"C?n h? mini Hà Huy Giáp m?i xây s?ch s? , an ninh",25 m² - 1 PN,290 tri?u,Qu?n 12
+15,"Bán g?p ch era town 3pn view sông, tt 50% nh?n nhà",97 m² - 3 PN,2 t?,Qu?n 7
+16,"Penthouse SkyVilla 270.04m² 3PN, Th? ??c",270.04 m² - 3 PN,"10,87 t?",Qu?n Th? ??c
+17,C?N BÁN 2PN 3.9 T? FULL NT THE SUN AVENUE Q2 HCM,75 m² - 2 PN,"3,9 t?",Qu?n 2
+18,"Tôi c?n ti?n tr? lãi bank, bán r? nhanh chóng",62 m² - 2 PN,"1,735 t?",Qu?n Th? ??c
+19,C?n h? m?i bàn giao ngay Phú M? H?ng giá 2ty2 -2PN,62 m² - 2 PN,"2,2 t?",Qu?n 7
+0,"c?n h? full n?i th?t, giá ch? 1.5 t? t?i HCM",50 m² - 2 PN,"1,5 t?",Huy?n Bình Chánh
+1,C?n bán c?n Block B Dragon 1- Topaz Elite q8-hcm,73 m² - 2 PN,"2,8 t?",Qu?n 8
+2,C?n bán nhanh c?n h? Oriental 3pn 3wc q.tân phú,106 m² - 3 PN,"3,5 t?",Qu?n Tân Phú
+3,??C?n GÓC 2PN Kingston ??y ?? n?i th?t. View mát,78 m² - 2 PN,"5,3 t?",Qu?n Phú Nhu?n
+4,B?ng giá c?n h? và Offictel Central Premium T7,68 m² - 2 PN,"3,218 t?",Qu?n 8
+5,9VIEW 2PN-2WC FULL NT NHÀ M?I CH?A ? 100% CH? 2T?,58 m² - 2 PN,"1,4 t?",Qu?n 9
+6,C?n h? ngay Phú M? H?ng 2PN-2WC giá 2t?35 m?i 100%,64 m² - 2 PN,"2,35 t?",Qu?n 7
+7,BÁN G?P CH 3PN VIEW SÔNG  MASTERI T? GIÁ 6TY750,100 m² - 3 PN,"6,75 t?",Qu?n 2
+8,C?n h? 3PN NOTM Topaz Home qu?n 9,65 m² - 3 PN,"1,8 t?",Qu?n 9
+9,Bán nhanh v?i vàng _ Richstar novaland _ 3 phòng .,90 m² - 3 PN,"3,9 t?",Qu?n Tân Phú
+10,"westgate pháp lý hoàn ch?nh, thanh toán 660TR 2PN",59 m² - 2 PN,"2,1 t?",Huy?n Bình Chánh
+11,"Chung c? 2PN 48m2 Pi City, Qu?n 12",48 m² - 1 PN,"1,899 t?",Qu?n 12
+12,Gi? hàng nh?ng c?n ??p giá t?t d? án Ricca Q9,67.7 m² - 2 PN,"2,25 t?",Qu?n 9
+13,1.8 T? S? H?U NHÀ ??P PRECIA T?NG KH?NG 250 TRI?U,101 m² - 3 PN,"1,8 t?",Qu?n 2
+14,Chung c? Melody Residences 105m² 2PN Ti?n KD,105 m² - 2 PN,"4,65 t?",Qu?n Tân Phú
+15,An S??ng I-Park Qu?n 12 Chu?n c?n h? xanh,80 m² - 3 PN,"2,635 t?",Qu?n 12
+16,"Bán c?n h? Ruby Garden 87m2 2PN,Có S? H?ng,Full NT",87 m² - 2 PN,"2,95 t?",Qu?n Tân Bình
+17,C?n bán c?n 2pn 1wc 59m2 giá 2 t? 080 tri?u full,59 m² - 2 PN,"2,08 t?",Qu?n 9
+18,Chung c? Lavita Garden 68m² 2PN=2WC GIÁ CH? 2.4T?,68 m² - 2 PN,"2,3 t?",Qu?n Th? ??c
+19,"CTL TOWER,NHI?U C?N V? TRÍ ??P, T?NG CAO VÀ TRUNG",60 m² - 2 PN,"1,8 t?",Qu?n 12
+0,Chung c? Central Premium 70m² 2 PN,70 m² - 2 PN,"3,6 t?",Qu?n 8
+1,C?n H? Lavita Charm 67.3m²  - Trung Tâm Tp Th? ??c,67.3 m² - 2 PN,3 t?,Qu?n Th? ??c
+2,"S? H?U NGAY CH THE ART GIÁ C?C R?, FULL NT ??P.",66 m² - 2 PN,"2,4 tri?u",Qu?n 9
+3,"Chính ch? c?n bán c?n h? cao c?p Sky 89, PN 1+1",50 m² - 1 PN,"2,7 t?",Qu?n 7
+4,"NHÀ ??P, GIÁ T?T CH? CÓ T?I ?ÂY.",79 m² - 3 PN,"2,5 t?",Qu?n 12
+5,"Thanh toán n?  2PN,2WC ??i di?n UBND, li?n k? Q7",59 m² - 2 PN,660 t?,Huy?n Bình Chánh
+6,"C?n 2pn 2wc m?i 100% 1,85 t?; 3pn có NT 2,08 t?",53 m² - 2 PN,"1,3 t?",Qu?n 12
+7,"C?n h? 5* Terra Royal, c?n góc l?u 21, 58m2",58 m² - 2 PN,"5,1 t?",Qu?n 3
+8,"C?n h? 2PN s? h?ng-nhà ??p giá ch? t? 1,68 t?",65 m² - 2 PN,"1,7 t?",Qu?n 12
+9,"GIÁ HÓT!?? Depot Metro, c?n 1pn|1.5T?, 2pn|1.85T?",56 m² - 2 PN,"1,52 t?",Qu?n 12
+10,"Chung c? cityland nguy?n v?n l??ng 115m2 giá 5,4ty",115 m² - 3 PN,"5,4 t?",Qu?n Gò V?p
+11,"Topaz home, c?n TM & XH, 2pn và 3pn giá t?t",69 m² - 2 PN,"1,6 t?",Qu?n 12
+12,Chung c? Melody Residences 68.8m² 2PN T?ng NT,68 m² - 2 PN,"2,76 t?",Qu?n Tân Phú
+13,C?n 1pn 51.7m2 Lumiere ??t 1 Giá COVID L? 100tr,51.7 m² - 1 PN,"4,948 t?",Qu?n 2
+14,Bán c?n h? cao c?p MT Nguy?n V?n H??ng P.Th?o ?i?n,61.36 m² - 1 PN,7 t?,Qu?n 2
+15,8x Plus_63m2 2PN 2WC_View Q.1 thoáng mát,63 m² - 2 PN,"1,7 t?",Qu?n 12
+16,"Giá bán Full 44,6 tri?u/m2, c?n 80m2, 3 view kênh",80 m² - 2 PN,"3,562 t?",Huy?n Bình Chánh
+17,em n?m gi? hàng pegasuite2 giá r?t t?t d? án,25 m² - 1 PN,947 tri?u,Qu?n 8
+18,Chung c? Richstar 65m r? h?n th? tr??ng 150tr.,65 m² - 2 PN,"2,9 t?",Qu?n Tân Phú
+19,"Tôi c?n bán c?n h? cao c?p resgreen tower ,62m2",62 m² - 2 PN,"3,18 t?",Qu?n Tân Phú
+0,"Centery Mua Giá S?, V? Trí ??p, ?? L?i Chênh Th?p",121 m² - 3 PN,"8,092 t?",Qu?n Tân Phú
+1,C?n bán ho?c cho thuê Chung c? Ehome 1 mùa COVID,60 m² - 2 PN,"1,87 t?",Qu?n 9
+2,Chung c? La Astoria 60m² 2 PN,60 m² - 2 PN,"2,18 t?",Qu?n 2
+3,Bán g?p c?n h? t?i trung tâm Qu?n 8 giá t?t,56 m² - 2 PN,"1,5 t?",Qu?n 8
+4,107m2 (3PN) Diamond Alnata - View ?ông Nam 5ty360,107 m² - 3 PN,"5,36 t?",Qu?n Tân Phú
+5,C?n H? 2PN Qu?n 6 M?t Ti?n Lý Chiêu Hoàng,51 m² - 2 PN,"1,83 t?",Qu?n 6
+6,C?n h? 2PN 77m2 Urban Hill qu?n 7,77 m² - 2 PN,"5,2 t?",Qu?n 7
+7,Penhouse Vinhomes Central Park 6A 154.4m² 4PN,154 m² - 4 PN,"17,479 t?",Qu?n Bình Th?nh
+8,C?n h? 2pn 68m2 Q7,66 m² - 2 PN,"2,253 t?",Qu?n 7
+9,CHÍNH CH? BÁN NHÀ,67.2 m² - 3 PN,"1,2 t?",Huy?n Bình Chánh
+10,Bán Saigon South Residences 100.35m² giá 3.75 t?,100.35 m² - 3 PN,"3,75 t?",Huy?n Nhà Bè
+11,CÒN 1 c?n duy nh?t 2pn 1wc GIÁ 2 t? 4 r? nhât TT,66 m² - 2 PN,"2,4 t?",Qu?n Tân Phú
+12,"Bán x? bán l? cc Carillon 7 2pn 66m view ?ông 2,48",66 m² - 2 PN,"2,48 t?",Qu?n Tân Phú
+13,"C?n 75m² ?Ã CÓ S?, có n?i th?t, giá 1.820 t? (TL)",75 m² - 2 PN,"1,82 t?",Huy?n Nhà Bè
+14,Sunrise CityView 105m² 3 PN,105 m² - 3 PN,"4,85 t?",Qu?n 7
+15,Bán g?p 2pn có s? d? án celadon city giá 2.6 t?,69 m² - 2 PN,"2,6 t?",Qu?n Tân Phú
+16,Officetel Sunrise CityView 65m² 2 PN,65 m² - 2 PN,"3,5 t?",Qu?n 7
+17,chung c? Tân ph??c 78m² 2 PN ??p s?ch thoáng 3.7ty,78 m² - 2 PN,"3,7 t?",Qu?n 11
+18,Chung c? Qu?n 7 114m² 3PN,114 m² - 3 PN,"3,4 t?",Qu?n 7
+19,Chung c? c?n góc CITY LAND Qu?n 7 92m² 2PN,92 m² - 2 PN,"4,3 t?",Qu?n 7
+0,MUA BÁN CHÍNH CH?-BÁN C?N H? 3 PHÒNG NG? VIEW SÔNG,124 m² - 3 PN,11 t?,Qu?n 2
+1,C?n h? 114m2 view ôm tr?n Qu?n 1,114 m² - 3 PN,6 t?,Qu?n 7
+2,Chung c? Vinhomes Central Park 188m² 4PN,188 m² - 4 PN,18 t?,Qu?n Bình Th?nh
+3,Chung c? Qu?n 7 105m² 3 PN full NT nhà ??p,105 m² - 3 PN,"4,9 t?",Qu?n 7
+4,"Bán Lavita Garden 69m2 2PN Giá H? 1,9 T? TPBank",69 m² - 2 PN,"2,55 t?",Qu?n Th? ??c
+5,"Khu nhà ? quân ??i, 76m2 p7, gò v?p TP H? chí Minh",76 m² - 2 PN,3 t?,Qu?n Gò V?p
+6,"C?n h? Masteri Th?o ?i?n Q2, 3PN, 92m2 c?n góc",92 m² - 3 PN,"5,93 t?",Qu?n 2
+7,C?n h? cao c?p Empice và Masteri Th?o ?i?n,90 m² - 2 PN,10 t?,Qu?n 2
+8,"C?n h? Sunwah Pearl, c?n sân v??n hi?m 160m2 3PN",160 m² - 3 PN,"14,5 t?",Qu?n Bình Th?nh
+9,C?n bán c?n h? Vinhomes Grand Park 1t?250,30 m² - 1 PN,"1,25 t?",Qu?n 9
+10,"C?N H? NGUY?N V?N LINH CÓ SÂN TENIS,H? B?I OLYMPIC",69 m² - 2 PN,"2,846735 t?",Huy?n Bình Chánh
+11,Bán CC 312 L?c Long Quân 2PN 2WC 67m2 2.5t? Q11,67 m² - 2 PN,"2,5 t?",Qu?n 11
+12,"HÀNG GI?M GIÁ - c?n h? Him Lam Phú An 2PN, 70m2",70 m² - 2 PN,"2,4 t?",Qu?n 9
+13,C?N H? CHUNG C? BASON 2PN 64m2 ? Gò V?p,64 m² - 2 PN,"1,6 t?",Qu?n Gò V?p
+14,C?n h? Alnata 3PN giá t?t mùa d?ch ch? 5ty211,104 m² - 3 PN,"5,211 t?",Qu?n Tân Phú
+15,C?n H? ??ng C?p Sky 89 An Gia 64.5m² 2PN,64.5 m² - 2 PN,"2,846366 t?",Qu?n 7
+16,Chính ch? bán Green Town Bình Tân 68m2 giá 1.7 t?,68 m² - 2 PN,"1,7 t?",Qu?n Bình Tân
+17,Sang L? C?n H? 2PN 59M2 VHGP Q9 t?ng NT B?p Rèm,59 m² - 2 PN,"1,47 t?",Qu?n 9
+18,Green Town Bình Tân bán 49-51-53-63-68-72m2 giá re,52.7 m² - 2 PN,"1,55 t?",Qu?n Bình Tân
+19,Penthouse Vin Grand Park c?n góc 95m² view LM81,95 m² - 2 PN,"4,322 t?",Qu?n 9
+0,"Bán c?n 71.89m2 block B3 Green Town, giá 1.95 t?",71.89 m² - 2 PN,"1,95 t?",Qu?n Bình Tân
+1,CH?M ??C M? S? H?U T? ?M LÝ T??NG C?A CÁC GIA ?ÌNH,59 m² - 2 PN,"2,1 t?",Huy?n Bình Chánh
+2,Ch? c?n 800tr s? h?u ngay c?n h? cao c?p qu?n 2,58.3 m² - 2 PN,800 tri?u,Qu?n 2
+3,"Bán CH 3PN, full NT ??p, DT 80m2, giá 6 t? bao phí",76.96 m² - 3 PN,6 t?,Qu?n 2
+4,Bán g?p c?n h? Dream Home Riverside 56m2 giá r?,56 m² - 2 PN,"1,5 t?",Qu?n 8
+5,Chung c? DreamHome Palace 80.43m2 3PN view h? b?i,80.43 m² - 3 PN,2 t?,Qu?n 8
+6,chính ch? k?t ti?n bán c?n góc 69m2 VHGP,69 m² - 2 PN,"2,75 t?",Qu?n 9
+7,Bán g?p c?n 2pn1wc 47m2 VHGP TT 600tr ? ngay,47 m² - 2 PN,"1,79 t?",Qu?n 9
+8,"Ch?t nhanh c?n 2PN Garden Gate, ??y ?? n?i th?t",74 m² - 2 PN,"4,25 t?",Qu?n Phú Nhu?n
+9,85m2 Diamond Alnata Plus - view ?ông b?c,85 m² - 2 PN,"5,05 t?",Qu?n Tân Phú
+10,"C?n h? 69m2 viva riverside,qu?n 6",69 m² - 2 PN,"3,45 t?",Qu?n 6
+11,"GIÁ T?T: Gi?m giá m?nh c?n 1-3PN, ch? t? 1,535 t?",56 m² - 2 PN,"1,535 t?",Qu?n 12
+12,"Bán Shophouse 139m2 Q7 Boulevard, t?ng 2 ch? SJC",139 m² - 1 PN,"8,299 t?",Qu?n 7
+13,"T?ng h?p TOPAZ HOME 2PN giá t?t t? 1,3 t?",53 m² - 2 PN,"1,3 t?",Qu?n 12
+14,CC Hoàng Anh An Ti?n ( Gold House ) 110m2 3PN,110 m² - 3 PN,"2,55 t?",Huy?n Nhà Bè
+15,Chung c? An Hòa 90m² 3 PN- SHR- giá t?t. An Phú-Q2,90 m² - 3 PN,"3,45 t?",Qu?n 2
+16,K?t Ti?n Bán 2PN-1wc The Gold View,65 m² - 2 PN,"3,4 t?",Qu?n 4
+17,Bán c?n h? 2PN ? ngay m?t ti?n Nguy?n L??ng B?ng,69 m² - 2 PN,"3,2 t?",Qu?n 7
+18,BÁN C?N ???????? T?NG ?????? ??????² GIÁ ??.????,60 m² - 2 PN,"2,4 t?",Qu?n 9
+19,Bán G?p Goldview 92m2 giá siêu Hót,92 m² - 2 PN,"4,4 t?",Qu?n 4
+0,"Bán G?p Duplex 3pn 127m2, View Mát H??ng ?ông",127 m² - 3 PN,"4,85 t?",Qu?n Tân Phú
+1,"Bán c?n 4PN VIP Vinhomes CP, 155m2 , 15.89ty",155 m² - 4 PN,"15,89 t?",Qu?n Bình Th?nh
+2,Chung c? Sen H?ng 1PN block C t?ng 15 view nhìn TP,38 m² - 1 PN,"1,18 t?",Qu?n Th? ??c
+3,"BÁN G?P CHUNG C? PHA GIÁ R?:2T?9,3PN 129M2",129 m² - 3 PN,"2,9 t?",Huy?n Nhà Bè
+4,Chung c? Moonlight Residences 67m² 2 PN,67 m² - 2 PN,"3,3 t?",Qu?n Th? ??c
+5,Chung c? Glenwood Maison (Q2 Th?o ?i?n) 72m² 2 PN,72 m² - 2 PN,"7,5 t?",Qu?n 2
+6,C?n bán g?p c?n h? SAIGON Mia khu Trung S?n,50.17 m² - 1 PN,"2,7 t?",Huy?n Bình Chánh
+7,"Mua nhà Sài Gòn 2PN+2WC, ch? 689 tri?u nh?n nhà.",59 m² - 2 PN,689 tri?u,Huy?n Bình Chánh
+8,"Bán c?n h? qu?n 8, 2PN - 62m2, ngay KDC hi?n h?u",62 m² - 2 PN,"1,5 t?",Qu?n 8
+9,BÁN PENTHOUSE C?N 141 m2 giá 3 t? 6 giá tôt,141 m² - 3 PN,"3,55 t?",Qu?n 8
+10,Ch? nhà  Carillon 7 78m² 2PN 2wc h.nam công viên,78 m² - 2 PN,"2,9 t?",Qu?n Tân Phú
+11,C?n h? thông minh 2PN giá m?m ngay TTHC Qu?n 12,79 m² - 2 PN,"1,8 t?",Qu?n 12
+12,C?n h? xanh 2PN Lumiere g?n tr?m metro An Phú Q2.,74 m² - 2 PN,"1,992 t?",Qu?n 2
+13,C?n h? TRONG M? cho c? gia ?ình 3PN 113m2,113 m² - 3 PN,"4,407 t?",Huy?n Bình Chánh
+14,SHOP HOUSE T?I DIAMOND RIVERSIDE (CITY GATE) 2,167 m² - 3 PN,"7,5 t?",Qu?n 8
+15,D? án Masteri Central Ponit Q.9 Vinhomes GrandPark,52 m² - 2 PN,"3,3 t?",Qu?n 9
+16,"Chung C? Dream Home Luxury, 64m2. 2PN, H? tr? Vay",64 m² - 2 PN,"2,05 t?",Qu?n Gò V?p
+17,"Chung C? Tân Phú RichStar 65m² 2PN "" Full """,65 m² - 2 PN,3 t?,Qu?n Tân Phú
+18,400 TRI?U CÓ MUA ???C NHÀ VINHOMES?,30.1 m² - 1 PN,"1,23 t?",Qu?n 9
+19,C?N H? TH? ??C - PROSPER PH? ?ÔNG - TÔ NG?C VÂN,53 m² - 2 PN,"2,3 t?",Qu?n Th? ??c
+0,C?n h? 2PN cao c?p trung tâm Bình Chánh,59 m² - 2 PN,"2,301 t?",Huy?n Bình Chánh
+1,"?? CC Richstar bán g?p c?n 3PN 2WC, Full N?i Th?t",84 m² - 3 PN,"3,45 t?",Qu?n Tân Phú
+2,Chính ch? Carillon 7 67m² 2PN- .h??ng B?c m?t ti?n,67 m² - 2 PN,"2,6 t?",Qu?n Tân Phú
+3,"Chung C? Giá T?t, Có S? H?ng, 55.9m2, Gò V?p",55.9 m² - 1 PN,"1,5 t?",Qu?n Gò V?p
+4,MASTERI CENTRE POIN KO CÓ TI?N V?N MUA ???C NHÀ.,71 m² - 2 PN,756 tri?u,Qu?n 9
+5,C?n góc view công viên 2PN - $ 2 t? 2 TL Chính ch?,85 m² - 2 PN,"2,2 t?",Huy?n Nhà Bè
+6,Chung c? 45m2 Th? ??c - Thành ph? Th? ??c,45 m² - 1 PN,"1,25 t?",Qu?n Th? ??c
+7,Chung c? Sky 9 50m² 2PN,50 m² - 2 PN,"1,7 t?",Qu?n 9
+8,Chung c? Saigon Homes Bình Tân 2PN 1.8 t? Bao Phí,66 m² - 2 PN,"1,8 t?",Qu?n Bình Tân
+9,"Giá c?c t?t mùa d?ch Q7 Boulevard 2PN,? ???c ngay",70 m² - 2 PN,"2,85 t?",Qu?n 7
+10,Chung c? Qu?n Bình Th?nh 52m² 2PN,52 m² - 1 PN,"2,4 t?",Qu?n Bình Th?nh
+11,"C?N H? KHANG GIA 76.7m2 ???NG S? 45, P14, GÒ V?P",76.7 m² - 2 PN,"1,68 t?",Qu?n Gò V?p
+12,Chung c? The Eastern 112m² 3 PN,112 m² - 3 PN,"2,75 t?",Qu?n 9
+13,"Bán C?n 2PN 2WC, 82m2, 2.3 t?. CHCC Sacomreal 584",82 m² - 2 PN,"2,3 t?",Qu?n Tân Phú
+14,Chung c? Scenic Valley 101m² 3 PN,101 m² - 3 PN,"5,1 t?",Qu?n 7
+15,Conic Riverside 72m² 2PN + 2WC Qu?n 8 Giá T?t,73 m² - 2 PN,"1,96 t?",Qu?n 8
+16,Bán C?n H? Picity High Park Q 12 Cao C?p Khu Tây,57 m² - 2 PN,"2,4 t?",Qu?n 12
+17,Bán 2PN 2WC Full N?i Th?t Giá: 2.850t? Richstar ??,65.4 m² - 2 PN,"2,85 t?",Qu?n Tân Phú
+18,"Chung c? Picity Hight Park, Q.12, 65m² 2PN.",65 m² - 2 PN,"2,35 t?",Qu?n 12
+19,Chung c? Carillon 7 105m² 3PN giá bán nhanh,105 m² - 3 PN,"3,9 t?",Qu?n Tân Phú
+0,Chung c? Masteri Th?o ?i?n 65m² 2 PN View Landmark,65 m² - 2 PN,"4,12 t?",Qu?n 2
+1,?? HÀNG HI?M ?ÀO TRÍ C?N GÓC 3 PN GÍA ?U ?ÃI,97.2 m² - 3 PN,"3,65 t?",Qu?n 7
+2,Bán C?n H? Ng?c ?ông D??ng 2PN 2WC Giá 1.85 t?,64 m² - 2 PN,"1,8 t?",Qu?n Tân Phú
+3,"C?n h? 2 PN 62m2 Dreamhome Palace, Q.8",62 m² - 2 PN,"2,15 t?",Qu?n 8
+4,C?N BÁN NHÀ Q2 ???NG CAO ??C LÂN,80 m² - 3 PN,"3,2 t?",Qu?n 2
+5,Bán c?n h? qu?n 7 - 2PN nh?n nhà m?i keng,70.58 m² - 2 PN,"2,59 t?",Qu?n 7
+6,"Celadon City c?n 71m² nhà m?i, full n?i th?t ??",71 m² - 2 PN,"3,4 t?",Qu?n Tân Phú
+7,Carillon 7 88m² 3PN c?n s? 1 - h.b?c .t?ng cao,88 m² - 3 PN,"3,2 t?",Qu?n Tân Phú
+8,Chung c? Âu C? Tower 89m² 3PN c? s? h?ng,89 m² - 3 PN,"2,7 t?",Qu?n Tân Phú
+9,"SGGW BÁN NHANH CH 3PN R?NG 90M2 NHÀ THOÁNG MÁT,",90 m² - 3 PN,"2,1 t?",Qu?n 9
+10,Chung c? Fortuna Kim H?ng 75m²/2PN Có s? h?ng,75 m² - 2 PN,"2,15 t?",Qu?n Tân Phú
+11,"C?N H? CENTANA 3PN, 2WC, N?I TH?T C? B?N, 88m2",88 m² - 3 PN,"3,5 t?",Qu?n 2
+12,Chính ch? bán C?n h? cao c?p Qu?n 7 giá r?,66 m² - 2 PN,4 t?,Qu?n 7
+13,CH Khang Phú 2PN 2WC có s? h?ng. Giá bán 2.3 t?,75 m² - 2 PN,"2,3 t?",Qu?n Tân Phú
+14,MUA RICHMOND CITY? 2PN CH? 3.4T? VIEW LANDMARK ?,68 m² - 2 PN,"3,4 t?",Qu?n Bình Th?nh
+15,Sunrise City View 2pn 1wc t?ng cao có n?i th?t,53 m² - 2 PN,"3,07 t?",Qu?n 7
+16,Giá c?n h? 2PN +1WC c?a  d? án PICITY HIGH PARK,57 m² - 2 PN,"2,1 t?",Qu?n 12
+17,"Bán g?p: C?n 64m2, NTCB giá ch?: 3.05t? CC Emearld",64 m² - 2 PN,"3,05 t?",Qu?n Tân Phú
+18,Chính ch? c?n bán c?n h? CC Citihome T?ng cao,72.32 m² - 2 PN,"2,1 t?",Qu?n 2
+19,CH Dream Home qu?n 8 giá t?t t?ng n?i th?t cao c?p,56 m² - 2 PN,"1,5 t?",Qu?n 8
+0,Orchard Park View tháp 1 2PN t?ng cao view Tây B?c,83 m² - 2 PN,"5,5 t?",Qu?n Phú Nhu?n
+1,"C?n góc 83m2 Hoàng Kim s? h?ng s?n, full n?i th?t",83 m² - 3 PN,"2,6 t?",Qu?n Bình Tân
+2,C?N HÔ? CH??NG D??NG HOME,45 m² - 1 PN,"1,25 t?",Qu?n Th? ??c
+3,S? h?u nhà tháp 3 cánh ??c nh?t Sài Gòn,85 m² - 3 PN,"1,05 t?",Huy?n Bình Chánh
+4,Bán CH Quang Thái 2PN 2WC. Nhà có s? h?ng.,63 m² - 2 PN,"1,95 t?",Qu?n Tân Phú
+5,C?n h? Bình Chánh s? h?u ch? t? 660 tri?u(30%),59 m² - 2 PN,"2,2 t?",Huy?n Bình Chánh
+6,Chung c? Qu?n 8 61.75m² 2PN,61.75 m² - 2 PN,"1,73 t?",Qu?n 8
+7,C?n góc A25 Lavita Charm 69m² 2PN (chính Ch?),69 m² - 2 PN,"3,2 t?",Qu?n Th? ??c
+8,?????????????????? Q7 BOULEVARD - Chi?t kh?u 10%,109 m² - 2 PN,7 t?,Qu?n 7
+9,"Bán c?n h? Central Premium 73m2 giá r? 3,3t?",73 m² - 2 PN,"3,3 t?",Qu?n 8
+10,"Cc SunriseRiverside 70m² 2 PN,có s?n h? thuê...",70 m² - 2 PN,"3,4 t?",Huy?n Nhà Bè
+11,BÁN G?P 3PN SAIGON PEARL 135M2 DECOR CHÂU ÂU,135 m² - 3 PN,"7,4 t?",Qu?n Bình Th?nh
+12,"C?N H? VINHOMES, 2PN, N?I TH?T ??P, CÓ S? H?NG",80 m² - 2 PN,"5,35 t?",Qu?n Bình Th?nh
+13,D? án LAVITA CHARM,67 m² - 3 PN,3 t?,Qu?n Th? ??c
+14,CC An Ti?n c?n góc nh? hình 2.6 t? ??y ?? n?i thât,121 m² - 3 PN,"2,6 t?",Huy?n Nhà Bè
+15,"C?n h? 74m2 Blue Sapphire 29 Bình Phú. Giá 2,25 t?",74 m² - 2 PN,"2,25 t?",Qu?n 6
+16,Bán c?n h? Central Premium giá r? 3 t?/2PN,58 m² - 2 PN,3 t?,Qu?n 8
+17,"3PN t?i Sky Center 3PN=96m2=4,12 t?, 129m2=5t?28,",129 m² - 3 PN,6 t?,Qu?n Tân Bình
+18,"Bán g?p CH Sunrise Riverside 83m² 3PN 2WC 3,4 t?",83 m² - 3 PN,"3,4 t?",Huy?n Nhà Bè
+19,Can hô 2PN Lux Garden view pháo hoa,62.9 m² - 2 PN,"2,25 t?",Qu?n 7
+0,"Bán c?n h? Galaxy 9 , 68m2 2PN Full N?i Th?t 3T?6",68 m² - 2 PN,"3,6 t?",Qu?n 4
+1,C?N H? THÁP MEKONG WESTGATE,1 m² - 2 PN,35 tri?u,Huy?n Bình Chánh
+2,Chung c? The Park Residence 84m² 2PN,84 m² - 2 PN,"2,2 t?",Huy?n Nhà Bè
+3,Chung c? Carillon 7 Qu?n Tân Phú 71m² 2PN,71 m² - 2 PN,"2,75 t?",Qu?n Tân Phú
+4,Chung c? cao c?p ??p Botanica Premier 105m² 3PN,105 m² - 3 PN,"6,33 t?",Qu?n Tân Bình
+5,Bán r? c?n 2PN 46.7m2 Vinhomes GP TT794tr ? ngay,59 m² - 2 PN,"1,69 t?",Qu?n 9
+6,"Bán CH Jamila Khang ?i?n 2-3PN 2,75 t? (bao h?t)",75 m² - 2 PN,"2,75 t?",Qu?n 9
+7,Chung c? Carillon 5 70m² 2 PN 2 WC,70 m² - 2 PN,"2,65 t?",Qu?n Tân Phú
+8,Officetel Central Premium 27m² 1 PN giá 1ty6 full,27 m² - 1 PN,59 tri?u,Qu?n 8
+9,Sang phi?u giá CDTC?n góc 2pn Masteri Center Point,73 m² - 2 PN,470 tri?u,Qu?n 9
+10,Bán l? c?n 2PN 59.4m2 t?i Vinhomes Qu?n 9 nh?n nha,59.4 m² - 2 PN,"1,899 t?",Qu?n 9
+11,Chung c? West Gate Park 59m² 2PN,59 m² - 2 PN,10 tri?u,Huy?n Bình Chánh
+12,"Chung c? Carillon 5, DT70m² 2 PN Full n?i th?t ??p",70 m² - 2 PN,"2,7 t?",Qu?n Tân Phú
+13,R? hàng chuy?n nh??ng T7/2021 Lavida Plus Qu?n 7,96 m² - 3 PN,"3,8 t?",Qu?n 7
+14,Mình c?n mua c/c Sunview Town giá t?t!,56 m² - 2 PN,"1,6 t?",Qu?n Th? ??c
+15,Sang l? c?n 2PN Vinhomes Qu?n 9 59.4m2 ? ngay,59.4 m² - 2 PN,"1,996 t?",Qu?n 9
+16,Bán c?n h? 40m² chung c? An Hòa 1.Tr?n Tr?ng Cung,40 m² - 1 PN,"1,5 t?",Qu?n 7
+17,Bán Chung c? Anh Tu?n Apartment 65m² 2 PN,67 m² - 2 PN,"1,2 t?",Huy?n Nhà Bè
+18,Chính ch? bán 3 c?n 1PN 1WC The Botanica t?ng 16.,55 m² - 1 PN,"3,15 t?",Qu?n Tân Bình
+19,"Chung c? The Gold View 70m² 2 PN,L?u 9.",67 m² - 2 PN,"3,5 t?",Qu?n 4
+0,"Lý gi?i mua nhà 0 ??ng, vay 100%, t? v?n t?n tình",74 m² - 2 PN,"2,9 t?",Qu?n 9
+1,Sang l? c?n h? VHGP 47m2 2PN1WC nh?n nhà ? ngay,47 m² - 2 PN,"1,699 t?",Qu?n 9
+2,"BÁN G?P CH SUNVIEW TOWN NHÀ M?I ??P, FULL NT.",58 m² - 2 PN,"1,85 t?",Qu?n Th? ??c
+3,Chung c? dream home palace 62m2 2PN,62 m² - 2 PN,"1,7 t?",Qu?n 8
+4,Bán CH Saigonhomes View H? B?i 1PN 48m2 - M?i 100%,48 m² - 1 PN,"1,49 t?",Qu?n Bình Tân
+5,K?t ti?n bán g?p c?n 2PN-2WC full n?i th?t g?,62 m² - 2 PN,"1,9 t?",Qu?n 8
+6,C?n h? thông minh Chung c? Lovera Vista 65m² 2PN,65 m² - 2 PN,"2,09 t?",Huy?n Bình Chánh
+7,C?n h? 121m2 Akari 3PN giá 3.85 t?,100 m² - 3 PN,"3,85 t?",Qu?n Bình Tân
+8,chính ch? bán Full NT 1.6 t? l?u th?p block C,50 m² - 2 PN,"1,6 t?",Qu?n Th? ??c
+9,CH Conic 2PN  72m2_ View ??p 7 Tri?u Full N?i Th?t,72 m² - 2 PN,7 tri?u,Huy?n Bình Chánh
+10,Bán L? do covid 2 c?n Terra Royal 58m² 2PN,58 m² - 2 PN,"4,5 t?",Qu?n 3
+11,Chung c? Vinhomes Grand Park (Vincity Qu?n 9) 47m²,47 m² - 1 PN,"1,87 t?",Qu?n 9
+12,Nhà h?m 65m2 khu dân c?,65 m² - 2 PN,"1,2 t?",Huy?n Nhà Bè
+13,"K?t Ti?n mùa D?ch, Bán Shophouse và c?n h? Q7, Q8",246 m² - 2 PN,"16,907894 t?",Qu?n 7
+14,Nhà ??p t?m nhìn tri?u ?ô 96m2 Diamond Brilliant,96 m² - 2 PN,"5,1 t?",Qu?n Tân Phú
+15,C?n h? Akari City 75m² m?t ti?n Võ V?n Ki?t,75 m² - 2 PN,"2,6 t?",Qu?n Bình Tân
+16,Bán c?n h? 56m2 CC Mizuki full n?i th?t,56 m² - 2 PN,"2,45 t?",Huy?n Bình Chánh
+17,Gi? hàng C?n h? Him Lam Nam Khánh 2.6 t? Gía t?t,83 m² - 2 PN,"2,6 t?",Qu?n 8
+18,BÁN C?N H? 2PN FULL N?I TH?T THE SUN AVENUE QU?N 2,76 m² - 2 PN,"4,25 t?",Qu?n 2
+19,C?n h? Akari City Nam Long 56m 2PN,56 m² - 2 PN,"2,185 t?",Qu?n Bình Tân
+0,Chung c? C?n h? Cityland Parkhill Gò V?p 83.6m²,83.6 m² - 2 PN,"3,8 t?",Qu?n Gò V?p
+1,Bán c?n h? An Phú l?u 5 ??p m?i 87m2 giá chính ch?,87 m² - 2 PN,"2,9 t?",Qu?n 6
+2,Sang l? c?n 2PN Vinhomes qu?n 9 view sông,59 m² - 2 PN,"2,15 t?",Qu?n 9
+3,Chung c? Akari City 56m² 2 PN giá t?t  tháng 6,56 m² - 2 PN,"2,11 t?",Qu?n Bình Tân
+4,"Bán c?n h? Sadora Q.2, 120m² 3PN, giá 9.05 t?",120 m² - 3 PN,"9,05 t?",Qu?n 2
+5,15 phòng tr? g?n Ch? hi?p thành giá 750tr,225 m² - 7 PN,750 tri?u,Qu?n 12
+6,C?n h? Akari City 2PN-2WC view ?ông thoáng mát,75 m² - 2 PN,"2,65 t?",Qu?n Bình Tân
+7,Chính ch? sang c?n h? 2PN 47m2 t?i Vinhomes qu?n 9,47 m² - 1 PN,"1,288 t?",Qu?n 9
+8,Chung c? Mizuki Park 50m² 2 PN ??y ?? n?i th?t,50 m² - 2 PN,"1,65 t?",Huy?n Bình Chánh
+9,"Nhà ??p,chill,ch? 2.75t? sát Q1,view ??p,full NT",68 m² - 2 PN,"2,75 t?",Qu?n Bình Th?nh
+10,CHÍNH CH? G?I BÁN C?N FULL NT CAO C?P- TUY?T ??P,75 m² - 2 PN,"4,3 t?",Qu?n 2
+11,"C?n h? l??t sóng siêu l?i nhu?n,Mua ? giá c?c t?t",65 m² - 2 PN,340 tri?u,Qu?n Bình Th?nh
+12,Masteri Centre Point Qu?n 9 Tp Th? ??c m? bán,71 m² - 2 PN,50 tri?u,Qu?n 9
+13,Ch? TT 15% s? h?u ngay King Crown Infinity Th? ??c,80 m² - 2 PN,"6,7 t?",Qu?n Th? ??c
+14,"Bán CH Sky 3 Phú M? H?ng Q.7 ,2PN,2WC giá 2.550 t?",70 m² - 2 PN,"2,55 tri?u",Qu?n 7
+15,CHUY?N NH??NG C?N 2PN 88.8m2 DIAMOND ALNATA,88.8 m² - 2 PN,"4,32 t?",Qu?n Tân Phú
+16,Chung c? Flora Anh ?ào 55m² 2PN ?ã có s? h?ng,55 m² - 2 PN,"1,775 t?",Qu?n 9
+17,"N? NGÂN HÀNG, Bán c?n 3pn, 85m2, giá 5.1 t?, HDMB",85 m² - 3 PN,"5,1 t?",Qu?n Phú Nhu?n
+18,C?n bán c?n h? 3PN 119m2 Diamond Alnata,119 m² - 3 PN,"5,75 t?",Qu?n Tân Phú
+19,"Bán g?p Officetel 35m² ch? 1,15 t? t?i cc D-Vela",35 m² - 1 PN,"1,15 t?",Qu?n 7
+0,C?n h? 3PN full n?i th?t cao c?p Sunrise CityView,105 m² - 3 PN,"5,295 t?",Qu?n 7
+1,CHUY?N NH??NG C?N 3PN DIAMOND ALNATA GIÁ T?T,119 m² - 3 PN,"5,75 t?",Qu?n Tân Phú
+2,"C?n h? Penthouse Pearl Plaza, View sông SG",172 m² - 3 PN,"12,5 t?",Qu?n Bình Th?nh
+3,"Chung c? Mizuki Park 56m² 2 PN, h??ng ?ông, mp3",56 m² - 2 PN,"2,265 t?",Huy?n Bình Chánh
+4,C?n 2PN+1WC 66m2 L9 C.C? Ngô T?t T? P19 B.Th?nh,66 m² - 2 PN,"2,75 t?",Qu?n Bình Th?nh
+5,C?n bán g?p c?n h? Mizuki 56m2 full s? giá 2.2 t?,56 m² - 2 PN,"2,2 t?",Huy?n Bình Chánh
+6,"C? h?i cu?i cùng ?? ??u t? BI?T TH?, SHOPHOUSE Q9",25 m² - 1 PN,"4,6 t?",Qu?n 9
+7,BÁN C?N H? KHU SÂN BAY VIEW ?ÔNG M?I 100% SIÊU ??P,70 m² - 2 PN,"4,15 t?",Qu?n Tân Bình
+8,CH? 750TR NH?N C?N H? TRUNG TÂM QU?N 12 CHU?N 4*,65 m² - 2 PN,"2,5 t?",Qu?n 12
+9,C?n h? Flora Kikyo 2PN view ?ông thoáng mát,54 m² - 2 PN,"1,92 t?",Qu?n 9
+10,Bán c?n h? Saigon Riverside Complex Q7 53m² 2PN,53 m² - 2 PN,"1,82 t?",Qu?n 7
+11,Chung c? Võ ?ình Apartment 60m² 2PN,60 m² - 2 PN,"1,7 t?",Qu?n 12
+12,Bán c?n góc Rivera Park Sài Gòn 78m² 2PN,78 m² - 2 PN,"4,59 t?",Qu?n 10
+13,Chung c? Qu?n Th? ??c - Thành ph? Th? ??c 68m² 2PN,68 m² - 2 PN,3 t?,Qu?n Th? ??c
+14,"Bán c?n h?  blue saphia p10,q6 ,80m2 , 2pn,2wc",80 m² - 2 PN,"2,5 t?",Qu?n 6
+15,Chung c? Viva Riverside Qu?n 6-DT 71.6m² 2PN NTCB,71.6 m² - 2 PN,"3,35 t?",Qu?n 6
+16,"Bán CH 75m2 giá 1,780 t? Full n?i th?t - ?Ã CÓ S?",72 m² - 2 PN,"1,78 t?",Huy?n Nhà Bè
+17,C?n h? Akari City 75m² Ban Công H??ng Tây,75 m² - 2 PN,"2,62 t?",Qu?n Bình Tân
+18,"Bán g?p c?n 2PN - 2WC Richstar full NT, 2,6 t?",65 m² - 2 PN,"2,6 t?",Qu?n Tân Phú
+19,BÁN 2PN GIÁ G?C LOVERA VISTA -gi? hàng giá t?t,65 m² - 2 PN,"2,035 t?",Huy?n Bình Chánh
+0,V?I 870 TRI?U S? H?U C?N H? RESORT CHU?N 5 SAO,65 m² - 2 PN,"2,925 t?",Qu?n 12
+1,"c?n h? IDICO Tân Phú: 67m2/2PN + 2WC ,có n?i th?t",67 m² - 2 PN,"1,8 t?",Qu?n Tân Phú
+2,PICITY HIGH PART KI?T TÁC KI?N TRÚC HOÀN M?,49 m² - 1 PN,"1,9 t?",Qu?n 12
+3,CH s? h?ng Prosper Plaza full NT DT65m2 giá 2.25,65 m² - 2 PN,"2,25 t?",Qu?n 12
+4,C?n h? Kikyo Residence 56m2 giáp Q2,56 m² - 2 PN,"1,93 t?",Qu?n 9
+5,C?N H? CC WIEW SÔNG SÀI GÒN C?C ??P,83 m² - 3 PN,"3,2 t?",Qu?n 7
+6,Chung c? trung tâm Huy?n Bình Chánh 59m² 2PN,59 m² - 2 PN,"2,3 t?",Huy?n Bình Chánh
+7,Chung c? Saigon Riverside Complex Q7 67m² 2PN,67 m² - 2 PN,"2,23 t?",Qu?n 7
+8,C?n m?i c?n bán g?p,68 m² - 2 PN,"1,72 t?",Qu?n 12
+9,Officetel & 3PN Central Premium Q8 nh?n nhà ? ngay,26 m² - 1 PN,"1,4 t?",Qu?n 8
+10,"Bán g?p c?n 53m2 view Qu?n 1, Q2 giá 2.88 t?",54 m² - 2 PN,"2,88 t?",Qu?n 7
+11,Mua nhà 0? v?i d? án Vinhomes Qu?n 9,67 m² - 2 PN,3 t?,Qu?n 9
+12,C?n ti?n bán nhanh Duplex 127m2 3Pn Emerald,127 m² - 3 PN,"4,7 t?",Qu?n Tân Phú
+13,"C?n 75m2, 1.650 t?, bao thu? phí, h??ng ?B mát m?",75 m² - 2 PN,"1,65 t?",Huy?n Nhà Bè
+14,C?n h? Chung c? Qu?n 9 Thành ph? Th? ??c 59m² 2 PN,59 m² - 2 PN,2 t?,Qu?n 9
+15,"Bán C?n Kingdom 101 _ H?ng sang 2 Phòng ng? , 2wc",78 m² - 2 PN,5 t?,Qu?n 10
+16,Ch? C?n Thanh Toán 600 Tri?u S? H?u V? Trí 5 MT,69 m² - 2 PN,"1,9 t?",Huy?n Bình Chánh
+17,BÁN C?N G?C LAVITA CHARM 2PN-2WC H??NG LANDMARK,67 m² - 2 PN,"2,6 t?",Qu?n Th? ??c
+18,C?n h? cao c?p c?nh công viên Garden Gate 75m² 2PN,75 m² - 2 PN,"4,3 t?",Qu?n Phú Nhu?n
+19,C?n h? Ehome S Mizuki 50m² nhà ??p y hình,50 m² - 2 PN,"1,63 t?",Huy?n Bình Chánh
+0,C?n bán g?p c?n h? 2pn Vista Verde qu?n 2 giá t?t,90 m² - 2 PN,"5,5 t?",Qu?n 2
+1,??C NH?T C?N ??P PRECIA TH? H??NG TOÀN B? TI?N ÍCH,101 m² - 3 PN,"5,974 t?",Qu?n 2
+2,C?n H? 78m2 2 Phòng Ng? Giá 900 Tri?u.,78 m² - 2 PN,"2,6 t?",Qu?n 12
+3,R? hàng CDT - Officetel + 3PN - Nh?n nhà ? ngay,32 m² - 1 PN,"1,651 t?",Qu?n 8
+4,West Gate M? Bán G?1 40 C?n Shophouse Giá Siêu T?t,50 m² - 1 PN,100 tri?u,Huy?n Bình Chánh
+5,"C?n h? Mizuki giai ?o?n 2 block Mp6,7,8, vay ls 0%",58 m² - 2 PN,"2,6 t?",Huy?n Bình Chánh
+6,[BÁN G?P] Chung c? Qu?n Bình Tân 56m² 2PN,56 m² - 2 PN,"1,57 t?",Qu?n Bình Tân
+7,BÁN C?N H? 2PN FULL N?I TH?T THE SUN AVENUE QU?N 2,76 m² - 2 PN,4 t?,Qu?n 2
+8,Chung c? The Botanica 73m² 2PN c?n góc thoáng mát,73 m² - 2 PN,4 t?,Qu?n Tân Bình
+9,"Chung c? Âu C? Town , DT 80m² 3PN/2WC có s? h?ng",80 m² - 3 PN,"2,45 t?",Qu?n Tân Phú
+10,"c?n góc 72m2 cc starlight q.6 full n?i that 2,3t?",72 m² - 2 PN,"2,3 t?",Qu?n 6
+11,(Bán g?p) C?n h? chung c? Conic Reverside m?i,64 m² - 2 PN,"2,1 t?",Qu?n 8
+12,C?n h? Akari City 75m² 2PN 2WC view n?i khu h? b?i,75 m² - 2 PN,"2,73 t?",Qu?n Bình Tân
+13,Còn 2 c?n h?  ch? 252tr 48m2 cu?i nguy?n v?n b?a,48 m² - 1 PN,252 tri?u,Huy?n Hóc Môn
+14,Nhà 1 tr?t 2 l?u sau ch? Bình Chánh 700m,90 m² - 3 PN,"1,8 t?",Huy?n Bình Chánh
+15,C?n bán c?n h? Lovera Vista giá t?t,54 m² - 1 PN,"1,75 t?",Huy?n Bình Chánh
+16,Chung c? Tây Th?nh 58m² 2 PN,58 m² - 2 PN,"1,6 t?",Qu?n Tân Phú
+17,THANH TOÁN TR??C 1T? NH?N NGAY C?N 2PN CENTUM WEAT,68 m² - 2 PN,1 t?,Qu?n 9
+18,GIÁ C?C NÓNG MÙA D?CH,59 m² - 2 PN,"1,69 t?",Qu?n 2
+19,C?n h? 3PN full n?i th?t nh? hình,99 m² - 3 PN,"5,3 t?",Qu?n 7
+0,Chung C? giá 300tr MT N? Trang Long - B.Th?nh,34 m² - 1 PN,300 tri?u,Qu?n Bình Th?nh
+1,XU H??NG S?NG XANH KHU TÂY SÀI GÒN ??,50 m² - 2 PN,"1,9 t?",Qu?n 12
+2,Chung c? Lavida Plus Q7 75m² 2PN bao thu? phí,75 m² - 2 PN,"2,8 t?",Qu?n 7
+3,Chính ch? c?n bán g?p cc City Gate 2 mùa d?ch,86 m² - 3 PN,"2,95 t?",Qu?n 8
+4,"C?n H? Góc 92m2 3PN Giá ch? 2,58 t? Ch? K?t Ti?n",92 m² - 3 PN,"2,58 t?",Qu?n 8
+5,C?n h? Mizuki Park 72m² 2PN có bancon view h? b?i,72 m² - 2 PN,"2,78 t?",Huy?n Bình Chánh
+6,Chung c? Tây Th?nh 45m² 1 PN l?u 2,45 m² - 1 PN,"1,35 t?",Qu?n Tân Phú
+7,Chung c? Samland Giai Vi?t 150m² 3PN full NT 4.5t?,150 m² - 3 PN,"4,5 t?",Qu?n 8
+8,Siêu r? c?n h? Eco Xuân Block cu?i giá 27 tri?u/m2,69 m² - 2 PN,540 tri?u,Qu?n Th? ??c
+9,"75m2 giá bao thu? phí 2.716 t?, t?ng trung",75 m² - 2 PN,"2,716 t?",Qu?n Bình Tân
+10,Chung c? Richmond city 86m² 3PN co? Nô?i Thâ?t,86 m² - 3 PN,"4,9 t?",Qu?n Bình Th?nh
+11,C?n h? mini giá r? trung tâm qu?n 3,35 m² - 1 PN,"1,5 t?",Qu?n 3
+12,"3PN 85m2 Dragon 1A Ch?a bàn giao, Giá T?t sang G?p",85 m² - 3 PN,"2,152 t?",Qu?n 8
+13,Chung c? Masteri Th?o ?i?n 145m² 4 PN,145 m² - 4 PN,"8,1 t?",Qu?n 2
+14,Jamila 2PN ?ã có s? full n?i th?t giá t?t 2.7 t?,70 m² - 2 PN,"2,7 t?",Qu?n 9
+15,C?n góc Mizuki Park 2PN-2WC thoáng mát ? li?n,67 m² - 2 PN,"2,45 t?",Huy?n Bình Chánh
+16,"sang nh??ng CH prosper c?n g?c 65m2, giá  2.2 t?",65 m² - 2 PN,"2,2 t?",Qu?n 12
+17,C?N H? TI?N ÍCH ??NG C?P NH?T KHU TÂY SÀI GÒN,83 m² - 3 PN,2 t?,Huy?n Bình Chánh
+18,TÔI BÁN C?N LAVITA GARDEN 2PN=2.3T? G?I EM NHÉ,68 m² - 2 PN,"2,3 t?",Qu?n Th? ??c
+19,"BÁN G?P CH SUNVIEW VIEW ??P,GIÁ TH?T 100%, CÓ SHR.",58 m² - 2 PN,"1,6 t?",Qu?n Th? ??c
+0,"C?n GÓC 3PN Botanica Premier 96m2, view thoáng",96 m² - 3 PN,"5,15 t?",Qu?n Tân Bình
+1,"LAVITA GARDEN 2.3T?, 68M2, 2PN, 2WC M?I BÀN GIAO",68 m² - 2 PN,"2,3 t?",Qu?n Th? ??c
+2,T?NG H?P CÁC C?N 2PN-1WC T?I LAVITA GARDEN C?N BÁN,65 m² - 2 PN,"2,3 t?",Qu?n Th? ??c
+3,Chính ch? Bán C?n H? 4S Riverside Bình Tri?u 73m²,73 m² - 2 PN,"2,83 t?",Qu?n Th? ??c
+4,Chung c? Dream Home Palace 61.75m² 2PN,61.75 m² - 2 PN,"1,7 t?",Qu?n 8
+5,MÌNH BÁN CH RICHMOND 3PN- R?NG RÃI DESIGHT ??P,86 m² - 3 PN,"4,4 t?",Qu?n Bình Th?nh
+6,"k?t ti?n bán nhanh ??t ru?ng, ?ang lên th? c?,",888 m² - 2 PN,"2,8 t?",Huy?n Hóc Môn
+7,"Chung c? Asiana Capella 62m² 2PN, Qu?n 6",62 m² - 2 PN,"3,1 t?",Qu?n 6
+8,Bán c?n h? linh tây 85m2 2PN 2WC,85 m² - 2 PN,"2,33 t?",Qu?n Th? ??c
+9,CH RICHMOND CITY FULL N?I TH?T 3PN-2WC GIÁ 4.3T?,86 m² - 3 PN,"4,3 t?",Qu?n Bình Th?nh
+10,"Bán c?n h? Sen H?ng block B, s? s?n, 50m2, t?ng 8",50 m² - 2 PN,"1,6 t?",Qu?n Th? ??c
+11,Chung c? Qu?n 9 - Thành ph? Th? ??c 57m² 1PN + 1,57 m² - 1 PN,"1,89 t?",Qu?n 9
+12,Bán c?n h? An Gia Garden 63M 2PN 2WC View H? B?i,63 m² - 2 PN,"2,85 t?",Qu?n Tân Phú
+13,Thanh Toán 30% S? H?u C?n H? 2PN2WC Full N?i Th?t,59 m² - 2 PN,"1,9 t?",Huy?n Bình Chánh
+14,"18 phòng tr? 910tr thu nh?p 21tr l/ tháng , có s?",216 m² - nhi?u h?n 10 PN,910 tri?u,Qu?n Bình Tân
+15,"C?n bán g?p bán l? 58m2 c,c Gò D?u - LôB",58 m² - 2 PN,"1,85 t?",Qu?n Tân Phú
+16,C?n h? KDC Gia Hoà 66m2/2.39 t? TL- 2pn-2wc,66 m² - 2 PN,"2,39 t?",Qu?n 9
+17,Bán nhà m?i xây 60m2 g?n GIGAMALL Ph?m V?n ??ng,60 m² - 4 PN,"5,8 t?",Qu?n Th? ??c
+18,Chung c? Cityland Parkhill 83.6m² 2PN view sân bay,83.6 m² - 2 PN,"3,8 t?",Qu?n Gò V?p
+19,Chung c? Qu?n 8 54m² 1 PN,54 m² - 1 PN,"1,65 t?",Qu?n 8
+0,CC Saigon Homes Bình Tân 50m² 1PN ? Ngay,50 m² - 1 PN,"1,6 t?",Qu?n Bình Tân
+1,Chung c? Qu?n 5 70m² 2PN SH chính ch?,70 m² - 2 PN,3 t?,Qu?n 5
+2,"??i h? giá 2,39 t? TL.66m2 t?ng cao c?n h? Gia Hoà",66 m² - 2 PN,"2,39 t?",Qu?n 9
+3,M? BÁN C?N H? H?NG SANG C?NH SÔNG  TH?O ?I?N Q2,83 m² - 2 PN,200 tri?u,Qu?n 2
+4,"Dreamhome Residence Gò V?p 3PN, 73.8m2, C?N GÓC",73 m² - 3 PN,"2,65 t?",Qu?n Gò V?p
+5,Bán Cao ?c Phú Hoàng Anh Giá R? 2t?8 T?ng N?i Thât,129 m² - 3 PN,"2,8 t?",Huy?n Nhà Bè
+6,Bán G?p Duplex(Nhà Thô)Giá T?t:3t?350 260m2,260 m² - 5 PN,"3,35 t?",Huy?n Nhà Bè
+7,"C?n h? RuBy Garden 90,5m2 , c?n góc , Block A, 2PN",90.5 m² - 2 PN,"3,1 t?",Qu?n Tân Bình
+8,C?n h? Central Premium Q.8 ?a d?ng di?n tích.,38 m² - 1 PN,"1,65 t?",Qu?n 8
+9,Chung c? Qu?n 9 Masteri Centre Point 70m² 2PN,70 m² - 2 PN,50 tri?u,Qu?n 9
+10,C?n h? 2PN/74m2 giá m?m t?i Lavida Plus Q.7,74 m² - 2 PN,"3,25 t?",Qu?n 7
+11,HÓT??Chung c? Kingdom 101 78.2m²_2PN+2WC- 5.050 t?,78.2 m² - 2 PN,"5,05 t?",Qu?n 10
+12,C?n mua Chung c? Lavita Garden 68m² 2PN2WC,68 m² - 2 PN,"2,4 t?",Qu?n Th? ??c
+13,"C?n h? Q.8 62m2 2PN 2WC giá t?t, t?ng trung",62 m² - 2 PN,"1,73 t?",Qu?n 8
+14,"Chung c? Dream Home Palace 80m² 3PN, view h? b?i",80 m² - 3 PN,"2,09 t?",Qu?n 8
+15,Chung c? Q.8 3PN 2WC 75m2 giá r?,75 m² - 3 PN,"1,97 t?",Qu?n 8
+16,Chính ch? bán g?p CC Flora Fuji Qu?n 9 - 55m² 2PN,55 m² - 2 PN,"1,85 t?",Qu?n 9
+17,??Bán Chung c? Carillon 7_DT:77m²_2PN+2WC-Nhà HTCB,77.2 m² - 2 PN,"2,68 t?",Qu?n Tân Phú
+18,"Chung c? Ch??ng D??ng Home, Tr??ng Th?, T?, 1.25?",45 m² - 1 PN,"1,25 t?",Qu?n Th? ??c
+19,"Chung c? Dreamhome Palace Q8 75m2 3PN, t?ng trung",75 m² - 3 PN,"1,9 t?",Qu?n 8
+0,"Chung c? Sunview Town 58m² 2PN,2WC",58 m² - 2 PN,"1,85 t?",Qu?n Th? ??c
+1,C?n h? nh?,35 m² - 1 PN,850 tri?u,Qu?n 6
+2,C?T L? 50Tr c?n 2PN 68m2 thanh toán 750Tr ? ngay!,68 m² - 2 PN,"1,721 t?",Qu?n 9
+3,"? Gi? Hàng Masteri Th?o ?i?n Q.2 Giá T? 3,1 T? BP",50 m² - 1 PN,"3,1 t?",Qu?n 2
+4,S? H?U C?N H? TH? ??C 65M2 CH? V?I 338TR,65 m² - 2 PN,"1,5 t?",Qu?n Th? ??c
+5,Chính Ch? C?n H? 76m² 2PN Jamona Heights Giá 2ty5,76 m² - 2 PN,"2,5 t?",Qu?n 7
+6,Chung c? Hoàng Anh Gold House Thông t?ng,192 m² - 3 PN,"3,7 t?",Huy?n Nhà Bè
+7,??S? h?u c?n h? ???????????? ????????  ??????????y,48 m² - 1 PN,"2,5 t?",Qu?n 12
+8,MUA COVID THANH TOÁN 30% NH?N NHÀ ? NGAY,69 m² - 2 PN,"2,736835 t?",Huy?n Bình Chánh
+9,C?n h? th??ng m?i EHomeS phú h?u,40 m² - 1 PN,"1,4 t?",Qu?n 9
+10,BÁN C?N 2PN VINHOMES GRAND PARK Q9 GIÁ R? VIEW ?EP,59 m² - 2 PN,"2,015 t?",Qu?n 9
+11,C?n góc 2PN t?i Kingdom 101 t?i Q10. Full thu? phí,78 m² - 2 PN,"5,32 t?",Qu?n 10
+12,"City Gate 2-Qu?n 8 giá 1,950 t?, 2 tháng nh?n nhà.",72 m² - 2 PN,"1,95 t?",Qu?n 8
+13,Chung c? Q7 Boulevard 2PN,69.7 m² - 2 PN,"3,3 t?",Qu?n 7
+14,"C?n bán g?p c?n nhà liên ?p 2-6, v?nh l?c A, Bình",71 m² - 3 PN,"2,55 t?",Huy?n Bình Chánh
+15,chính ch? sang nh??ng c?n Mizuki Park 79.36m² 2PN,79.36 m² - 2 PN,"3,65 t?",Huy?n Bình Chánh
+16,"??? Cam K?t Giá Th?t 100%,Bán C?n 2PN Carillon 7",71 m² - 2 PN,"2,75 t?",Qu?n Tân Phú
+17,"CHUNG C? Q8,VÀO ? NGAY,T?NG N?I TH?T,GIÁ C?C T?T",62 m² - 2 PN,"1,7 t?",Qu?n 8
+18,C?N GÓC 2PN 84M2 EMERALD VIEW CÔNG VIÊN L?N,84 m² - 2 PN,"4,35 t?",Qu?n Tân Phú
+19,"Gi? hàng bán 1pn-2pn-3pn, Duxlep, tr?t khu Emerald",53 m² - 1 PN,"2,35 t?",Qu?n Tân Phú
+0,Chung c? Qu?n 8 50.19m² 1PN,50.19 m² - 1 PN,"1,55 t?",Qu?n 8
+1,New City - 2PN - DT 70m2 - giá 4.8 t? th??ng l??ng,70 m² - 2 PN,"4,8 t?",Qu?n 2
+2,Bán g?p c?n h? Tô Ký Tower ?ã có s? t?ng n?i th?t,61 m² - 2 PN,"1,89 t?",Qu?n 12
+3,C?n h? qu?n 8 62m2 + n?i th?t,62 m² - 2 PN,"1,6 t?",Qu?n 8
+4,Chính ch? do nhu c?u c?n ??i sang c?n h? to h?n,90 m² - 2 PN,"3,15 t?",Qu?n Tân Phú
+5,Thua cá ?? Euro bán g?p c?n 2PN Richstar?Full NT,53 m² - 1 PN,"2,5 t?",Qu?n Tân Phú
+6,Bán c?n h? S3053503 1PN+ Vinhome Grand Park,47 m² - 1 PN,"1,83 t?",Qu?n 9
+7,"C?N H? LI?N K? Q. 7, BX MI?N TÂY - TR? GÓP 0%",85 m² - 3 PN,"2,824574 t?",Huy?n Bình Chánh
+8,Bán c?n h? River Gate 3PN 2WC 95m2 giá 6.3 t?,95 m² - 3 PN,"6,3 t?",Qu?n 4
+9,"C?n bán c?n h? ? li?n 77m2 giá 1,680 t? bao h?t",77 m² - 2 PN,"1,68 t?",Huy?n Nhà Bè
+10,C?n ti?n bán g?p. Nhà full n?i th?t.,54 m² - 2 PN,"1,3 t?",Qu?n 9
+11,Chung c? giá r? Qu?n Bình Tân 34m² 1PN,34 m² - 1 PN,550 tri?u,Qu?n Bình Tân
+12,C?n h? mi ni Phúc An,40 m² - 1 PN,450 tri?u,Huy?n Hóc Môn
+13,"C?n h? 2pn c?nh b?n xe Mi?n Tây,t?ng full n?i th?t",59 m² - 2 PN,715 tri?u,Qu?n Bình Tân
+14,Chính ch? c?n bán c?n shophouse không trung gian,162 m² - 2 PN,6 t?,Qu?n Th? ??c
+15,"C?n h? 2pn,Dt 58m2,th?nh Xuân,q12",58 m² - 2 PN,"2,2 t?",Qu?n 12
+16,C?n h? Topaz Garden 62m2 2PN- Full n?i th?t ??p,62 m² - 2 PN,"2,4 t?",Qu?n Tân Phú
+17,K?t ti?n bán g?p c?n h? 2 phòng ng? view sông 2ty3,67 m² - 2 PN,"2,3 t?",Qu?n 7
+18,C?n H? ???ng C?ng Hoà Ch? 850Tr/C?n Vào ? Ngay,33 m² - 1 PN,850 tri?u,Qu?n Tân Bình
+19,Chính ch? c?n bán,34.7 m² - 1 PN,550 tri?u,Qu?n Bình Tân
+0,88.8m2 trung tâm ??i l? Diamond Alnata Plus,88.8 m² - 2 PN,"5,326 t?",Qu?n Tân Phú
+1,CH KV NGÃ T? BÌNH THÁI G?N QU?N 2 LAVITA CHARM,71 m² - 2 PN,"2,5 t?",Qu?n Th? ??c
+2,"R? CH HIM LAM PA, GIÁ T?T, CÓ NHI?U C?N FULL NT.",70 m² - 2 PN,"2,3 t?",Qu?n 9
+3,$Gi?m C?c Sâu$ Carillon 2PN - Bao phí QL - 2.55 t?,63 m² - 2 PN,"2,55 t?",Qu?n Tân Phú
+4,Bán Bán Bán: 3PN Richstar CC Tân Phú ( Giá Còn TL,93 m² - 3 PN,"3,7 t?",Qu?n Tân Phú
+5,Chung c? Golden Mansion 75m² 2 PN siêu r? full NT,75 m² - 2 PN,4 t?,Qu?n Phú Nhu?n
+6,"Bán c?n h? Viva Riverside 2PN, 68m2, Full n?i th?t",68 m² - 2 PN,"3,35 t?",Qu?n 6
+7,"Bán c?n h? Phúc Th?nh P.1 Q.5,  80m2, 2pn-2wc SHR",80 m² - 2 PN,"2,8 t?",Qu?n 5
+8,Bán c?n h? 2 phòng ng? chung c? 9 View Apartment,58.12 m² - 2 PN,"2,2 t?",Qu?n 9
+9,CH? NHÀ G?I BÁN CH 4PN MASTERI T? 142M2,142 m² - 4 PN,"8,1 t?",Qu?n 2
+10,Ch? nhà k?t ti?n c?n bán c?n 2 pn thu h?i v?n 4ty1,76 m² - 2 PN,"4,1 t?",Qu?n 2
+11,"C?n h? khu Tây, an ninh 3 l?p, ??c quy?n Sài Gòn",85 m² - 3 PN,"1,2 t?",Huy?n Bình Chánh
+12,Chung c? The Park Residence 62m² 2PN,62 m² - 2 PN,"1,8 t?",Huy?n Nhà Bè
+13,"Bán g?p c?n góc,c?n h? teco town bình tân ,dt 67m2",67 m² - 2 PN,"1,69 t?",Qu?n Bình Tân
+14,"?u ?ãi t? C?T duy nh?t 10 su?t, chi?c kh?u 3.5%",78 m² - 2 PN,"1,78 t?",Qu?n 12
+15,"[Thu H?i V?n] Vinhomes Grand Park Q9 69,2m2 2PN2WC",69.2 m² - 2 PN,"1,925 t?",Qu?n 9
+16,Sang l? c?n 59m2 tt 805tr t?i Vinhomes qu?n 9,59 m² - 2 PN,"1,295 t?",Qu?n 9
+17,"Shophouse 3t?ng v?a ?+KD,SH lâu dài, l?i nhu?n cao",150 m² - 2 PN,7 t?,Qu?n 12
+18,Chung c? Lavita Charm 89m² 3PN-2WC ch? 3.5t?,89 m² - 3 PN,"3,5 t?",Qu?n Th? ??c
+19,Bán c?n h? 2 phòng ng? chung c? 9 View Apartment,58.1 m² - 2 PN,"2,15 t?",Qu?n 9
+0,Chung c? Mizuki Park 73m² 2 PN c?n góc giá 3.080ty,73 m² - 2 PN,"3,08 t?",Huy?n Bình Chánh
+1,Tôi chính ch? c?n bán c?n h? Trung Tâm Bình th?nh,35 m² - 1 PN,890 tri?u,Qu?n Bình Th?nh
+2,"C?n h? 2PN t?i TTHC Q12, Dân ?ông H?n 28 ti?n ich",80 m² - 2 PN,950 tri?u,Qu?n 12
+3,"3PN VINHOMES CENTRAL PARK, VIEW ??P, N?I TH?T SÁNG",100 m² - 3 PN,7 t?,Qu?n Bình Th?nh
+4,CC Safira Khang ?i?n Q9 - 67m² 2 PN - Full NT,67 m² - 2 PN,3 t?,Qu?n 9
+5,"BÁN G?P CH HIMLAM PA GIÁ T?T, VIEW ??P, FULL NT.",69.6 m² - 2 PN,"2,85 t?",Qu?n 9
+6,Chuyên bán C?n h? Luxcity 2PN 2WC GIÁ 2TY7,70 m² - 2 PN,"2,7 t?",Qu?n 7
+7,"Jamila Khang ?i?n 70m² 2PN full n?i th?t, có s?",70 m² - 2 PN,"2,8 t?",Qu?n 9
+8,"C?n h? cao c?p Richstar Novaland, 65m2,2PN FULL NT",65 m² - 2 PN,"2,75 t?",Qu?n Tân Phú
+9,"Golden Masion t?ng cao bán 3,83 ty bao phí",75 m² - 2 PN,"3,82 t?",Qu?n Phú Nhu?n
+10,Chung c? Mizuki Park 56m² 2 PN T?ng 3 giá 2.260,56 m² - 2 PN,"2,26 t?",Huy?n Bình Chánh
+11,C?n H? Smarthome 4PN Vinhomes Central Park 167m²,167 m² - 4 PN,"15,89 t?",Qu?n Bình Th?nh
+12,"C?n hi?m! View ??p, 2PN Full NT Giá r?t t?t",80 m² - 2 PN,"4,3 t?",Qu?n 4
+13,?U ?ÃI  KH?NG TRONG MÙA D?CH COVID 19 - QU?N 12,80 m² - 2 PN,"2,2 t?",Qu?n 12
+14,"C?n h? The Western Capital 45m² 1,240ty-4 m?t ti?n",45 m² - 2 PN,"1,24 t?",Qu?n 6
+15,Bán 1PN The Manor 51m2 giá t?t mùa Covid,51 m² - 1 PN,"2,83 t?",Qu?n Bình Th?nh
+16,Bán Chung c? EHome 5 Giá 2 t? 100  54m² 1PN,54 m² - 1 PN,"2,1 t?",Qu?n 7
+17,Chung c? Khu c?n h? Amazing City 42m² 1PN,42 m² - 1 PN,550 tri?u,Huy?n Bình Chánh
+18,"C?n h? li?n k? Gò V?p, ch? 700tr s? h?u",57 m² - 2 PN,"2,2 t?",Qu?n 12
+19,C?N H? BÁN HO?C CHO THUÊ,113 m² - 3 PN,"3,4 t?",Qu?n 7
+0,Chung c? Mizuki Park 73m² 2 PN c?n góc giá 3.080ty,73 m² - 2 PN,"3,08 t?",Huy?n Bình Chánh
+1,Tôi chính ch? c?n bán c?n h? Trung Tâm Bình th?nh,35 m² - 1 PN,890 tri?u,Qu?n Bình Th?nh
+2,"C?n h? 2PN t?i TTHC Q12, Dân ?ông H?n 28 ti?n ich",80 m² - 2 PN,950 tri?u,Qu?n 12
+3,"3PN VINHOMES CENTRAL PARK, VIEW ??P, N?I TH?T SÁNG",100 m² - 3 PN,7 t?,Qu?n Bình Th?nh
+4,CC Safira Khang ?i?n Q9 - 67m² 2 PN - Full NT,67 m² - 2 PN,3 t?,Qu?n 9
+5,"BÁN G?P CH HIMLAM PA GIÁ T?T, VIEW ??P, FULL NT.",69.6 m² - 2 PN,"2,85 t?",Qu?n 9
+6,Chuyên bán C?n h? Luxcity 2PN 2WC GIÁ 2TY7,70 m² - 2 PN,"2,7 t?",Qu?n 7
+7,"Jamila Khang ?i?n 70m² 2PN full n?i th?t, có s?",70 m² - 2 PN,"2,8 t?",Qu?n 9
+8,"C?n h? cao c?p Richstar Novaland, 65m2,2PN FULL NT",65 m² - 2 PN,"2,75 t?",Qu?n Tân Phú
+9,"Golden Masion t?ng cao bán 3,83 ty bao phí",75 m² - 2 PN,"3,82 t?",Qu?n Phú Nhu?n
+10,Chung c? Mizuki Park 56m² 2 PN T?ng 3 giá 2.260,56 m² - 2 PN,"2,26 t?",Huy?n Bình Chánh
+11,C?n H? Smarthome 4PN Vinhomes Central Park 167m²,167 m² - 4 PN,"15,89 t?",Qu?n Bình Th?nh
+12,"C?n hi?m! View ??p, 2PN Full NT Giá r?t t?t",80 m² - 2 PN,"4,3 t?",Qu?n 4
+13,?U ?ÃI  KH?NG TRONG MÙA D?CH COVID 19 - QU?N 12,80 m² - 2 PN,"2,2 t?",Qu?n 12
+14,"C?n h? The Western Capital 45m² 1,240ty-4 m?t ti?n",45 m² - 2 PN,"1,24 t?",Qu?n 6
+15,Bán 1PN The Manor 51m2 giá t?t mùa Covid,51 m² - 1 PN,"2,83 t?",Qu?n Bình Th?nh
+16,Bán Chung c? EHome 5 Giá 2 t? 100  54m² 1PN,54 m² - 1 PN,"2,1 t?",Qu?n 7
+17,Chung c? Khu c?n h? Amazing City 42m² 1PN,42 m² - 1 PN,550 tri?u,Huy?n Bình Chánh
+18,"C?n h? li?n k? Gò V?p, ch? 700tr s? h?u",57 m² - 2 PN,"2,2 t?",Qu?n 12
+19,C?N H? BÁN HO?C CHO THUÊ,113 m² - 3 PN,"3,4 t?",Qu?n 7
+0,Bán nhà  Qu?n 8 50m² 2PN,50 m² - 2 PN,"3,5 t?",Qu?n 8
+1,C?n h? 2PN 65m2 .Qu?n Tân Phú . G?n ch? Tân H??ng,65 m² - 2 PN,"1,5 t?",Qu?n Tân Phú
+2,Gi? hàng c?p nh?t tháng 5/2021 Mizuki Park,56 m² - 2 PN,"2,2 t?",Huy?n Bình Chánh
+3,"Bán C?n 3PN 2WC Full NT, 3.25 t?. CHCC Richstar",91 m² - 3 PN,"3,25 t?",Qu?n Tân Phú
+4,Ch? còn 1 c?n duy nh?t giá g?c C?T Q7 Boulevard,70 m² - 2 PN,"2,75 t?",Qu?n 7
+5,Chính ch? bán 5 c?n Green Town Bình Tân giá t?t,68 m² - 2 PN,"1,7 t?",Qu?n Bình Tân
+6,Chung c? EHome 5 82m² 2PN nhà full n?i th?t,82 m² - 2 PN,"3,05 t?",Qu?n 7
+7,C?n H? Tây Sài Gòn,59 m² - 2 PN,"1,9 t?",Huy?n Bình Chánh
+8,C?n h? Sunrise Riverside 70m² 2PN2WC Ng H?u Th? Q7,70 m² - 2 PN,"3,3 t?",Huy?n Nhà Bè
+9,Bán g?p c?n CONIC 74m2 giá 1.65 t? c?n góc,74 m² - 2 PN,"1,65 t?",Huy?n Bình Chánh
+10,"C?n h? ? li?n 63.2m2/2PN view BT, giá r? chính ch?",63.2 m² - 2 PN,"1,65 t?",Qu?n Bình Tân
+11,IMPERIA - BÁN G?P C?N H? 3PN,131 m² - 3 PN,"5,7 t?",Qu?n 2
+12,"Mua nhà sài gòn giá r?, 680 tri?u có ngay 1 c?n",69 m² - 2 PN,680 tri?u,Huy?n Bình Chánh
+13,"Chung c? Kingdom 101 73m² , 5 ty? 6",73 m² - 2 PN,"5,6 t?",Qu?n 10
+14,Lãi su?t 0% & t?ng n?i th?t cao c?p ??y ??,59 m² - 2 PN,"1,9 t?",Huy?n Bình Chánh
+15,Chung c? Blue Sapphire Bình Phú 75m² 2PN,75 m² - 2 PN,"2,25 t?",Qu?n 6
+16,"Chung c? Ba Son, thi?t k? ??p 2 phòng ng? 60m2",60 m² - 2 PN,"1,97 t?",Qu?n Gò V?p
+17,"Bán chung c? b? ??i biên phòng Gò V?p giá 1,8 t?",50 m² - 2 PN,"1,8 t?",Qu?n Gò V?p
+18,Chung c? Phú Hoàng Anh 88m² 2 PN. NT ??p,88 m² - 2 PN,"2,75 t?",Huy?n Nhà Bè
+19,CHÍNH CH? BÁN C?N H? 64m2 CC ?ÔNG H?I QU?N 12,64 m² - 2 PN,"1,42 t?",Qu?n 12
+0,C?n góc 3 PN-104m2 Full NT ??p- Celadon City ????,104.5 m² - 3 PN,"4,535 t?",Qu?n Tân Phú
+1,"SKY CENTER, 74(M2) GIÁ 3.65T?, 80(M2) 3.7 T?",80 m² - 2 PN,"3,7 t?",Qu?n Tân Bình
+2,BÁN C?N H? 1PN QU?N 7 - NHÀ M?I BÀN GIAO 2 t? 350,50.53 m² - 1 PN,"2,35 t?",Qu?n 7
+3,Su?t Ngo?i Giao T?ng Full N?i Th?t Cao C?p Châu Âu,59 m² - 2 PN,"666,67 tri?u",Huy?n Bình Chánh
+4,Bán g?p c?n h? galaxy 9 qu?n 4,67 m² - 2 PN,"3,6 t?",Qu?n 4
+5,"Bán c?n 2PN tháp Orchid l?u cao, 5ty100 su?t NN",98 m² - 2 PN,"5,1 t?",Qu?n 2
+6,Ba?n Gâ?p Chung c? Sunshine City Sài Gòn 69m² 2PN,69 m² - 2 PN,"3,6 t?",Qu?n 7
+7,"BÁN NHANH C?N H? 2PN THE SUN AVENUE Q.2 - 3,950T?",73 m² - 2 PN,"3,95 t?",Qu?n 2
+8,"FLORA NOVIA NH?N NHÀ ? NGAY,  2PN=57M2 GIÁ 2.1T?",57 m² - 2 PN,"2,1 t?",Qu?n Th? ??c
+9,Tung R? Hàng C?n H? Carillon7 Tháng 6 Giá bao ??p,66 m² - 2 PN,"2,35 t?",Qu?n Tân Phú
+10,"C?n bán g?p, 1PN 50m2 giá 2,1 t? t?i Jamona Height",52 m² - 1 PN,"2,1 t?",Qu?n 7
+11,Sang Nh??ng l? c?n 2PN 74.24m2 Lavida View Sông,74.24 m² - 2 PN,"2,75 t?",Qu?n 7
+12,"Bán g?p c?n h? 1PN Lavida Plus Q7, Giá 2,15 t?",54 m² - 1 PN,"2,15 t?",Qu?n 7
+13,"Bán c?n h? IDICO Tân Phú, 66m2 2PN NTCB m?i 100%",66 m² - 2 PN,"2,4 t?",Qu?n Tân Phú
+14,BÁN 2 PN FULL NT THE SUN AVENUE ?ANG CÓ HD THUÊ,76 m² - 2 PN,"4,05 t?",Qu?n 2
+15,C?n h? Hóc Môn 220tr n?i th?t nh? hình ? li?n,42 m² - 1 PN,220 tri?u,Huy?n Hóc Môn
+16,"MOONLIGHT D? DÀNG MUA 2PN, 2WC 66M2 = 2.5T?,",71 m² - 2 PN,"2,5 t?",Qu?n Th? ??c
+17,SANG L? c?n 69m2 thanh toán 830tr t?i Vinhomes Q9,69 m² - 2 PN,"1,78 t?",Qu?n 9
+18,C?n 2 PN - View công viên. Full NT Emerald Celadon,71.4 m² - 2 PN,"3,5 t?",Qu?n Tân Phú
+19,"Bán nhà Chung C? An Bình t?ng 2 - 80m2 - 1,85 t?.",80 m² - 2 PN,"1,85 t?",Qu?n 5
+0,"Bán Nhanh _ 2,5 T? _ C?n 2 phòng ng? - 1 nhà WC",56 m² - 2 PN,"2,5 t?",Qu?n Tân Phú
+1,"Chung c? Richmond city 67m² 2PN, 3.45 T? Full NT",66 m² - 2 PN,"3,45 t?",Qu?n Bình Th?nh
+2,"R? Hàng Riva Park 1PN 2,8 t?; 2PN 3,35t; 3PN 4,5ty",80.88 m² - 2 PN,"3,4 t?",Qu?n 4
+3,"Bán c?n h? 3PN tr? góp 0 LS, CH? 30% = 960 tri?u",87 m² - 3 PN,890 tri?u,Qu?n 12
+4,"Bán G?p : C?n 2 Pn -2WC, Richstar Tô Hi?u- Full NT",64.3 m² - 2 PN,"2,87 t?",Qu?n Tân Phú
+5,"Bán chung c? Bình Th?i P8 q11. 78m2, 3 Phòng ng?",78 m² - 3 PN,"2,65 t?",Qu?n 11
+6,ch? 1.2 t?/c?n 2PN De Capella th? thiêm qu?n 2,76 m² - 2 PN,"1,2 t?",Qu?n 2
+7,"Chung c? Quang Thái 73m² 2PN ,có n?i th?t, S? H?ng",73 m² - 2 PN,"2,36 t?",Qu?n Tân Phú
+8,Sunrise Riverside full n?i th?t t?ng cao view sông,70 m² - 2 PN,"3,55 t?",Huy?n Nhà Bè
+9,C?n chuy?n nh??ng c?n h? SaigonSouth 2PN View B?c,76 m² - 2 PN,"3,43 t?",Huy?n Nhà Bè
+10,Sang g?p c?n Studio tt 390tr t?i Vinhomes Q9,31 m² - 1 PN,"1,27 t?",Qu?n 9
+11,BÁN C?nh? RICHMOND CITY 3PN FULL N?I TH?T ? NGAY ?,89 m² - 3 PN,"4,1 t?",Qu?n Bình Th?nh
+12,Chung c? Qu?n 12 65m² 2PN full n?i th?t ?ã có s?,65 m² - 2 PN,"3,2 t?",Qu?n 12
+13,Thanh lý d? án ??t n?n Khu Dân C? Tên L?a 2,80 m² - 2 PN,"1,2 t?",Qu?n Bình Tân
+14,"C?n h? New City 1PN - 1WC, DT 46.72m2, giá 3.3 t?.",46.72 m² - 1 PN,"3,3 t?",Qu?n 2
+15,"3 C?N H? MOONLIGHT RESIDENCES B4, B6, B8 VIEW CÔN",67 m² - 2 PN,"2,35 t?",Qu?n Th? ??c
+16,Ch? h? nh? bán c?n h? the parkland Q12 ?ã bàn giao,57 m² - 2 PN,"1,75 t?",Qu?n 12
+17,"MOONLIGHT  MUA 2PN 2WC 50M2=1.75T?, 71M2=2.55 t?",75 m² - 2 PN,"2,5 t?",Qu?n Th? ??c
+18,Chung c? Lovera Vista 64m² 2PN,64 m² - 2 PN,"2,1 t?",Huy?n Bình Chánh
+19,C?N BÁN C?N H? TOPAZ ELITE V?A M?I NH?N NHÀ,79.25 m² - 2 PN,"2,696 t?",Qu?n 8
+0,LIVESTREAM BÁN WESTGATE MÙA D?CH  - 9h NGÀY 10/07,59 m² - 2 PN,"2,1 t?",Huy?n Bình Chánh
+1,Chung c? Qu?n Bình Th?nh 53m² 2 PN,53 m² - 2 PN,"1,75 t?",Qu?n Bình Th?nh
+2,Giá r? mùa Covid kèm Euro: 2.4xx full n?i th?t,71 m² - 2 PN,"2,475 t?",Qu?n Tân Bình
+3,Sunrise City Central 147m² 3PN giá 6.15 t?,147 m² - 3 PN,"6,15 t?",Qu?n 7
+4,C?N H? FUII N?I TH?T NGAY TÒA NHÀ ETOWN TÂN BÌNH,40 m² - 1 PN,5 tri?u,Qu?n Tân Bình
+5,92.5m2 t?ng cao view ??i l? Diamond Alnata,92.5 m² - 2 PN,"4,45 t?",Qu?n Tân Phú
+6,C?n h? 3pn qu?n 7 full n?i th?t chính ch? c?n bán,79 m² - 3 PN,41 tri?u,Qu?n 7
+7,Chung c? Chung c? Tây Th?nh 66m² 2PN t?ng l?ng,66 m² - 2 PN,"2,15 t?",Qu?n Tân Phú
+8,Chung c? Lotus Sen H?ng 37m² 1PN s? h?ng riêng,37 m² - 1 PN,"1,18 t?",Qu?n Th? ??c
+9,Chung c? Carillon 7 66m² 2PN nh?n nhà ? ngay,66 m² - 2 PN,"2,58 t?",Qu?n Tân Phú
+10,Penthouse Conic ?ông Nam Á 160m² 3 PN,160 m² - 3 PN,"2,95 t?",Huy?n Bình Chánh
+11,Bán c?n h? Chung c? Lo G?m  L?u 2,45 m² - 2 PN,"1,45 t?",Qu?n 6
+12,Chung c? cao c?p Qu?n 12 85m² 3PN chu?n resort 5*,85 m² - 3 PN,"2,699 t?",Qu?n 12
+13,Chung c? Qu?n Bình Tân 48m² 1PN,48 m² - 1 PN,"1,45 t?",Qu?n Bình Tân
+14,Chung c? C?n h? Cityland Parkhill Gò V?p 77m² 2 PN,77 m² - 2 PN,"4,1 t?",Qu?n Gò V?p
+15,Bán CH Topaz Home 2PN - 3PN 43m2 - 69m2 giá 1.3 t?,43 m² - 2 PN,"1,3 t?",Qu?n 12
+16,"Bán G?p CH DreamHome Residence 2,25t, 62m2 full NT",62 m² - 2 PN,"2,25 t?",Qu?n Gò V?p
+17,Duplex Qu?n 2 - Thành ph? Th? ??c 54m² 2 PN,54 m² - 2 PN,3 t?,Qu?n 2
+18,C?n bán g?p nhà m?t ti?n H?ng L?c,86.1 m² - 1 PN,15 t?,Qu?n Tân Bình
+19,97m2 C?n góc t?ng 8 Diamond Brilliant,97.7 m² - 2 PN,"5,14 t?",Qu?n Tân Phú
+0,Bán c?n h? 2p ng? 87 m2 nhà tr?ng giao ngay,86.5 m² - 2 PN,"2,1 t?",Qu?n Tân Phú
+1,"Nhà k? Bình Chánh 790tr, chi t?t trong Video, SHR",45 m² - 3 PN,790 tri?u,Huy?n Bình Chánh
+2,"Shophoue 3 PN,3 tolte, tr?t, l?u",125 m² - 3 PN,"5,8 t?",Qu?n 7
+3,C?N H? CAO C?P SADORA - 120m2 -3P - GÍA 12 T?,120 m² - 3 PN,12 t?,Qu?n 2
+4,C?n h? c? xá Thanh ?a 50m2,50 m² - 2 PN,"1,65 t?",Qu?n Bình Th?nh
+5,Chung c? The ParkLand Q12 60m² 2PN bán gâp giá t?,60 m² - 2 PN,"1,8 t?",Qu?n 12
+6,Cho thuê Ruby garden 90m2 2pn Full n?i th?t x?n,90 m² - 2 PN,11 tri?u,Qu?n Tân Bình
+7,Duy nh?t 5 c?n View toàn thành ph? I park an s??ng,78 m² - 2 PN,900 tri?u,Qu?n 12
+8,C?n h? ngay Phú M? H?ng 2PN giá 2ty2 bao thu? phí,62 m² - 2 PN,"2,2 t?",Qu?n 7
+9,"Bán nhà Bình Chánh, SHR, 790tr, xem Video rõ h?n !",40 m² - 3 PN,790 tri?u,Huy?n Bình Chánh
+10,"C?n nh??ng l?i c4-6-1 him lam Q6, hh cho Ng gthieu",86 m² - 2 PN,"3,4 t?",Qu?n 6
+11,"C?n H? Emerald - Celadon City,104m2 - Full NT????",104 m² - 3 PN,"4,5 t?",Qu?n Tân Phú
+12,CENTANA TT C?N BÁN G?P 97M2 -3PN GIÁ BÁN 4.63 T?,97 m² - 3 PN,"4,63 t?",Qu?n 2
+13,"Bán CH Oriental, DT 106m2, 3PN,Full NT, giá 3,5 t?",106 m² - 3 PN,"3,5 t?",Qu?n Tân Phú
+14,"Th?t 100% C?n 2PN n?i th?t ??p nh? hình giá 2,9 T?",59 m² - 2 PN,"2,9 t?",Huy?n Bình Chánh
+15,C?P NH?T GIÁ BÁN THÁNG 7 C?N H? RICHMOND CITY .,38 m² - 2 PN,2 t?,Qu?n Bình Th?nh
+16,"Chung c? PiCity High Park 57m² 2 PN, h??ng ?ông",57 m² - 2 PN,"2,11 t?",Qu?n 12
+17,"Bán c?n h? ?ã có s?. Tô Ký Tower. Tô Ký, TMT, q12",55.7 m² - 2 PN,2 t?,Qu?n 12
+18,Bán Panorama ngay PMH giá 2ty350 2PN-2WC 62m2,62 m² - 2 PN,"2,35 t?",Qu?n 7
+19,MASTERI CENTRAL POINT C?N H? H?NG SANG ??NG C?P Q9,70 m² - 2 PN,60 tri?u,Qu?n 9
+0,C?N BÁN G?P C?N 2PN GIÁ 1TY450 T?NG FULL N?I TH?T,51 m² - 2 PN,"1,45 t?",Huy?n Bình Chánh
+1,C?n H? Richstar_94m2 3PN - Full NT Cao C?p !!,94 m² - 3 PN,"3,8 t?",Qu?n Tân Phú
+2,C?n bán c?n h? chung c? Sunrise Riverside,104 m² - 3 PN,"4,8 t?",Huy?n Nhà Bè
+3,k?t v?n bán g?p 2pn 87 m2 n?i th?t x?n nh? ?nh,87 m² - 2 PN,"6,5 t?",Qu?n 10
+4,"C?n h? ?Ã CÓ S?, 75m2 bao thu? phí, NH cho vay 70%",75 m² - 2 PN,"1,75 t?",Huy?n Nhà Bè
+5,BÁN C?N PEARL PLAZA BÌNH TH?NH GIÁ T?T,102 m² - 2 PN,"5,85 t?",Qu?n Bình Th?nh
+6,C?N H? CC GIA PHÚ C?N BÁN P.BHH.Q. BÌNH TÂN,66 m² - 2 PN,"1,62 t?",Qu?n Bình Tân
+7,R? hàng 113 c?n ký g?i Diamond thu?c Celadon City,85 m² - 2 PN,"4,25 t?",Qu?n Tân Phú
+8,C?n bán g?p c?n h? Vinhome Grand Park nh? hình,47 m² - 1 PN,2 t?,Qu?n 9
+9,CHÍNH CH? NH??NG G?P STUDIO VINHOMES Q9 DT 31M2,31 m² - 1 PN,850 tri?u,Qu?n 9
+10,Bán nhà nh? xinh A4 phan xích Long nhà m?i 2ty200,38 m² - 1 PN,"2,2 t?",Qu?n Phú Nhu?n
+11,"Chung c? Topaz Garden 90m2 3PN, NH h? tr? vay 70%",90 m² - 3 PN,"2,75 t?",Qu?n Tân Phú
+12,duplex 3Pn 112m2 nhà tr?ng Bán ?? ?i n??c ngoài,112 m² - 3 PN,"4,3 t?",Qu?n Tân Phú
+13,"C?n góc 3PN- Full NT, Richstar Novaland, T?ng cao",94 m² - 3 PN,"3,6 t?",Qu?n Tân Phú
+14,"Chung c? C?n H? Hoa Sen 64m² 2 PN, 2WC.q11",64 m² - 2 PN,"2,6 t?",Qu?n 11
+15,Ipark An S??ng - C?n h? bi?t th? li?n k? Sân Bay,78 m² - 2 PN,"2,6 t?",Qu?n 12
+16,"Cho thuê ho?c bán c?n h? Safira,liên h? S?T có fix",90 m² - 3 PN,"3,7 t?",Qu?n 9
+17,MASTERI LUMIERE SIÊU CAO C?P GI? HÀNG GIÁ G?C C?T,77 m² - 2 PN,"6,9 t?",Qu?n 2
+18,Chung c? Huy?n Nhà Bè 61m² 2PN.2VS,67 m² - 2 PN,"1,1 t?",Huy?n Nhà Bè
+19,??i h? giá bán g?p Saigon Homes Bình Tân  2PN-WC,67 m² - 2 PN,"1,8 t?",Qu?n Bình Tân
+0,CH Dream Home Qu?n 8 75m2 view ??p giá r?,56 m² - 2 PN,"1,5 t?",Qu?n 8
+1,Bán c?n h? mi?u n?i m?i ??p 2 phòng ng? giá 2ty740,54 m² - 2 PN,"2,74 t?",Qu?n Bình Th?nh
+2,"Chung c? Lotus Garden 67m² 2PN- S? H?NG, c?n góc",67 m² - 2 PN,"2,35 t?",Qu?n Tân Phú
+3,"Bán c?n h? Centana 3 phòng ng? - 88m2, giá 3,4 t?",88 m² - 3 PN,"3,4 t?",Qu?n 2
+4,"C?n H? Chung C? 100 Hùng V??ng .. 72m2, 3PN ??p",72 m² - 3 PN,"2,8 t?",Qu?n 5
+5,DANH SÁCH C?N H? CHUY?N NH??NG THE SUN AVENNUE Q2,32 m² - 1 PN,"1,75 t?",Qu?n 2
+6,"Ngôp Euro, One Verandah 2PN 85m2, view x?n",85 m² - 2 PN,"5,8 t?",Qu?n 2
+7,"Chung c? Carillon 5 ,DT 105m² 3PN/2WC H? tr? vay",105 m² - 3 PN,"3,35 t?",Qu?n Tân Phú
+8,GIÁ S?C C?N BÁN NGAY CENTUM WEALTH 87M2 CH? 3T,68 m² - 2 PN,"2,4 t?",Qu?n 9
+9,K?t ti?n bán g?p OT RiverGate Qu?n 4 38m2 full NT,38 m² - 1 PN,"2,45 t?",Qu?n 4
+10,C?N H? CHÍNH CH? 90m2 P15 Q. Tân Bình,90 m² - 2 PN,"2,87 t?",Qu?n Tân Bình
+11,Chung c? Qu?n 9 - Thành ph? Th? ??c 47.5m² 1PN,47.5 m² - 1 PN,"1,86 t?",Qu?n 9
+12,Chính ch? Chung c? Carillon 7 73m² 2PN giá (100%),73 m² - 2 PN,"2,8 t?",Qu?n Tân Phú
+13,C?n h? 3PN View bi?n Centery  t?ng 9 h??ng ?B,120.9 m² - 3 PN,"8,941584061 t?",Qu?n Tân Phú
+14,CH 2PN CC Cityland Park Hills 72m²  full n?i th?t,72 m² - 2 PN,"3,7 t?",Qu?n Gò V?p
+15,Chung c? Belleza 75m² 2PN t?ng sân v??n Phú M? Q7,75 m² - 2 PN,"2,2 t?",Qu?n 7
+16,Bán c?n h? mi?u n?i 3ty150 c?n góc 2pn 2wc nhà m?i,64 m² - 2 PN,"3,15 t?",Qu?n Bình Th?nh
+17,Chung c? The Western Capital 50.52m² 2PN,50.52 m² - 2 PN,"1,83 t?",Qu?n 6
+18,Chung c? Thanh ?a lô J  L?u2  50m² 2 PN Q BT,50 m² - 2 PN,"1,95 t?",Qu?n Bình Th?nh
+19,"Bán g?p c?n 2PN,2WC, ??i di?n UBND qu?n,li?n k? Q7",59 m² - 2 PN,660 tri?u,Huy?n Bình Chánh
+0,"Penthouse - SKy Villa 270.04m² 3PN, Ph?m V?n ??ng",270.04 m² - 3 PN,"11,4 t?",Qu?n Th? ??c
+1,"K?t ti?n bán g?p 1,760 t? Full NT - ?Ã CÓ S? -75M2",75 m² - 2 PN,"1,76 t?",Huy?n Nhà Bè
+2,D? Án TAKASHI QUY NH?N,74 m² - 2 PN,"1,39 t?",Qu?n 1
+3,"Bán 2PN Saigon Pearl, 90m2, n?i th?t ??p",90 m² - 2 PN,"5,55 t?",Qu?n Bình Th?nh
+4,"BÁN CH 9 VIEW, C?N GÓC, 2PN 65M2 VIEW ??P LANDMARK",58 m² - 2 PN,"1,9 t?",Qu?n 9
+5,Carillon 7 113m² 3PN-h.?ông view ??m sen chính ch?,113 m² - 3 PN,4 t?,Qu?n Tân Phú
+6,"C?n h? Alnata 92m2 h??ng ?N,?óng 10%,tr? ch?m 1n",92 m² - 2 PN,"4,506 t?",Qu?n Tân Phú
+7,PKD BÁN THE PARK GIÁ T?T MÙA D?CH,62 m² - 2 PN,"1,9 t?",Huy?n Nhà Bè
+8,Penthouse Duplex Masteri Millennium 233m² 4PN,233 m² - 4 PN,21 t?,Qu?n 4
+9,CHUY?N NH??NG C?N H? CHUNG C? GIÁ R? T?I QU?N 4,62 m² - 1 PN,3 t?,Qu?n 4
+10,Chung c? Lotus Gaden 65m² 2PN có s? h?ng,65 m² - 2 PN,"2,3 t?",Qu?n Tân Phú
+11,C?n h? 2PN t?ng cao view ??p v? trung tâm,67 m² - 2 PN,"3,55 t?",Qu?n Bình Th?nh
+12,C?n bán chung c? Tô Kí Tower Q12 t?ng th?p,61 m² - 2 PN,"1,95 t?",Qu?n 12
+13,"Chung c? Chung C? Jamona Hieht 60m² 1 PN, Q 7",48 m² - 1 PN,"2,2 t?",Qu?n 7
+14,S?P RA M?T D? ÁN TRUNG TÂM TP. TH? ??C. 1700 C?N,48 m² - 1 PN,"2,3 t?",Qu?n 9
+15,"Bán g?p 2PN,2WC giá 1,650 t? bao h?t - SHR lâu dài",75 m² - 2 PN,"1,65 t?",Huy?n Nhà Bè
+16,"Bán C?n 2PN 2WC Full NT, 2.35 t?. CHCC Khang Phú",75 m² - 2 PN,"2,35 t?",Qu?n Tân Phú
+17,"C?n bán Lovera Vista 2PN 2WC 65m2 2,080 t? Block D",65 m² - 2 PN,"2,08 t?",Huy?n Bình Chánh
+18,Chung c? Carillon 7 65m² 2PN giá bán chính ch?,65 m² - 2 PN,"2,5 t?",Qu?n Tân Phú
+19,"C?n h? IDICO L?y Bán Bích, DT 56m² 2PN/2WC",56 m² - 2 PN,"1,7 t?",Qu?n Tân Phú
+0,BÁN CH 9VIEW 2PN-2WC VIEW CÔNG VIÊN  CH? 1.4T?,58 m² - 2 PN,"1,4 t?",Qu?n 9
+1,Chung c? Qu?n 7 54m² 1PN,54 m² - 1 PN,"2,1 t?",Qu?n 7
+2,C?n h? Feliz en Vista 1 2 3 4PN giá t?t c?n bán,58 m² - 1 PN,"3,6 t?",Qu?n 2
+3,C?n h? 2PN-2WC giá 2ty350 bao thu? phí ngay PMH,62 m² - 2 PN,"2,35 t?",Qu?n 7
+4,THE SUN AVENUE - Bán g?p c?n h? cao c?p 2PN-79m2,79 m² - 2 PN,"4,3 t?",Qu?n 2
+5,3PN  FULL NT T?I 9VIEW 700TR NH?N NHÀ VIEW N?i KHU,86 m² - 3 PN,"2,5 t?",Qu?n 9
+6,Bán l?  c?n 3 phòng ng? 80m2 Dreamhome palace Q8,81 m² - 3 PN,"1,98 t?",Qu?n 8
+7,Mua C?n H? Cao C?p Nh?t TP M?i Th? ??c V?i 50tr,50 m² - 1 PN,50 tri?u,Qu?n 9
+8,S? h?u c?n h? giá g?c t? Ch? ??u T? 57m2 - 2PN,57 m² - 2 PN,"2,1 t?",Qu?n Tân Bình
+9,C?n h? 52m² 2PN chung c? Dream Home Gò V?p,52 m² - 2 PN,"1,9 t?",Qu?n Gò V?p
+10,"CC Hà Ki?u 65m2 3PN, Hoa H?ng MG 1%",65 m² - 3 PN,2 t?,Qu?n Gò V?p
+11,"Chung c? Sunview 1,2 c?n góc 74m² 2PN",74 m² - 2 PN,"2,15 t?",Qu?n Th? ??c
+12,Officetel charmington lapointe Qu?n 10 45m² 1PN,45 m² - 1 PN,"1,95 t?",Qu?n 10
+13,Chung c? Dreamhome Palace Qu?n 8 75.70m² 3PN,75.7 m² - 3 PN,"1,9 t?",Qu?n 8
+14,C?N H? SAIGON ASIANA NGAY TRUNG TÂM QU?N 6,51 m² - 1 PN,"2,5 t?",Qu?n 6
+15,Bán Penhouse Sky Villa Landmark 81 c?c hi?m,316 m² - 4 PN,"62,6 t?",Qu?n Bình Th?nh
+16,"C?n H? Sky Garden 1, 71m2, 2PN, SHR",71 m² - 2 PN,"2,5 t?",Qu?n 7
+17,"Chính ch? 100m2 AK6 t?ng 6 NAM Giá bán 3,309 (95%)",100 m² - 3 PN,"3,309 t?",Qu?n Bình Tân
+18,Bán c?n Góc 77m 3pn CC CenTum Wealth Hi?p Phú Q9,77 m² - 3 PN,"3,25 t?",Qu?n 9
+19,"Bán chung c? C5 Man Thi?n, nhà Full n?i th?t",72 m² - 2 PN,2 t?,Qu?n 9
+0,?? C?n bán c?n 3 phòng ng? Akari City giai ?o?n 1,100 m² - 3 PN,"3,471 t?",Qu?n Bình Tân
+1,Chung c? Celadon City 100m² 4PN 2WC Full NT,100 m² - 4 PN,"3,88 t?",Qu?n Tân Phú
+2,Chung c? Thành ph? Th? ??c 53m² 1PN 1.71 t? SH,53 m² - 2 PN,"1,71 t?",Qu?n Th? ??c
+3,"Bán g?p c?n h? Emerald 53 m2 . Giá 2,35 t? .",53 m² - 1 PN,"2,35 t?",Qu?n Tân Phú
+4,"C?n h? Jamila - FULL n?i th?t ??ng c?p, 75m2, SHR",72.5 m² - 2 PN,"3,25 t?",Qu?n 9
+5,C?n H?  An Gia Riverside 79m² 3PN ?ào Trí Qu?n 7,79 m² - 3 PN,"2,8 t?",Qu?n 7
+6,"Bán C?n 2PN+2WC ??p, r? h?n C?T 500tr d? án Picity",66 m² - 2 PN,"2,05 t?",Qu?n 12
+7,Chính ch? bán c?n Topaz Elite 78m2 nhà m?i nh?n,78.88 m² - 2 PN,"2,479 t?",Qu?n 8
+8,Chính ch? c?n bán c?n h? ? Vinhome Grand Park,59 m² - 2 PN,"2,95 t?",Qu?n 9
+9,C?n h? Sunrise CityView 2PN 76m2,76 m² - 2 PN,"3,75 t?",Qu?n 7
+10,Chung c? Conic Riverside 50m² 1 PN,50 m² - 1 PN,"1,55 t?",Qu?n 8
+11,"Không ??ng ?o! ??ng th?t Akari 2 phòng 2,07 t? ful",51 m² - 2 PN,"2,07 t?",Qu?n Bình Tân
+12,"S? H?U NGAY CH 9 VIEW FULL NT X?N, GIÁ TH?T 100%.",58 m² - 2 PN,"2,2 t?",Qu?n 9
+13,"Bán chung c? khang gia 62m, 2PN,2WC giá 1,310 t?",62.3 m² - 2 PN,"1,31 t?",Qu?n Gò V?p
+14,"BÁN CH 9 VIEW, GIÁ T?T, NHÀ M?I ??P, BAO H?T PHÍ.",58 m² - 2 PN,"1,4 t?",Qu?n 9
+15,"Bán nhanh CH Carillon 7.H??ng nam .66m2 .2,510 t?",66 m² - 2 PN,"2,51 t?",Qu?n Tân Phú
+16,Bán c?n h? t?ng 1 cc Mi?u N?i 5 t?ng,48 m² - 1 PN,"2,55 t?",Qu?n Bình Th?nh
+17,"BÁN G?P CH GÓC 2 VIEW T?I ??T GIA CÓ NT, VIEW ??P.",61 m² - 2 PN,"1,75 t?",Qu?n Th? ??c
+18,"Bán c?n h? 2PN 65,24m2 chung c? Topaz City P4 Q8",65 m² - 2 PN,"2,3 t?",Qu?n 8
+19,"R? hàng Picity c?n bán, giá r? h?n C?T 200 - 500tr",49 m² - 2 PN,"1,65 t?",Qu?n 12
+0,"K?t ti?n ra g?p c?n Topaz City 92m2 giá r? 2,58 t?",92 m² - 3 PN,"2,58 t?",Qu?n 8
+1,C?N H? FACE ID CÔNG NGH? M?I LI?N K? GÒ V?P,57 m² - 2 PN,"2,3 t?",Qu?n Tân Bình
+2,280tr nh?n ngay CH 1pn 50m2 S? h?u v?nh vi?n,50 m² - 1 PN,280 tri?u,Qu?n 10
+3,"Bán nhanh mùa d?ch.CH T?NG CAO 66m2+2PN GIÁ 2,38T?",66 m² - 2 PN,"2,38 t?",Qu?n Tân Phú
+4,Chung c? EHome 1 60m² 2PN nhà ??p,60 m² - 2 PN,"1,85 t?",Qu?n 9
+5,Chính Ch? c?n bán g?p Duplex siêu ??p,150 m² - 3 PN,"4,3 t?",Qu?n 7
+6,Chung c? Lotus Garden 66m² 2PN 1WC Full NT,66 m² - 2 PN,"2,33 t?",Qu?n Tân Phú
+7,"Bán nhanh mùa d?ch.CH 66m2+2PN+2WC.GIÁ 2,3 T?",66 m² - 2 PN,"2,3 t?",Qu?n Tân Phú
+8,C?n bán c?n h? Safira 1PN+ giá t?t mùa d?ch qu?n 9,50 m² - 1 PN,"2,15 t?",Qu?n 9
+9,BÁN CC VIN Q9.2PN1WC KHÔNG TH? TR? LÃI NGÂN HÀNG,59 m² - 2 PN,"2,2 t?",Qu?n 9
+10,Bán nhanh giá t?t mùa d?ch CH  DE CAPELA TH? THIÊM,76 m² - 2 PN,"3,95 t?",Qu?n 2
+11,C?n góc 2PN chung c? MoonLight t?ng cao Th? ??c,69 m² - 2 PN,"3,1 t?",Qu?n Th? ??c
+12,Chuy?n ?i n?i khác c?n bán g?p,73 m² - 2 PN,"3,2 t?",Qu?n 7
+13,Officetel Lavida Plus 28m² 1PN 1.5ty nh?n nhà ngay,28 m² - 1 PN,"1,5 t?",Qu?n 7
+14,Chính ch? bán shophouse chung c? H?ng Ngân - q12,130 m² - 4 PN,"3,6 t?",Qu?n 12
+15,Officetel The Sun Avenue 80m² 1PN,80 m² - 1 PN,"4,85 tri?u",Qu?n 2
+16,c?n h? cao c?p EMPIRE CiTy 127m2 TH? THIÊM Qu?n 2,127 m² - 3 PN,16 t?,Qu?n 2
+17,112m2 Diamond Brilliant - 5ty660 còn ?úng 1 c?n,112 m² - 2 PN,"5,66 t?",Qu?n Tân Phú
+18,Chung C? Duplex 1PN 34m2 MT Bình Th?nh - Tp.HCM,34 m² - 1 PN,300 tri?u,Qu?n Bình Th?nh
+19,Bán c?n h? studio Vinhomes Qu?n 9,31 m² - 1 PN,"1,4 t?",Qu?n 9
+0,119m2 h??ng ?ông Nam Diamond Alnata,119 m² - 2 PN,"5,75 t?",Qu?n Tân Phú
+1,C?n h? chung c? takashi,46 m² - 1 PN,"1,39 t?",Qu?n Tân Bình
+2,Gia ?ình c?n bán CC M? Ph??c 80.7m2 3PN 3.1 T? TL,80.7 m² - 3 PN,"3,1 t?",Qu?n Bình Th?nh
+3,"CC 4S 2pn , 68m2 . View ho b?i,  thoán mát.",68 m² - 2 PN,"2,38 t?",Qu?n Th? ??c
+4,"C?n l?u ý khi mua c?n h? 2PN, Bank h? tr? vay 70%",65 m² - 2 PN,"1,1 t?",Qu?n Gò V?p
+5,C?n bán g?p c?n 2pn+ 70m2 giá ch? ??u t? chênh nhe,69 m² - 2 PN,"2,59 t?",Qu?n 9
+6,"C?N H? HIM LAM PHÚ AN 69M2,2PN,2WC GIÁ T?T 07/2021",69 m² - 2 PN,"2,45 t?",Qu?n 9
+7,Bán các c?n h? cao c?p Vinhomes Qu?n 9 giá t?t,30 m² - 1 PN,"1,3 t?",Qu?n 9
+8,Sock: Nhà m?t ti?n Ngh?a Th?c-Qu?n 5- 60m²- 7PN,60 m² - 7 PN,"8,25 t?",Qu?n 5
+9,Chính Ch? Xu?t C?nh Bán G?p C?n H? Qu?n 1.,90 m² - 3 PN,"4,26 t?",Qu?n 1
+10,Chung c? Tr??ng ?ình H?i,72 m² - 2 PN,"1,6 t?",Qu?n 8
+11,Bán g?p CH Garden Gate 70m2 1PN full nt cao c?p.,70 m² - 1 PN,"4,3 t?",Qu?n Phú Nhu?n
+12,Gi? hàng Goldora Plaza nhi?u ?u ?ãi h?p d?n,84 m² - 3 PN,"2,4 t?",Huy?n Nhà Bè
+13,"?ình Nam B?S ,bán Chung c? Celadon City 63.8m² 2PN",63.8 m² - 2 PN,"3,049 t?",Qu?n Tân Phú
+14,Chung c? West Gate Park 59m² 2PN + 2WC full N?i,59 m² - 2 PN,"2,2 t?",Huy?n Bình Chánh
+15,C?n h? 50m2 the Avila qu?n 8 giá ng?p,50 m² - 1 PN,"1,3 t?",Qu?n 8
+16,Bán g?p Officetel Garden Gate 33m² 1PN full nt.,33 m² - 1 PN,2 t?,Qu?n Phú Nhu?n
+17,Chung c? cao c?p Sunrise Riverside 83m² 3PN,83 m² - 3 PN,"2,8 t?",Huy?n Nhà Bè
+18,"Carillon 7, 2 PN-1WC, 2.75 t?",61 m² - 2 PN,"2,75 t?",Qu?n Tân Phú
+19,Bán nhà SHR(6x18) g?n ngã t? Hóc Môn,108 m² - 2 PN,"2,7 t?",Huy?n Hóc Môn
+0,Tôi bán cc Full Nt cao c?p phân khu Emerald 71m2,71 m² - 2 PN,"3,45 t?",Qu?n Tân Phú
+1,C?n h? The Park Residence 73m² 2PN - có ban công,73 m² - 2 PN,"2,05 t?",Huy?n Nhà Bè
+2,Bán g?p CH Jamona He 2PN view sông full NT 2.85 t?,76 m² - 2 PN,"2,85 t?",Qu?n 7
+3,"C?n H? 1PN 52,4m2, ?ã Có SHR, ngay CV Lê Th? Riêng",52 m² - 1 PN,"2,2 t?",Qu?n 10
+4,Bán c?n h? cao c?p Sadora ??i Quang Minh giá t?t,88 m² - 2 PN,6 t?,Qu?n 2
+5,"Bán c?n h? Carrilon2 ?ã có s? h?ng 3pn,2wc 90m2",90 m² - 3 PN,"3,1 t?",Qu?n Tân Phú
+6,C?t L? C?n H? 1PN+ View H? B?i X?n Xò T?i VHGP Q9,47 m² - 2 PN,"1,78 t?",Qu?n 9
+7,Bán g?p Officetel Sunrise CityView Lh :,48.3 m² - 1 PN,"2,45 t?",Qu?n 7
+8,Chung c? The Prince Residence 71m² 2PN,71 m² - 2 PN,"4,9 t?",Qu?n Phú Nhu?n
+9,"Bán CH Sky 3 PMH Q.7, giá 2.280 t? , 2PN",57 m² - 1 PN,"2,28 t?",Qu?n 7
+10,C?n h? 3PN Sunrise Riverside giá b?ng c?n 2PN,84 m² - 3 PN,"3,25 t?",Huy?n Nhà Bè
+11,Penthouse Tecco Town Bình Tân 130m² 3 PN- C?n g?c,131 m² - 3 PN,"2,9 t?",Qu?n Bình Tân
+12,"Chính ch? bán chung c? m?t ti?n TH?, Q1 ?ã có S?",60 m² - 2 PN,"4,2 t?",Qu?n 1
+13,"Gi? C?n H? Topaz Elite, Dragon 1, 2-3PN, Chính Ch?",78 m² - 2 PN,"2,128 t?",Qu?n 8
+14,"Bán c?n Topaz 2pn giá t? 1,3 t? bao s? và phí thu?",65 m² - 2 PN,"1,3 t?",Qu?n 12
+15,"Bán c?n 3pn,2wc 83m2 8x Raibow giá 2.2 t?",83 m² - 3 PN,"2,2 t?",Qu?n Bình Tân
+16,"C?n bán g?p Sky Center 34m2, ?ang vay ngân hàng",34 m² - 1 PN,"1,97 t?",Qu?n Tân Bình
+17,CH cao c?p Sunrise Riverside 70m² 2PN full NT,71 m² - 2 PN,"2,88 t?",Huy?n Nhà Bè
+18,C?n bán g?p chcc Masterise centre point c?n 1pn+,52 m² - 1 PN,"3,1 t?",Qu?n 9
+19,"Chung c? H2 Hoàng Di?u 3 PN, qu?n 4",106 m² - 3 PN,"4,2 t?",Qu?n 4
+0,C?n h? quá chu?n,2 PN,"2,1 t?",Huy?n Bình Chánh
+1,Chung c? Huy?n Bình Chánh 67m² 2PN,67 m² - 2 PN,"2,1 t?",Huy?n Bình Chánh
+2,Chung c? Bình Chánh 59m² 2PN Su?t h? tr? mùa d?ch,59 m² - 2 PN,649 tri?u,Huy?n Bình Chánh
+3,"chung c? Gò D?u 2 lô A l?u 1, s? h?ng v?nh vi?n",59 m² - 2 PN,"1,75 t?",Qu?n Tân Phú
+4,"Bán c?n 76m² giá 1.680 t?,bao thu? phí, mua ? li?n",76 m² - 2 PN,"1,68 t?",Huy?n Nhà Bè
+5,"Su?t n?i b? Chung c? ??i di?n ?y ban Bình chánh,",59 m² - 2 PN,722 tri?u,Huy?n Bình Chánh
+6,"CH Quang Thái 2pn,2wc 63m2 l?u cao view ??m sen",63 m² - 2 PN,"1,98 t?",Qu?n Tân Phú
+7,"Bán Happy valley PMH 135m , 3pn bán 6.4 t?",135 m² - 3 PN,"6,4 t?",Qu?n 7
+8,Bán c?n h? Vinhomes BaSon 99m² 3PN SHVVi?n Full NT,99 m² - 3 PN,15 t?,Qu?n 1
+9,Chung c? Võ ?ình 90m2- thi?t k? sang tr?ng,90 m² - 2 PN,"2,2 t?",Qu?n 12
+10,Ra g?p c?n góc Nguyên H?ng Gò V?p 79m/2PN,79 m² - 2 PN,"3,3 t?",Qu?n Gò V?p
+11,BÁN NHÀ XÃ H?I 2PN 2WC GIÁ 1TY6 QU?N 12,65 m² - 2 PN,"1,6 t?",Qu?n 12
+12,"Bán CH Topaz Garden 3pn,2wc 84m2 - giá 2.8 t?",84 m² - 3 PN,"2,8 t?",Qu?n Tân Phú
+13,Bán C?n Topaz Home 3 Phòng Ng? Gia 2ty cho vay,70 m² - 3 PN,2 t?,Qu?n 12
+14,Bán CH Moscow Tower 2 PN DT 56m2 full NT giá 1.8,56 m² - 2 PN,"1,8 t?",Qu?n 12
+15,C?n H? FUll n?i th?t cao c?p Masteri Center Point,73 m² - 2 PN,500 tri?u,Qu?n 9
+16,"Chung C? An Hoà Q7-40m2, Nhà ??p Full NT.Gia 1.450",40 m² - 1 PN,"1,45 t?",Qu?n 7
+17,Ch? 690tr có ngay C?n H? Cao C?p 2PN Full N?i Th?t,59 m² - 2 PN,700 tri?u,Huy?n Bình Chánh
+18,Chung c? Sunrise City nhà ??p LH,76 m² - 2 PN,"3,78 t?",Qu?n 7
+19,C?n h? 1PN 50m2 qu?n 5 Everich Infinity,50 m² - 1 PN,"3,45 t?",Qu?n 5
+0,"Bán studio VHGP view h? b?i, full n?i th?t,1.37 t?",30 m² - 1 PN,"1,37 t?",Qu?n 9
+1,C?n h? 2pn-2wc cao c?p full n?i th?t ch? 690tr,60 m² - 2 PN,700 tri?u,Huy?n Bình Chánh
+2,C?n h? Toky Tower 61m² m?t ti?n ???ng 40 mét,61 m² - 2 PN,"1,82 t?",Qu?n 12
+3,BÁN C?N H? 3PN IMPERIA AN PHÚ QU?N 2,115 m² - 3 PN,"5,4 t?",Qu?n 2
+4,"Chung c? 1A-1B Nguy?n ?ình Chi?u, P. ?akao, Q1",36 m² - 1 PN,"2,05 t?",Qu?n 1
+5,S?? H??u Ngay C?n Hô? Masteri Th?o ?i?n 60m² 2PN,60 m² - 2 PN,"4,12 t?",Qu?n 2
+6,"C?n Khánh H?i 2 86m2 2pn2wc c?n góc, ban công r?ng",86 m² - 2 PN,"3,25 t?",Qu?n 4
+7,"C?n h? chung c? 56,5m2",56.5 m² - 2 PN,"1,44 t?",Qu?n Th? ??c
+8,"Bán CH Prosper Plaza DT 64m2, giá 2.2 t?",64 m² - 2 PN,"2,2 t?",Qu?n 12
+9,"C?n h? H?ng Ngân Garden 53m² 1PN nhà m?i, ?? li?n",53 m² - 1 PN,"1,25 t?",Qu?n 12
+10,Chung c? chung c? 1A - 1B Nguy?n ?ình Chi?u 36m²,36 m² - 1 PN,"2,1 t?",Qu?n 1
+11,Bán C?n H? Lacasa Q7- 92m2- 2PN- Full n?i th?t,92 m² - 2 PN,"2,85 t?",Qu?n 7
+12,"Mua dich kho khan can ban can ho o trung tam q5,q6",65 m² - 1 PN,"1,7 t?",Qu?n 6
+13,c?n h? Tôn Th?t Thuy?t 50m² 1PN nhà ??y ?? NT,50 m² - 1 PN,"2,3 t?",Qu?n 4
+14,"Bán lô A C/C ng thi?n thu?t, lô g?c l?u 1,giá 2,35",40 m² - 2 PN,"2,35 t?",Qu?n 3
+15,"??i nhà ph?, bán c?n h? c?c mai m?n này.",58 m² - 2 PN,"2,05 t?",Qu?n 8
+16,"Bán g?p cc M? ??c t?ng 8, s? h?ng, 2PN 2wc 3.6 t?",102 m² - 2 PN,"3,65 t?",Qu?n Bình Th?nh
+17,Bán c?n h? 2PN view h? b?i khu Cityland giá t?t.,72 m² - 2 PN,"3,68 t?",Qu?n Gò V?p
+18,C?n h? cao c?p WestGate Bình Chánh 59m² 2PN,59 m² - 2 PN,"2,3 t?",Huy?n Bình Chánh
+19,Bán cc C?n Góc Viva Riverside 3PN 2WC 89m2 Q6,89 m² - 3 PN,"3,88 t?",Qu?n 6
+0,S?? H??u C?n Hô? Masteri Th?o ?i?n 45m² Siêu Xi?n,45 m² - 1 PN,"3,5 t?",Qu?n 2
+1,Khánh H?i 2 100m² 3PN nhà tôi ? nên ???c gi? gìnOK,100 m² - 3 PN,"3,55 t?",Qu?n 4
+2,C?n bán c?n 3PN Block R ful n?i th?t giá ok !,86 m² - 3 PN,"4,8 t?",Qu?n Bình Th?nh
+3,CHU? NGÔ?P CÂ?N RA GÂ?P C?N HÔ? 2PN VIEW C??C ?E?P,66 m² - 2 PN,"2,4 t?",Qu?n Tân Phú
+4,Bán g?p th?p h?n th? tr??ng 50m2 ch? 1.3 t? 2PN,50 m² - 2 PN,"1,38 t?",Huy?n Bình Chánh
+5,Bán c?n h? cao c?p Viva Riverside 3PN 2WC 83m2 Q6,83 m² - 3 PN,"3,8 t?",Qu?n 6
+6,C?n h? 2PN 87m2 Hà ?ô Centrosa Qu?n 10 nhà ??p,87 m² - 2 PN,6 t?,Qu?n 10
+7,??t bán c? chi,1500 m² - 1 PN,23 t?,Huy?n C? Chi
+8,"C?n gold view full n?i th?t , view n?i khu, Q4",82 m² - 2 PN,"4,2 t?",Qu?n 4
+9,Bán Chung c? Ng.Tri Ph??ng Qu?n5 64m2 nh?nh 2t?.,64 m² - 2 PN,"2,4 t?",Qu?n 5
+10,Chung c? Vinhomes Central Park 154.5m² 4PN,154.5 m² - 4 PN,"15,89 t?",Qu?n Bình Th?nh
+11,Officetel Qu?n 7 39m² 1 PN,39 m² - 1 PN,"1,15 t?",Qu?n 7
+12,"C?n h? 70m² 2PN , Q12 li?n k? Khu CN Tân Bình",70 m² - 2 PN,"2,35 t?",Qu?n 12
+13,"c?n h? copac square 90m2 ,2pn , nhà thoáng TL",90 m² - 2 PN,"3,15 t?",Qu?n 4
+14,C?n bán chung c? Qu?n 8 76m² 2 PN 2toilet,76 m² - 2 PN,"3,1 t?",Qu?n 8
+15,S? H?U NGAY C?N H? Q.8 V?I QU? ??T HI?M CÒN L?I,56 m² - 2 PN,"1,834567 t?",Qu?n 8
+16,"D?ch c?n bán g?p c?n Q7 Riverside 53,67m2 giá t?t.",53.67 m² - 1 PN,"1,95 t?",Qu?n 7
+17,"Khánh H?i 3 75m² 2PN 2WC B?n Vân ??n, Q4",75 m² - 2 PN,"3,1 t?",Qu?n 4
+18,Chung C? Topazhome Q12 53m 2pn,53 m² - 2 PN,"1,4 t?",Qu?n 12
+19,C? H?I HI?M CÓ S? H?U C?N 2PN VINHOMES 59M2,59 m² - 2 PN,"1,435 t?",Qu?n 9
+0,"BÁN G?P Vinhomes Grand Park Q9, 3PN2WC, 81,5M2",81.5 m² - 3 PN,"2,144 t?",Qu?n 9
+1,"Bán C?n h? Cao c?p 2PN ngay TTHC Q12, Ga metro",70 m² - 2 PN,"1,8 t?",Qu?n 12
+2,"Ch? 2.98 t? nh?n c?n h? Botanica H?ng Hà, 1 PN",50 m² - 1 PN,"2,98 t?",Qu?n Tân Bình
+3,"Orchard H?ng Hà 83m2, t?ng trung, view h? b?i CV",83 m² - 3 PN,"4,9 t?",Qu?n Phú Nhu?n
+4,Chung c? TP Thu?n An giai ?o?n ??u t? FO,47 m² - 2 PN,"1,1 t?",Qu?n Th? ??c
+5,"3,35 t?, 65m2, 2pn 1wc, Gold View, T?ng cao",68 m² - 2 PN,"3,35 t?",Qu?n 4
+6,"Bán c?n h? Blue Saphire Bình Phú, Q6, 74m2, 2pn-2w",74 m² - 2 PN,"2,25 t?",Qu?n 6
+7,K?t ti?n bán l? CH 1PN Lavida Plus bao h?t phí,56 m² - 1 PN,"2,15 t?",Qu?n 7
+8,"CH FLORA NOVIA 2PN - 1WC =1.85T?, 2PN=2WC=2.2T?,",75 m² - 2 PN,"1,85 t?",Qu?n Th? ??c
+9,"C?n h? thông minh 2PN,h?n 28 ti?n ích t?i TTHC Q12",79 m² - 2 PN,2 t?,Qu?n 12
+10,C?n bán c?n Duplex penthouse Precia Qu?n 2.,142 m² - 3 PN,"9,988 t?",Qu?n 2
+11,Chính ch? bán g?p c?n 2PN+ 69M2 BAO H?T VHGP,69 m² - 2 PN,"2,65 t?",Qu?n 9
+12,Ba?n gâ?p c?n hô? Blue Sapphire Bình Phú 74m² 2PN,74 m² - 2 PN,"2,25 t?",Qu?n 6
+13,Chính ch? bán hòa v?n 2PN 75m² lavida plus qu?n 7,75 m² - 2 PN,"2,95 t?",Qu?n 7
+14,Orient Apartment 90m² 3PN c?n h? sang tr?ng,90 m² - 3 PN,"3,8 t?",Qu?n 4
+15,Chung c? Qu?n 8 2PN 2WC 61.75M2 giá r?.,61.75 m² - 2 PN,"1,73 t?",Qu?n 8
+16,"Bán c?n h? qu?n 9 , 2pn + , 69m2 , giá 3ty3",69.2 m² - 2 PN,"3,3 t?",Qu?n 9
+17,Picity High Park - Bán g?p c?n 2PN park 2,57 m² - 2 PN,35 tri?u,Qu?n 12
+18,Chung c? Sunrise City 138m² 3PN t?ng bãi oto 400tr,138 m² - 3 PN,"5,4 t?",Qu?n 7
+19,Carillon 7 View H? B?I 2PN-1WC DT 66m² GIÁ 2 T? 6,66 m² - 2 PN,"2,6 t?",Qu?n Tân Phú
+0,C?n h? chung c? Dreamhome Residence,62 m² - 2 PN,"2,3 t?",Qu?n Gò V?p
+1,Bán noxh topaz home công ch?ng vi b?ng 3pn 69m,69 m² - 3 PN,"1,65 t?",Qu?n 12
+2,Officetel Sunrise CityView 39m2 Q7 1PN,39 m² - 1 PN,"1,75 t?",Qu?n 7
+3,S? h?u c?n h? cao c?p v?i s? v?n ban ??u ch? 0?,50 m² - 1 PN,3 t?,Qu?n 9
+4,"Nóng Gold View l?u cao 4ty090, bao thu? phí,Nt ??",81 m² - 2 PN,"4,09 t?",Qu?n 4
+5,SANG NH??NG C?N H? VINHOMES GRAND PARK GIÁ H?T H?N,47 m² - 1 PN,"2,5 t?",Qu?n 9
+6,C?N BÁN C?N H? GREEN FIELD 2PN. VIEW BÁN ??O,71 m² - 2 PN,"2,9 t?",Qu?n Bình Th?nh
+7,"LAVITA CHARM BÁN 1PN-1.65T?, 2PN-2.7T?, 3PN-3.7T?",51 m² - 1 PN,"2,02 t?",Qu?n Th? ??c
+8,"C?n h? Vinhomes Grand Park Q9 giá 2,3t? Full NT",67.5 m² - 2 PN,"2,3 t?",Qu?n 9
+9,Bán c?n h? Precia Nguy?n Th? ??nh Q2,56 m² - 2 PN,"3,01 t?",Qu?n 2
+10,"S? H?U NGAY CH SG GATEWAY ??P GIÁ C?C T?T, BP.",90 m² - 3 PN,"2,1 t?",Qu?n 9
+11,"Bán 2PN 2WC, 1.95ty, Có S? H?ng. C?n H? Quang Thái",63 m² - 2 PN,"1,95 t?",Qu?n Tân Phú
+12,c?n h? 3PN d? án Precia,101 m² - 3 PN,"6,25 t?",Qu?n 2
+13,"Bán C?n 2,5 T? _ Richstar Lo?i 2 Phòng Ng? M?i .",56 m² - 2 PN,"2,5 t?",Qu?n Tân Phú
+14,Bán g?p CH Jamona Heights 95m² 3 PN NTCB giá 3.35T,95 m² - 3 PN,"3,35 t?",Qu?n 7
+15,Chung c? ?ông H?i 64m² 2 PN 2WC ?ã có s?,64 m² - 2 PN,"1,42 t?",Qu?n 12
+16,BÁN NHANH CH SAIGON GATEWAY NGAY XA L? HN GIÁ T?T.,75 m² - 2 PN,"1,65 t?",Qu?n 9
+17,Chính ch? c?n bán chung c? Sky9 63m2 2PN,63 m² - 2 PN,"2,05 t?",Qu?n 9
+18,BÁN D? ÁN CELESTA;HEIGHTS,82 m² - 2 PN,"4,5 t?",Huy?n Nhà Bè
+19,Bán c?n h? Khu ?m th?c trung tâm Qu?n 6,80 m² - 2 PN,"2,97 t?",Qu?n 6
+0,C?n góc 119m2 Diamond Alnata - 5ty590,119 m² - 3 PN,"5,59 t?",Qu?n Tân Phú
+1,M? bán C?n h? Th?o ?i?n Green View Sông Sài Gòn,83 m² - 2 PN,"7,5 t?",Qu?n 2
+2,"C?n h? Qu?n 2 Laastoria 3pn giá 2,850 t?",89 m² - 3 PN,"2,85 t?",Qu?n 2
+3,Chung c? Oriental Plaza 78m² 2PN/2WC nhà m?i,78 m² - 2 PN,"2,78 t?",Qu?n Tân Phú
+4,M? bán chung c? mini cao c?p t?i Ph?m V?n Chiêu,36 m² - 2 PN,920 tri?u,Qu?n Gò V?p
+5,C?n bán c?n h? vinhome 1pn p22 Bình Th?nh,46 m² - 1 PN,4 t?,Qu?n Bình Th?nh
+6,Chung c? Qu?n 9 - Thành ph? Th? ??c 60m² 1 PN (2P),60 m² - 1 PN,"1,85 t?",Qu?n 9
+7,Bán nhanh c?n picity high park Q12,57 m² - 2 PN,"1,99 t?",Qu?n 12
+8,Bán c?n 47m2 thanh toán 650tr t?i Vinhomes qu?n 9,47 m² - 1 PN,"1,73 t?",Qu?n 9
+9,C?N BÁN G?P C?N CHUNG C? CELADON TÂN PHÚ - 1PN,50 m² - 1 PN,"1,95 t?",Qu?n Tân Phú
+10,C?N BÁN C?N H? CAO C?P CITY GATE TOWERS,73 m² - 2 PN,2 t?,Qu?n 8
+11,C?n h? cc Tây Th?nh lô E view công viên,58 m² - 2 PN,"2,2 tri?u",Qu?n Tân Phú
+12,Bán c?n 4PN Phòng Ng? Central Park dt 140m2.,140 m² - 4 PN,"12,5 t?",Qu?n Bình Th?nh
+13,"K?t ti?n bán g?p Officetel Lavida Plus 27m² 1,4 t?",27 m² - 1 PN,"1,4 t?",Qu?n 7
+14,Bán C?n H? Chung C? Blue Sapphire 74m2 ch? 2ty25,74 m² - 2 PN,"2,25 t?",Qu?n 6
+15,"C?n h? DVTM Asiana Capella 62m2, Q6",62 m² - 2 PN,"2,26 t?",Qu?n 6
+16,Chung c? Prosper Plaza 65m² 2 PN,65 m² - 2 PN,"2,6 t?",Qu?n 12
+17,Bán chung c? Qu?n 12. An s??ng i park. 2PN,78 m² - 2 PN,"2,689 t?",Qu?n 12
+18,C?n h? MT Bình Phú 74m2 có 2PN 2W - S? h?ng riêng,74 m² - 2 PN,"2,25 t?",Qu?n 6
+19,BÁN CC BLUE SAPPHIRE-74M2/2PN GIÁ CH? 2.25 T?,74 m² - 2 PN,"2,25 t?",Qu?n 6
+0,"C?n Saigon Pearl, Qu?n Bình Th?nh, lo?i 2PN 2WC",85 m² - 2 PN,"4,4 t?",Qu?n Bình Th?nh
+1,Chung c? Kingdom 101 78m² 2PN,78 m² - 2 PN,"6,4 t?",Qu?n 10
+2,Chung c? Blue Sapphire Bình Phú Qu?n 6-DT 74m² 2PN,74 m² - 2 PN,"2,25 t?",Qu?n 6
+3,C?n ti?n g?p bán 3PN Newcity Qu?n 2 full n?i th,86 m² - 3 PN,"5,2 t?",Qu?n 2
+4,CH? ??U T? THANH LÝ 36 C?N 2-3PN TOPAZ ELITE,70 m² - 2 PN,2 t?,Qu?n 8
+5,Chung c? M-One Nam Sài Gòn 69m² 2PN,69 m² - 2 PN,"2,9 t?",Qu?n 7
+6,"BÁN G?P CH 78M2 2PN VIEW QU?N 1 GIÁ 6,23T? CÒN TL",78 m² - 2 PN,"6,23 t?",Qu?n 10
+7,"Bán c?n h? The Art KDC Gia Hoà ch? 2,55 t?/71m2",71 m² - 2 PN,"2,55 t?",Qu?n 9
+8,C?n H? Sai Gon Q7 2ty3 bao thu? phí,66.66 m² - 2 PN,"2,3 t?",Qu?n 7
+9,Chung c? Cao ?c Th?nh V??ng 153m² 4PN,153 m² - 4 PN,"3,85 t?",Qu?n 2
+10,C?n h? chu?n b? bàn giao ngay Vòng Xoay Phú Lâm,71 m² - 2 PN,3 t?,Qu?n 6
+11,C?n h? 2 PN Hi?p Bình chánh th? ??c,56 m² - 2 PN,"1,97 t?",Qu?n Th? ??c
+12,Bán nhanh c?n 1pn+ Flora có n?i th?t nh? hình,68 m² - 1 PN,"1,735 t?",Qu?n 9
+13,"C?n H? Lotus Garden, 75m2, 3PN, full n?i th?t",75 m² - 3 PN,"2,5 t?",Qu?n Tân Phú
+14,Bán C?n 2PN SAIGON ROYAL View H? B?i FULL N?i Th?t,80 m² - 2 PN,"6,6 t?",Qu?n 4
+15,V? quê ??nh c? bán g?p Bán c?n h? CC The Estella,124 m² - 3 PN,"7,3 t?",Qu?n 2
+16,THANH LÝ CH AKARI CITY 56m2 2.1 T? - 75m2 2.59 T?,56 m² - 2 PN,"2,1 t?",Qu?n Bình Tân
+17,Chung C? An Gia West Gate 85m² 3PN T?ng  N?i Th?t,85 m² - 3 PN,950 tri?u,Huy?n Bình Chánh
+18,"C?N GÓC GREEN FIELD,3PN,2WC,2 BAN CÔNG,?? TI?N ÍCH",90 m² - 3 PN,"3,7 t?",Qu?n Bình Th?nh
+19,Q7 Saigon View Sông 2ty3 66m2 Bao Phí,66.66 m² - 2 PN,"2,3 t?",Qu?n 7
+0,"C?N H? 2+1 ""GIA ?ÌNH ?U TÚ""  - 90% C?N GÓC (M?I)",82 m² - 3 PN,"2,728 t?",Qu?n 12
+1,Chung c? Vinhomes Central Park 154m² 4PN,154 m² - 4 PN,"15,89 t?",Qu?n Bình Th?nh
+2,Bán g?p c?n góc Mizuki Park 65m2 2PN 2WC,65 m² - 2 PN,"2,44 t?",Huy?n Bình Chánh
+3,Chung c?CitylandPark  76m² 3ty65 2pn2wc nt c? b?n,76 m² - 2 PN,"3,65 t?",Qu?n Gò V?p
+4,BÁN CH SAIGON GATEWAY GIÁ R? L?M ? LH EM NHÉ,75 m² - 2 PN,"1,65 t?",Qu?n 9
+5,"Alnata 3PN 117m2 view ??i l?, chi?t kh?u 8%",117.3 m² - 3 PN,"5,62 t?",Qu?n Tân Phú
+6,"Nhà m?i,??p,t?ng n?i th?t",51 m² - 2 PN,2 t?,Qu?n 11
+7,SANG G?P C?N H? SKY VILLA DIAMOND CELADON CITY,198 m² - 3 PN,"10,8 t?",Qu?n Tân Phú
+8,RICHMOND C?N 3PN 2WC GIÁ 4.05T? H??NG ?ÔNG NAM,89 m² - 3 PN,"4,05 t?",Qu?n Bình Th?nh
+9,"Chung c? Lavida Plus 75m² 2PN, m?i bàn giao",75 m² - 2 PN,"2,8 t?",Qu?n 7
+10,Bán g?p 2PN Topaz Elite view h? b?i 2.696 t? TL,79 m² - 2 PN,"2,696 t?",Qu?n 8
+11,"Gi? hàng MP6-7-8 chênh th?p nh?t, TT 50% 2 n?m",78 m² - 2 PN,"2,9 t?",Huy?n Bình Chánh
+12,"Alnata 3PN 119m2, view ??i l?, chi?t kh?u 10%",119.6 m² - 3 PN,"5,6 t?",Qu?n Tân Phú
+13,"Bán g?p c?n h? Sky Center DT 36m2, Full n?i th?t",36 m² - 1 PN,"1,95 t?",Qu?n Tân Bình
+14,"Bán C?n H? 3 Phòng Ng?  Chung C? M? Ph??c, PMH",114 m² - 3 PN,"3,9 t?",Qu?n 7
+15,CH Duplex Celadon City 112m² 3PN 3WC Full NT,112 m² - 3 PN,"4,25 t?",Qu?n Tân Phú
+16,Chung cu C6 can ban,58 m² - 1 PN,"1,6 t?",Qu?n 9
+17,"c?n h? m?t ti?n Hu?nh t?n Phát Q.7 85m² giá 2,9 t?",85 m² - 3 PN,"2,9 t?",Qu?n 7
+18,Bán c?n 96m2 Brilliant view h? sinh thái c?c ??p,96 m² - 2 PN,"4,95 t?",Qu?n Tân Phú
+19,Chính ch? c?n bán c?n h? Z751 72m2,72 m² - 2 PN,"2,95 t?",Qu?n Gò V?p
+0,C?n 35m2 Qu?n 2 giá r? bán nhanh mùa d?ch,35 m² - 1 PN,"1,54 t?",Qu?n 2
+1,"BÁN C?N H? CHUNG C? M? THU?N P16 ,QU?N 8",93 m² - 3 PN,2 t?,Qu?n 8
+2,C?n h? Central Premium 1-2-3PN Mua bán và cho thuê,32 m² - 1 PN,"1,6 t?",Qu?n 8
+3,"Brilliant, 3PN 131m2, h??ng Nam công viên n?i khu",131 m² - 3 PN,"6,75 t?",Qu?n Tân Phú
+4,"Chính ch? bán CH KINGDOM101 72m2, view ??p giá ??p",72 m² - 2 PN,"5,75 t?",Qu?n 10
+5,"Jamona Heights, rô? ha?ng gia? tô?t 1PN 2PN 3PN",50 m² - 1 PN,"2,15 t?",Qu?n 7
+6,Bán nhanh c?n 72m2 Mizuki t?ng ??p có n?i th?t,72 m² - 2 PN,"2,75 t?",Huy?n Bình Chánh
+7,Chung c? Sài Gòn Metro Park 51m² 2PN-1WC T?ng 9,51 m² - 2 PN,"1,85 t?",Qu?n Th? ??c
+8,C?n bán g?p C?n h? Sky89 89m2 2PN (Chính ch?),89 m² - 2 PN,"3,8 t?",Qu?n 7
+9,"C?n H? Chung C? ?ông H?i 53,7m² 2PN-2WC ?. Có S?",53 m² - 2 PN,"1,35 t?",Qu?n 12
+10,104M2 View ??i l? Diamond Alnata - 5ty1,104 m² - 3 PN,"5,1 t?",Qu?n Tân Phú
+11,Bán nhanh c?n 56m2 Mizuki giá 2.250 h? tr? vay 70%,56 m² - 2 PN,"2,25 t?",Huy?n Bình Chánh
+12,Bán g?p c?n h? Sài Gòn Mia 2 Phòng Ng? giá 2T?850,56 m² - 2 PN,"2,85 t?",Huy?n Bình Chánh
+13,"Penthouse Sunrise cao c?p,view ??p,có s?,giá t?t!",700 m² - 5 PN,"21,12 t?",Qu?n 7
+14,Bán Hà ?ô 2PN giá r? - view thoáng - t?ng ??p,86 m² - 2 PN,"5,9 t?",Qu?n 10
+15,Chung c? Golden Mansion 69m² 2 PN C?n hi?m H?MB,69 m² - 2 PN,"4,08 t?",Qu?n Phú Nhu?n
+16,ORCHARD PARK VIEW 3PN GIÁ T?T ??U T? CH? 4.9 T? TL,83 m² - 3 PN,"4,9 t?",Qu?n Phú Nhu?n
+17,"Penthouse Everrich 1 Q11, 12,5 t?/275m2, Full NT!!",275 m² - 4 PN,"12,5 t?",Qu?n 11
+18,Bán c?n h? Vinhomes Tân C?ng - Central1- 153m² 4PN,153 m² - 4 PN,"15,8 t?",Qu?n Bình Th?nh
+19,"C?N H? 41BIS,?? N?I TH?T,S? H?NG,G?N LANDMARK 81",65 m² - 2 PN,"2,5 t?",Qu?n Bình Th?nh
+0,BOTANICA PREMIER 2PN C?N GÓC ?? N?I TH?T CH? 3.75T,70 m² - 2 PN,"3,75 t?",Qu?n Tân Bình
+1,"Penthouse Everrich 1 Q11, Full NT, sân v??n,h? b?i",510 m² - 4 PN,26 t?,Qu?n 11
+2,"Chính Ch? Bán CH Topaz, Dragon, 2-3pn, Chênh Th?p",85.62 m² - 3 PN,"2,248 t?",Qu?n 8
+3,C?n bán g?p chung c? Him Lam 6A,60 m² - 2 PN,"1,9 t?",Huy?n Bình Chánh
+4,C?n bán g?p c?n 3pn Richmond,86 m² - 3 PN,"4,99 t?",Qu?n Bình Th?nh
+5,"C?n h? chung c? Tân M? Q7 1,5 t?",38 m² - 1 PN,"1,5 t?",Qu?n 7
+6,"C?n bán C?n h? Office-tel cao c?p, giá r? Qu?n 4",40.3 m² - 1 PN,"3,2 t?",Qu?n 4
+7,Siêu ph?m 1PN t?i botanica premier giá r?,56 m² - 1 PN,"3,2 t?",Qu?n Tân Bình
+8,CHUNG C? DT 35M2 CU?I ???NG NGUY?N V?N B?A,35 m² - 1 PN,340 tri?u,Huy?n Hóc Môn
+9,"CH pham viet chanh 2 pn 2,6t?  68m",68 m² - 2 PN,"2,6 t?",Qu?n Bình Th?nh
+10,GOLDEN MANSION 70M2 N?I TH?T C?C ??P CH? 3.8 T?,70 m² - 2 PN,"3,8 t?",Qu?n Phú Nhu?n
+11,"Penthouse Millennium qu?n 4,,view tri?u ?ô",233 m² - 5 PN,"21,5 t?",Qu?n 4
+12,C?n bán nhanh c?n 2 phòng ng? nhìn v? Landmark 81,66 m² - 2 PN,"3,8 t?",Qu?n Bình Th?nh
+13,Dockland Nguy?n Th? Th?p giá ?u ?ãi mùa d?ch,122.8 m² - 3 PN,"3,8 t?",Qu?n 7
+14,Chung c? Qu?n 9 76m2 2PN view qu?n 1,76 m² - 2 PN,"2,9 t?",Qu?n 9
+15,"Officetel Everrich Q5, ch? 3,3 t?, 55m2, full NT",55 m² - 1 PN,"3,3 t?",Qu?n 5
+16,"C?n bán c?n 2PN view sông, m?t ti?n Nguy?n Xí",66 m² - 2 PN,"3,6 t?",Qu?n Bình Th?nh
+17,C?n thô Orchard ParkView 52m2 Phú Nhu?n C?c Hi?m,52 m² - 1 PN,"2,85 t?",Qu?n Phú Nhu?n
+18,Chung c? Qu?n Tân Phú 69m² 2 PN. Ko ti?p môi gi?i.,69 m² - 2 PN,2 t?,Qu?n Tân Phú
+19,Chung C? Tecco Town. Bình Tân. C?n góc. 67m2. 2 PN,67 m² - 2 PN,"1,68 t?",Qu?n Bình Tân
+0,Bán c?n 3 PN th??ng m?i  Imperial Place,75 m² - 3 PN,"3,1 t?",Qu?n Bình Tân
+1,Duplex C?n hô? Emearld 127m² 3PN nhà m?i ??4.460t?,127 m² - 3 PN,"4,46 t?",Qu?n Tân Phú
+2,Chung c? DreamHome Palace 80.43m2 3PN giá t?t.,80.43 m² - 3 PN,"2,09 t?",Qu?n 8
+3,Chính ch? bán c?n h? Saigon Royal Qu?n 4 View Sông,30 m² - 1 PN,"2,8 t?",Qu?n 4
+4,"Ba?n Gâ?p C?n Hô? 67m2 2PN , Gia? C??c Tô?t",67 m² - 2 PN,330 tri?u,Qu?n Th? ??c
+5,C?n h? 2PN 59m2 CC Gò D?u 2 ngay MT 26 Tân S?n Nhì,59 m² - 2 PN,"1,8 t?",Qu?n Tân Phú
+6,T?NG H?P CÁC C?N 3PN DT L?N 98-101-111M2 OPAL BOUL,101 m² - 3 PN,"3,6 t?",Qu?n Th? ??c
+7,"D'Lusso Mua c?n h? TT Q2.Giá t?t, chi? t?? 2.7 ty?",48.7 m² - 1 PN,"2,7 t?",Qu?n 2
+8,Chung c? Qu?n Bình Tân 64m² 2PN t?ng 6 h??ng ?ông,64 m² - 2 PN,"1,85 t?",Qu?n Bình Tân
+9,Officetel Qu?n 7 39m² 1PN,39 m² - 1 PN,"1,15 t?",Qu?n 7
+10,The Everrich Infinity 87m2 2PN 2WC Full n?i th?t,87 m² - 2 PN,"6,35 t?",Qu?n 5
+11,Bán G?p c?n h? Melody Residences 69m² 2PN,69 m² - 2 PN,"2,73 t?",Qu?n Tân Phú
+12,Chung c? Moonlight Residences 68m² 2 PN,68 m² - 2 PN,"3,2 tri?u",Qu?n Th? ??c
+13,T?I BÌNH CHÁNH C?N H? 2PN 2WC 59M2 CH? T? 660TR,59 m² - 2 PN,2 t?,Huy?n Bình Chánh
+14,CH? 700TR THANH TOÁN ANH/CH? ?Ã S? H?U T? ?M TP,50 m² - 2 PN,700 tri?u,Huy?n Hóc Môn
+15,C?n bán C?n H? Cao C?p  The Mano Sài Gòn,78 m² - 2 PN,"4,5 t?",Qu?n Bình Th?nh
+16,C?n h? ?ã bàn giao s? h?ng,68 m² - 2 PN,"2,5 t?",Qu?n 7
+17,bán c?n 1pn block C chung c? lotus  37m² 1PN,37 m² - 1 PN,"1,2 t?",Qu?n Th? ??c
+18,"C?n h? Prosper Ph? ?ông 52m2, 2PN, MT Tô Ng?c Vân",52.5 m² - 2 PN,"2,399 t?",Qu?n Th? ??c
+19,Gi?m m?nh c?n hô? B1  Topaz qu?n 12 trong tu?n,60.09 m² - 2 PN,"1,7 t?",Qu?n 12
+0,C?N 2PN CAO C?P D? ÁN PICITY QU?N 12  VIEW THOÁNG,57 m² - 2 PN,"2,25 t?",Qu?n 12
+1,C?n h? Central Premium 97m²3PN c?n góc view h? b?i,97 m² - 3 PN,"4,428 t?",Qu?n 8
+2,Chính ch? Chung c? Akari City 75m² 2PN,75 m² - 2 PN,"2,5 t?",Qu?n Bình Tân
+3,C?n h? The Everich Infinity Q5 87m2 2pn 2wc L?u 12,87 m² - 2 PN,"6,35 t?",Qu?n 5
+4,"Chung c? l?u 3 SHR m?t ti?n Phùng H?ng, P13, Q5",50 m² - 1 PN,"1,85 t?",Qu?n 5
+5,"Bán c?n h? Ehome 3 c?n góc 2PN, giá ch? 1.85 t?",64 m² - 2 PN,"1,85 t?",Qu?n Bình Tân
+6,"C?n h? tr? tr??c 690tr, 57m2 2PN",57 m² - 2 PN,"2,356 t?",Qu?n 12
+7,R? HÀNG CÁC C?N LAVITA CHARM C?N BÁN 2.650T?,68 m² - 2 PN,"2,65 t?",Qu?n Th? ??c
+8,C?n Chuy?n nh??ng g?p c?n h? (Vincity Qu?n 9) 59m²,59 m² - 2 PN,2 t?,Qu?n 9
+9,Chuy?n ??a ?i?m công tác nên c?n bán l?i c?n 68m2,68 m² - 2 PN,"2,73 t?",Qu?n 9
+10,"C?n h? 54m m?t ti?n Nguy?n V?n Linh 1ty60 2PN, 2WC",54 m² - 2 PN,"1,06 t?",Huy?n Bình Chánh
+11,"CC tecco ?ã có s? h?ng, 58-65m2, 1.5 T? vay ?c 70%",58 m² - 2 PN,"1,5 t?",Qu?n 12
+12,R? Hàng C?n h? ??ng C?p 4* M?t Ti?n Ph?m V?n ??ng,1 m² - 2 PN,32 tri?u,Qu?n Th? ??c
+13,THANH TOÁN 600TR NH?N NGAY C?N H? 9VIEW LS H?P DÂN,58 m² - 2 PN,"1,95 t?",Qu?n 9
+14,Tecco Green Nest DT58m2 ~ 65m2 giá ch? t? 1.55 t?,58 m² - 2 PN,"1,55 t?",Qu?n 12
+15,C?n h?Hoàng Anh Thanh Bình 113m² 3PN giá 3.250 t?,113 m² - 3 PN,"3,25 t?",Qu?n 7
+16,Chung c? Central Premium 73m² 2PN view hô? b?i,73 m² - 2 PN,"3,25 t?",Qu?n 8
+17,Bán g?p c?n h? homyland 3 full n?i th?t cao c?p,81 m² - 2 PN,"3,15 t?",Qu?n 2
+18,BÁN C?N H? 3PN GIÁ T?T TH? TR??NG THE SUN AVENUE,96 m² - 3 PN,"5,15 t?",Qu?n 2
+19,Thanh toán 30% 600 tri?u mua ngay  c?n h? 1PN+1,49 m² - 1 PN,"1,919 t?",Qu?n 12
+0,"Bán c?n chung c? C5 Man Thi?n, Nhà ??y ?? n?i th?t",73 m² - 2 PN,2 t?,Qu?n 9
+1,Carillon 7 66m² 2PN-1wc s? 12-b5a H.b?c m?t ti?n,66 m² - 2 PN,"2,65 t?",Qu?n Tân Phú
+2,"Ch? 660TR S? H?u C?n 2PN Full N?i Th?t, Li?n K? Q8",59 m² - 2 PN,660 tri?u,Huy?n Bình Chánh
+3,4 SU?T CHI?T KH?U 9% - C?N H? MASTERI CENTRE POINT,73 m² - 1 PN,"4,29 t?",Qu?n 9
+4,"C?n m?i 60m2 2PN 1,85 t?, 70m2 3PN Full NT 2,08 t?",70 m² - 3 PN,"1,85 t?",Qu?n 12
+5,DT 75M2 -2PN-2WC T?I FLORA NOVIA PV? CH? 2.7T?,75 m² - 2 PN,"2,7 t?",Qu?n Th? ??c
+6,"C?n h? TDH Tr??ng Th?, 2PN, 2WC, view Tây Nam",94.7 m² - 2 PN,"2,9 t?",Qu?n Th? ??c
+7,Ch? nhà ng?p c?n bán toky tower 2pn giá t?t,61 m² - 2 PN,"1,87 t?",Qu?n 12
+8,Bán c?n h? Hoàng Anh Thanh Bình 150m² 3PN 4.050 t?,150 m² - 3 PN,"4,05 t?",Qu?n 7
+9,"Bán c?n h? t?ng 3 Mai Th? L?u, Q.1 - 120m2 3,9 t?",120 m² - 2 PN,"3,9 t?",Qu?n 1
+10,Green Field 65m² 2PN 2WC g?m 5% + 2% PBT ch? 3t?,68 m² - 2 PN,3 t?,Qu?n Bình Th?nh
+11,C?n H? Saigon Intela 3PN,78 m² - 3 PN,"2,25 t?",Huy?n Bình Chánh
+12,Bán c?n g?c Th? Thiêm Star,83 m² - 2 PN,"2,6 t?",Qu?n 2
+13,C?n h? Chung c? Qu?n 9 Thành ph? Th? ??c 69m² 2 PN,69 m² - 2 PN,"2,5 t?",Qu?n 9
+14,S? H?u CH 3PN FULL n?i th?t cao c?p c?nh AEON LS0%,85 m² - 3 PN,945 tri?u,Huy?n Bình Chánh
+15,Bán c?n h? Lavida Plus Qu?n 7 gía r? bao g?m 5%,75 m² - 2 PN,"2,85 t?",Qu?n 7
+16,HÃY LÀ C? DÂN AN GIA ?? S? H?U TI?N ÍCH V??T TR?I,59 m² - 2 PN,"2,100005 t?",Huy?n Bình Chánh
+17,Chung c? Ng?c Lan Apartment 53m² 1PN,53 m² - 1 PN,"1,72 t?",Qu?n 7
+18,Carillon 7 71m² 2PN - c?n 18 chính ch?- H.?ông,71 m² - 2 PN,"2,8 t?",Qu?n Tân Phú
+19,Nh?n nhà li?n tay ngày tháng 7 ch? v?i 886tr.,60 m² - 2 PN,"2,9 t?",Qu?n 6
+0,"bán cc Citisoho 2pn, 1wc, NT c? b?n giá 1,620 t?",56 m² - 2 PN,"1,62 t?",Qu?n 2
+1,"Giá t?t:65m2 có s? view h? sinh thái giá 2,15 t?,",65 m² - 2 PN,"2,2 t?",Qu?n 12
+2,Saigon Avenue 62m2 t?ng 16 Sân V??n Full n?i th?t,62 m² - 2 PN,"2,39 t?",Qu?n Th? ??c
+3,C?n ti?n bán g?p CC Qu?n 8 2PN 2WC,72 m² - 2 PN,"2,05 t?",Qu?n 8
+4,Bán c?n h? Hoàng Anh Thanh Bình 82m² 2PN giá 2.9t?,82 m² - 2 PN,"2,85 t?",Qu?n 7
+5,BÁN C?N H? VICTORIA VILLAGE 2PN - H??NG ?ÔNG NAM,73 m² - 2 PN,"3,85 t?",Qu?n 2
+6,Bán chung c? An Phú  dt 73m 3 pn ch? 2ty200,73 m² - 3 PN,"2,1 t?",Qu?n 2
+7,Ch? còn duy nh?t 1 c?n CTL DT70m2 2PN  giá 2.05 t?,70 m² - 2 PN,"2,05 t?",Qu?n 12
+8,BánC?n h? t?ng tr?t view Bi?n n??c m?n t?i Sài Gòn,100 m² - 2 PN,71 tri?u,Qu?n Tân Phú
+9,"Bán C?n 3PN 2WC, 2.55 t?, Có S?. CHCC Quang Thái",90 m² - 3 PN,"2,55 t?",Qu?n Tân Phú
+10,Officetel Charmington 31m² full nôi th?t 1ty400,31 m² - 1 PN,"1,4 t?",Qu?n 10
+11,"Bán c?n h? Kim Tâm H?i 70m², 2PN nhà tr?ng",70 m² - 2 PN,"1,5 t?",Qu?n 12
+12,"C?n bán c?n h? l?u 10, c?n góc view 2 m?t.",62 m² - 2 PN,"1,95 t?",Qu?n 12
+13,"2 c?n Citrine (1PN=65m2 =1.7t?) (2PN=73m2 =1,9 t?)",68 m² - 2 PN,2 t?,Qu?n 9
+14,Chung c? Grand Park 60m² Full N?i Th?t (Bán L?),60 m² - 2 PN,"2,16 t?",Qu?n 9
+15,C?n h? MT Nguy?n Duy Trinh DT 153m2 giá 3.75 t?,153 m² - 4 PN,"3,75 t?",Qu?n 2
+16,TR?I NGHI?M TH??NG L?U T?I DIAMOND ISLAND CH? 3 t?,47 m² - 1 PN,3 t?,Qu?n 2
+17,C?n h? Qu?n Nh?t,60 m² - 2 PN,"3,8 t?",Qu?n 1
+18,BÁN R? H?N GIÁ TH? TR??NG C?N 96M2 THE SUN AVENUE,96 m² - 3 PN,"5,2 t?",Qu?n 2
+19,ShopTM giá t? C?T v?i ck 10% + gói n?i th?t 700tr,50 m² - 1 PN,2 t?,Qu?n 7
+0,2.6 t? C?n h? Hoa Sen - Lotus Apartment 64m² 2PN,64 m² - 2 PN,"2,6 t?",Qu?n 11
+1,C?n H? Giá R? Qu?n 12 Ch? T? 899 Tri?u Nh?n Nhà,78 m² - 2 PN,"2,6 t?",Qu?n 12
+2,Chung c? Saigon Homes Bình Tân 70m² 2PN,70 m² - 2 PN,"2,08 t?",Qu?n Bình Tân
+3,Carillon 7 - Ngay ??m sen .Q.Tân phú-48m2-115m2,50 m² - 1 PN,"2,2 t?",Qu?n Tân Phú
+4,"C?N ( 2PN+2WC) 69M2 GIÁ 2,45 T? TTOÁN 30% NH?N NHÀ",69 m² - 2 PN,"2,45 t?",Qu?n 9
+5,Bán c?n 4pn - Full n?i th?t - VinHome Bình Th?nh,167 m² - 4 PN,"15,89 t?",Qu?n Bình Th?nh
+6,C?n GÓC 3PN L?u Cao Full NT An Gia Tân Phú,83 m² - 3 PN,"3,2 t?",Qu?n Tân Phú
+7,Officetel Qu?n Bình Tân 46m² 1PN,46 m² - 1 PN,"1,95 t?",Qu?n Bình Tân
+8,"C?n bán!!! C?n góc chung c? An S??ng 74m² 2PN, 2WC",74 m² - 2 PN,"1,7 t?",Qu?n 12
+9,"C?n bán h? Akari City 56m² 2PN giá 2,2 t?",56 m² - 2 PN,"2,2 t?",Qu?n Bình Tân
+10,Bán c?n góc 60m2 Block A chung c? Flora Novia T?,60 m² - 2 PN,"2,699 t?",Qu?n Th? ??c
+11,"C?n h? qu?n 12 ""T?m nhìn tri?u ?ô"". Duy nh?t 5 c?n",78 m² - 2 PN,"2,602 t?",Qu?n 12
+12,Officetel Richmond city 38m² 1PN view h? b?i 1.8t?,38 m² - 1 PN,"1,95 t?",Qu?n Bình Th?nh
+13,Chung c? Green Field 68m² 2PN full nt ch? 2.9t?,68 m² - 2 PN,"2,9 t?",Qu?n Bình Th?nh
+14,Chung c? HQC Hóc Môn 78m² 3PN 1.63T,78 m² - 3 PN,"1,63 t?",Huy?n Hóc Môn
+15,Chung c? Orchard Garden 100m² 3PN,90 m² - 3 PN,"7,3 t?",Qu?n Phú Nhu?n
+16,Bán C?n H? Lock Diamond MT - NVL  Q8 Ch? 300 tri?u,65 m² - 2 PN,"1,5 t?",Qu?n 8
+17,C?n h? 1PN49m2 PICITY HIGH PARK qu?n 12,49 m² - 1 PN,"1,8 t?",Qu?n 12
+18,?[NEW 100%] DANH SÁCH 30 C?N H? Q.TÂN PHÚ GIÁ T?T?,70 m² - 2 PN,"1,38 t?",Qu?n Tân Phú
+19,117m2 Diamond Alnata view ?ông nam thoáng mát,117 m² - 3 PN,"5,98 t?",Qu?n Tân Phú
+0,Central Premium 88m² 3PN T?ng 25 View ?N c?n g?c ?,88 m² - 3 PN,"4,3 t?",Qu?n 8
+1,"Bán c?n h? s?p bàn giao qu?n 12, giá chênh th?p",57.4 m² - 2 PN,"2,2 t?",Qu?n 12
+2,C?n góc 75m2. L?u 17. ??y ?? NT. Bán 2ty42,75 m² - 2 PN,"2,42 tri?u",Huy?n Nhà Bè
+3,MUA NGAY CH KV 9 VIEW QU?N 9 CÓ NT ??NG GIÁ TH?T.,65 m² - 2 PN,"2,4 t?",Qu?n 9
+4,"CH 9VIEW 58M2 2PN FULL NT CH? T? 1.4 T?, VIEW TP.",58 m² - 2 PN,"1,4 t?",Qu?n 9
+5,bán g?p c?n h? h?ng ngân- 2pn-2wc-64 mét,64 m² - 2 PN,"1,55 t?",Qu?n 12
+6,Chung c? Diamond Lotus Riverside 79m² 2PN Nhà m?i,79 m² - 2 PN,"3,55 t?",Qu?n 8
+7,M?I! M? BÁN VINHOMES Q9 THE BEVERLY VIEW ??P.,80 m² - 2 PN,50 tri?u,Qu?n 9
+8,"Lavida Plus 75m² 2PN 2,85 t? view H? b?i thoáng",75 m² - 2 PN,"2,85 t?",Qu?n 7
+9,Chung c? 2PN - 51.3M2 - Bcons plaza,51.32 m² - 2 PN,"1,73 t?",Qu?n 9
+10,"Bán chung c? sky9 dt 62m2, g?m 2pn, 2wc giá 1ty850",62 m² - 2 PN,"1,85 t?",Qu?n 9
+11,"Chính ch? bán c?n h? 2PN full n?i th?t,ngay Gò V?p",57 m² - 2 PN,2 t?,Qu?n 12
+12,Bán c?n h? Smarthome 2pn giá 2.850 t? bao sang tên,67.3 m² - 2 PN,"2,85 t?",Qu?n Th? ??c
+13,Duplex Qu?n 9 - Thành ph? Th? ??c 115m² 3 PN,115 m² - 3 PN,"3,5 t?",Qu?n 9
+14,C?n bán River Panorama 2PN m?i nh?n nhà giá 2ty2,65 m² - 2 PN,"2,2 t?",Qu?n 7
+15,"C?n h? Duplex 21PN 34m2 Gia Bình Home, Q.B.Th?nh",34 m² - 1 PN,860 tri?u,Qu?n Bình Th?nh
+16,BÁN C?N H? CHUNG C? DVELA PHÚ THU?N Q7,70 m² - 2 PN,"2,4 t?",Qu?n 7
+17,"C?n h? Q7 Boulevard 2PN 57m2 m?i nh?n nhà, giá t?t",57 m² - 2 PN,"2,6 t?",Qu?n 7
+18,Bán g?p c?n chung c? gò d?u qu?n tân phú,52 m² - 2 PN,"1,68 t?",Qu?n Tân Phú
+19,"C?n h? Q7 Boulevard trung tâm Qu?n 7, m?i nh?n nhà",51 m² - 1 PN,"2,3 t?",Qu?n 7
+0,Bán CH Phú Hoàng Anh 3pn ng? t?ng h?t n?i th?t ??p,129 m² - 3 PN,"2,9 t?",Huy?n Nhà Bè
+1,??có ai bán c?t l? Vinhomes ko v?y,47 m² - 1 PN,1.000 tri?u,Qu?n 9
+2,"C?n h? cao c?p Vinhomes Q.9 -3PN 2WC 105m, full NT",105 m² - 3 PN,"3,4 t?",Qu?n 9
+3,Bán G?p Chung C? 44B Tr?n Quang Kh?i Qu?n 1.,45 m² - 1 PN,"2,5 t?",Qu?n 1
+4,C?n góc Chung c? Gia Phú. Cách Lê Tr?ng T?n 200m,71 m² - 2 PN,"1,85 t?",Qu?n Bình Tân
+5,C?n H? Sài Gòn Intela 50m² 2PN 2WC Giá T?t,50 m² - 2 PN,"1,5 t?",Huy?n Bình Chánh
+6,C?n bán c?n h? 4PN 100 m2 khu Emerald Celadon City,100 m² - 4 PN,"3,9 t?",Qu?n Tân Phú
+7,?? WESTGATE M? BÁN ??T 1 BLOCK C FULL 100% PHÁP LÝ,59 m² - 2 PN,"1,9 t?",Huy?n Bình Chánh
+8,Bán c?n h? Th??ng M?i C?n H? Green River qu?n 8,71 m² - 2 PN,"2,6 t?",Qu?n 8
+9,Chung c? Celadon City 55m² 2 PN ??y ?? n?i th?t,55 m² - 2 PN,2 t?,Qu?n Tân Phú
+10,C?n h? HAUSNEO Q9 69m² 2PN 2WC Giá C?c T?t,69 m² - 2 PN,"2,36 t?",Qu?n 9
+11,C?n bán c?n chung c? metropark -2 pngu,50 m² - 1 PN,"1,7 t?",Qu?n Th? ??c
+12,"Central Premium,C?n Góc 48m2- 2,3 t? +1 N?m PQL",48 m² - 1 PN,"2,3 t?",Qu?n 8
+13,"Central premium, 2PN t? 3,3 t?, Nh?n nhà ? ngay",72 m² - 2 PN,"3,3 t?",Qu?n 8
+14,Bán chung c? chính ch? ngã t? Bình Thái -Th? ??c,68 m² - 2 PN,"3,1 t?",Qu?n Th? ??c
+15,"Bán c?n h? 3pn2wc Richstar t?ng cao - khu1 3,25 t?",91 m² - 3 PN,"3,25 t?",Qu?n Tân Phú
+16,bán c?n h? 5sao,58 m² - 2 PN,"5,5 t?",Qu?n 3
+17,"Bán chung c? Ph?m Vi?t Chánh, Full NT, giá 2.7 t?",65 m² - 2 PN,"2,7 t?",Qu?n Bình Th?nh
+18,Bán c?n stu chênh giá g?c 20 tri?u so v?i giá g?c,30.1 m² - 1 PN,399 tri?u,Qu?n 9
+19,"C?N H? M?I NH?N,CAO C?P, ?? TI?N ÍCH T?I Q.Tân Phú",66 m² - 2 PN,"2,35 t?",Qu?n Tân Phú
+0,Chung c? Âu C? Tower Qu?n Tân Phú 88m² 3PN 2.8 t?,88 m² - 3 PN,"2,8 t?",Qu?n Tân Phú
+1,Chung c? Felisa 53m² 2 PN  giá t?t - Q5,53 m² - 2 PN,"2,055 t?",Qu?n 8
+2,C?n h? 2pn 65m2 tecco green nest qu?n 12,65 m² - 2 PN,"1,75 t?",Qu?n 12
+3,Officetel Vinhomes Grand P?k. L? v?n,30 m² - 1 PN,517 tri?u,Qu?n 9
+4,Eco Green Sài Gòn 87m² 3 PN C?n B10 Block SN,87.13 m² - 3 PN,"4,65 t?",Qu?n 7
+5,"Bán c?n h? GreenTower 2pn,2wc T?ng cao View Q1",61 m² - 2 PN,"3,1 t?",Qu?n Tân Phú
+6,Chung c? Qu?n 8 50m² 1 PN,50 m² - 1 PN,950 tri?u,Qu?n 8
+7,B?t ??ng s?n TP.HCM th? c? s? h?ng riêng t?ng lô,80 m² - 3 PN,"1,45 t?",Huy?n C? Chi
+8,Chung c? The PegaSuite 2 PN - H? tr? vay,92 m² - 2 PN,"3,35 t?",Qu?n 8
+9,"C?n h? d?ch v?,Q.Bình Th?nh 1 PN",30 m² - 1 PN,"5,5 tri?u",Qu?n Bình Th?nh
+10,Nhà Tecco Town,81 m² - 2 PN,"1,98 t?",Qu?n Bình Tân
+11,Officetel Vinhomes Golden River BaSon 74m² 2PN,74 m² - 2 PN,"8,8 t?",Qu?n 1
+12,"C?n 75m2 ?Ã NH?N S?, giá 1.750 t?, có th??ng l??ng",75 m² - 2 PN,"1,75 t?",Huy?n Nhà Bè
+13,"C?n góc 75m2 CÓ S?, bao thu? phí, Vay 70%, T?ng NT",75 m² - 2 PN,"1,8 t?",Huy?n Nhà Bè
+14,BÁN C?N H? AN HÒA KHU NAM LONG TR?N TRONG CUNG Q7,40 m² - 2 PN,"1,47 t?",Qu?n 7
+15,C?n bán c?n h? Hado Centrosa Garden,61 m² - 1 PN,"5,25 t?",Qu?n 10
+16,"Bán c?n h? TOPAZ HOME,t?ng 5, 60m2, 2PN, c?n góc",60 m² - 2 PN,"1,7 t?",Qu?n 12
+17,BÁN C?N 2PN 59M2  N HÀNG H?TR? 70% NH?N NHÀ ? LI?N,59 m² - 2 PN,"1,98 t?",Qu?n 9
+18,"Bán G?p CH Topaz City, 2-3PN, Gía M?m, H? Tr? Vay",70 m² - 2 PN,"2,25 t?",Qu?n 8
+19,BÁN C?N H? 8X THÁI AN 2PN 2WC 60m2,60 m² - 2 PN,"1,73 t?",Qu?n Gò V?p
+0,C?n h? richstar Novaland 2PN 1wc Full n?i th?t,53 m² - 2 PN,"2,7 t?",Qu?n Tân Phú
+1,112M2 Diamond Brilliant giá ch?t nhanh 5ty660,112 m² - 2 PN,"5,66 t?",Qu?n Tân Phú
+2,"C?N H? GREEN FIELD,2PN,BAN CÔNG,?? TI?N ÍCH",60 m² - 2 PN,"2,8 t?",Qu?n Bình Th?nh
+3,C?n h? The Origami 2PN 61m2 view n?i khu v?n 0 ??n,61 m² - 2 PN,657 tri?u,Qu?n 9
+4,"Bán c?n h? Dragon Hill 1, view PMH",84 m² - 2 PN,"2,95 t?",Huy?n Nhà Bè
+5,Chung c? Terra Rosa 79m² 2 PN 2WC,79.5 m² - 2 PN,2 t?,Huy?n Bình Chánh
+6,"C?n bán c?n h? Green Field 3PN-2WC, 90m2, 3ty8",90 m² - 3 PN,"3,8 t?",Qu?n Bình Th?nh
+7,"Chung c? Green Field 60m² 2PN, 2ty75",60 m² - 2 PN,"2,75 t?",Qu?n Bình Th?nh
+8,"Gi? CH Topaz Home Q9, Th??ng M?i, Gía M?m, Cho Vay",69.31 m² - 3 PN,"1,68 t?",Qu?n 9
+9,Officetel v?n phòng có s?n l?u và n?i th?t vp,36 m² - 1 PN,"2,5 tri?u",Qu?n 7
+10,"Chuyên bán TOPAZ 2-3PN-nhà ??p-giá r? t? 1,25t?",51 m² - 2 PN,"1,25 t?",Qu?n 12
+11,Bán c?n h? Tecco qu?n 12 - G?n Tham L??ng Tân Bình,57 m² - 2 PN,"1,64 t?",Qu?n 12
+12,Chính ch? bán CC Petro Landmark qu?n 2 VIEW H? B?I,94.52 m² - 2 PN,"2,85 t?",Qu?n 2
+13,"C?n h? 2PN nhà s?ch ??p- h? tr? vay NH-giá 1,54 t?",58 m² - 2 PN,"1,54 t?",Qu?n 12
+14,Chung c? CAO C?P giá r? Qu?n Bình Th?nh 48m² 1PN,48 m² - 1 PN,2 t?,Qu?n Bình Th?nh
+15,Bán c?n h? trung tâm qu?n Tân Phú,60 m² - 2 PN,"1,85 t?",Qu?n Tân Phú
+16,C?n h? chung c? 1PN Hà ?ô Qu?n10 nhà m?i view ??p,53 m² - 1 PN,"4,3 t?",Qu?n 10
+17,C?n bán nhanh Chung c? Carillon 7 71m² 2PN giá t?t,71 m² - 2 PN,"2,65 t?",Qu?n Tân Phú
+18,chung c? trung tâm gò v?p 70m2 3pn,70 m² - 3 PN,"2,06 t?",Qu?n Gò V?p
+19,Chung C? West Gate N?m Trong Trung Tâm Bình Chánh,59 m² - 2 PN,"2,2 t?",Huy?n Bình Chánh
+0,Chung c? Qu?n 9 - Thành ph? Th? ??c 40m² 1PN,40 m² - 1 PN,960 tri?u,Qu?n 9
+1,"C?n h? 3 phòng ng? 86m² m?i bàn giao, Qu?n Tân Phú",86 m² - 3 PN,"3,08 t?",Qu?n Tân Phú
+2,"Chung c? H?ng Ngân 68m2, 2PN có SHR công ch?ng",68 m² - 2 PN,"1,78 t?",Qu?n 12
+3,Chung c? H?ng Ngân Garden 70m² 2PN,70 m² - 2 PN,"1,98 t?",Qu?n 12
+4,"C?n h? 2PN 47m2 First Home Th?nh L?c, Q.12",47 m² - 2 PN,"1,37 t?",Qu?n 12
+5,"C?n h? d?ch v?, mini Huy?n Nhà Bè 73m² 2 PN",73 m² - 2 PN,"3,5 t?",Huy?n Nhà Bè
+6,"Bán c?n h? Sen H?ng 01pn block B, view ?ông nam",38 m² - 1 PN,"1,19 t?",Qu?n Th? ??c
+7,C?n h? Resort c?a Ngõ Gò V?p quy mô nh? Vinhome,57 m² - 2 PN,"2,2 t?",Qu?n Gò V?p
+8,"Bán Nhanh C?n H? Vinhomes Grand Park Q9 67,8m2 3PN",67.8 m² - 3 PN,3 t?,Qu?n 9
+9,"C?N H? CÓ SÂN TENNIS TRÊN KHÔNG, FULL N?I TH?T",69 m² - 2 PN,720 tri?u,Huy?n Bình Chánh
+10,"Bán c?n h? Sen H?ng 02pn view ?ông nam, s? s?n",50 m² - 2 PN,"1,47 t?",Qu?n Th? ??c
+11,GIÁ ??C QUY?N C?N 2PN+ SIÊU R? T?I VHGK,69 m² - 2 PN,"2,6 t?",Qu?n 9
+12,Nhà ph? simcity ???c n?i th?t,90 m² - 4 PN,800 t?,Qu?n 9
+13,Chung c? li?n k? Lotte Mark Gò V?p 2 PN,57 m² - 2 PN,"2,2 t?",Qu?n Gò V?p
+14,"?? Bán Nhanh C?n H? 2PN+2WC KINGDOM 101,Giá H?t D?",72 m² - 2 PN,"4,78 t?",Qu?n 10
+15,Chính ch? c?n bán g?p c?n 3PN-81m2-ko th??ng l??ng,81 m² - 3 PN,"2,09 t?",Qu?n 9
+16,Bán c?n h? Sen h?ng 02 phòng ng? ??y ?? n?i th?t,50 m² - 2 PN,"1,55 t?",Qu?n Th? ??c
+17,C?n h? chung c? Conic Skyway 105m2 full n?i th?t,105 m² - 3 PN,"2,4 t?",Huy?n Bình Chánh
+18,B? n? Euro bán c?n h? 2PN1WC cao c?p giá 1ty8,67 m² - 2 PN,"1,8 t?",Qu?n 7
+19,"C?n h? CTL Tower, 70m2 2PN 2WC, Giá ch? 2.05 t?",70 m² - 2 PN,"2,05 t?",Qu?n 12
+0,"C?n h? An S??ng I-Park ""Phiên b?n gi?i h?n""",80 m² - 3 PN,"2,7 t?",Qu?n 12
+1,Tôi k?t ti?n c?n bán g?p c?n officetel view kênh,38 m² - 1 PN,"2,05 t?",Qu?n Bình Th?nh
+2,Bán c?n h? Sen H?ng 1.15ty/1pn Full n?i th?t m?i,39 m² - 1 PN,"1,15 t?",Qu?n Th? ??c
+3,????NG GI? B? KÊU BÁN L? VINHOMES N?A,50 m² - 2 PN,"1,999999999 t?",Qu?n 9
+4,Gi? hàng chuy?n nh??ng Lavida Plus v?i ?? lo?i DT,53 m² - 1 PN,"2,199 t?",Qu?n 7
+5,C?n hô? RichStar 65m² 2PN full giá s?c mùa d?ch,65 m² - 2 PN,"2,75 t?",Qu?n Tân Phú
+6,"C?n bán c?n h? chung c? Conic Riverside, F7, Q8",65 m² - 2 PN,"1,75 t?",Qu?n 8
+7,Hàng h?m bán c?n 1PN Carillon7 Giá:2.35t? bao h?t,49 m² - 1 PN,"2,35 t?",Qu?n Tân Phú
+8,"Bán CC Prosper Plaza 65m2 ?ã có S? giá ch? 2,19 t?",65 m² - 2 PN,"2,19 t?",Qu?n 12
+9,BÁN CH FELISA RIVERSIDE CÁCH C?U NTP Q5 200M,54 m² - 2 PN,"2,05 t?",Qu?n 8
+10,Chung c? Conic Skyway 80m² 2 PN,80 m² - 2 PN,"2,1 t?",Huy?n Bình Chánh
+11,"C?N H? THU? L?I 4,DT:54M,S? H?NG,TI?N ÍCH VINCOM",54 m² - 1 PN,"2,5 t?",Qu?n Bình Th?nh
+12,Chính ch? bán Ascent Lakeside mã 6.02 view MT,64.7 m² - 1 PN,"2,95 t?",Qu?n 7
+13,"BÁN G?P c?n h? Gia Phú 65m2 2PN, 1,65T?",65 m² - 2 PN,"1,65 t?",Qu?n Bình Tân
+14,Chính Ch? Bán River Panorama- An Gia 2 Phòng Ng?.,64 m² - 2 PN,"2,7 t?",Qu?n 7
+15,"C?N H? SAIGONLAND,2PN,2WC,S? H?NG,VIEW LANDMARK",72 m² - 2 PN,"3,05 t?",Qu?n Bình Th?nh
+16,Ban CH Happy City NVL 67m² 2PN 1WC nhà m?i ??p,67 m² - 2 PN,"1,45 t?",Huy?n Bình Chánh
+17,C?n hô? Him Lam Nam Khánh 80m² 2PN CO? SÔ? HÔ?NG,80 m² - 2 PN,"2,5 t?",Qu?n 8
+18,??Bán c?n h? 2PN-Full n?i th?t Richstar-Giá: 2.5t?,53 m² - 2 PN,"2,5 t?",Qu?n Tân Phú
+19,"BÁN G?P CH T?I HIM LAM 70M2 FULL NT, VIEW ??P.",70 m² - 2 PN,"2,45 t?",Qu?n 9
+0,"C?N H? M?I 2PN,2WC,G?N UNG V?N KHIÊM",68 m² - 2 PN,"2,6 t?",Qu?n Bình Th?nh
+1,"Duplex New Saigon-HAGL3 242m² 5 PN,nhà ??p ?ã deco",242 m² - 5 PN,"3,9 t?",Huy?n Nhà Bè
+2,C?n h? 76m2 2pn giá t?t  t?i cc Happy CIty,76 m² - 2 PN,"1,9 t?",Huy?n Bình Chánh
+3,Chung c? Chung c? Tây Th?nh 66m² 2 PN 2WC,66 m² - 2 PN,"2,15 t?",Qu?n Tân Phú
+4,C?n h? cao c?p Lovera Vista 65m2 2 PN 2WC,65 m² - 2 PN,"2,1 t?",Huy?n Bình Chánh
+5,K?t ti?n bán g?p c?n h? River Gate 2pn2wc 75m2,75 m² - 2 PN,"4,65 t?",Qu?n 4
+6,"3PN 2WC N?i Th?t, 2.45 t?. CHCC Hoàng Kim Th? Gia",80 m² - 3 PN,"2,45 t?",Qu?n Bình Tân
+7,"C?N H? S? H?NG CONIC ?ÌNH KHIÊM 2PN 1,65 T?",74 m² - 2 PN,"1,65 t?",Huy?n Bình Chánh
+8,"Q7 Boulevard CK Kh?ng 10-18%, T?ng gói n?i th?t",139.4 m² - 1 PN,"8,1 t?",Qu?n 7
+9,C?n bán Chung c? Ehomes Nam sài gòn 40m² 1 PN,40 m² - 1 PN,"1,17 t?",Huy?n Bình Chánh
+10,"Ban CH Happy City 3PN - 100.5m² full NT giá r?,??p",100.5 m² - 3 PN,"2,28 t?",Huy?n Bình Chánh
+11,"Bán c?n Khánh H?i 2, di?n tích 75m2 , 2pn 2wc , Q4",75 m² - 2 PN,3 t?,Qu?n 4
+12,"Bán nhà chung c? 121m, 3PN l?u 9, nhà m?i s?n s?a",121 m² - 3 PN,"2,5 t?",Qu?n Bình Tân
+13,Ch? bán g?p c?n h? 3PN 115m2 chung c? River Gate,115 m² - 3 PN,"6,5 t?",Qu?n 4
+14,BÁN C?N H? CENTUM WEATH 2PN-2WC FULL NT CH? 2.5T?,68 m² - 2 PN,"2,586 t?",Qu?n 9
+15,Bán c?n h? Orient Apartment 90.5m² 3PN,90.5 m² - 3 PN,"3,75 t?",Qu?n 4
+16,"Bán g?p cc 76 m2, 2 PN, ch? ?ang ?, t?ng cao, ??p",76 m² - 2 PN,"1,5 t?",Qu?n Gò V?p
+17,"Bi?t th? ""thô"" Park Riverside 304m² 21.5 t?.",304 m² - 4 PN,"21,5 t?",Qu?n 9
+18,Chính ch? sang nh??ng c?n h? 2PN Picity Qu?n 12,57 m² - 2 PN,"2,2 t?",Qu?n 12
+19,C?n h? 5 sao MARRIOTT ngay ga metro Bason.,41 m² - 1 PN,"6,789 t?",Qu?n 1
+0,Chính ch? Bán C?n h? Central Garden ch? v?i 825 Tr,83 m² - 2 PN,825 tri?u,Qu?n 1
+1,C?n h? cao c?p Kingdom 101 - 2PN giá t?t,72 m² - 2 PN,"5,3 t?",Qu?n 10
+2,"bán c? h? Citihome 2pn, 2wc  ?ã có s?, giá 1,8 t?",64 m² - 2 PN,"1,8 t?",Qu?n 2
+3,"C?n h? 3pn 135m2 Happy Valley, Phú m? H?ng, q7",135 m² - 3 PN,"6,5 t?",Qu?n 7
+4,"CitiHome 2pn, 1wc c?n bán nhanh giá 1,650 t?",60 m² - 2 PN,"1,65 t?",Qu?n 2
+5,Tôi chính ch? c?n bán l?i c?n h? 3PN city gate 2,86 m² - 3 PN,3 t?,Qu?n 8
+6,CH Garden Gate y hình 34m2 ch? 1.920 t? m?i PN,34 m² - 1 PN,"1,92 t?",Qu?n Phú Nhu?n
+7,"Bán 2PN56m giá 2,25 t? Sky Garden 3. Giá siêu r?",56.51 m² - 2 PN,"2,25 t?",Qu?n 7
+8,"CHÍNH CH? KÝ G?I BÁN C?N H? 2 P.NG? .GIÁ 2,250 T?",60 m² - 2 PN,"2,25 t?",Qu?n 7
+9,CÁC C?N C?N BÁN T?I CENTUM WEATH NGAY U? BAN Q9,68 m² - 2 PN,"2,1 t?",Qu?n 9
+10,Chung c? Topaz Home 70m² 3PN-2wc nhà m?i,70 m² - 3 PN,"2,1 t?",Qu?n 12
+11,C?n h? chung c? Botanic Towers 93m² 2PN,93 m² - 2 PN,"4,4 t?",Qu?n Phú Nhu?n
+12,BÁN C?N H?  72m² 2PN  VIEW THOÁNG MÁT KHU CITYLAND,72 m² - 2 PN,"3,7 t?",Qu?n Gò V?p
+13,C?n h? cao c?p M.One Gia ??nh P1 - GV,70 m² - 2 PN,"3,9 t?",Qu?n Gò V?p
+14,"C?n h? carillon7, 104m² 3PN view ??m Sen, l?u 23",104 m² - 3 PN,"3,89 t?",Qu?n Tân Phú
+15,Bán c?n h? 2PN full NT view h? b?i khu Cityland,75 m² - 2 PN,"3,85 t?",Qu?n Gò V?p
+16,"?? Bán G?p C?n H? 1PN+1WC KINGDOM 101, Giá H?t D?",49 m² - 1 PN,"3,8 t?",Qu?n 10
+17,Chung c? Lavita Charm 68m² 2PN,68 m² - 2 PN,"2,9 t?",Qu?n Th? ??c
+18,Chung C? Tecco Bình Tân,72 m² - 2 PN,"1,97 t?",Qu?n Bình Tân
+19,"M?I B?NG GIÁ CH HIM LAM PHÚ AN T7/2021 GIÁ 2,45T?",70 m² - 2 PN,"2,45 t?",Qu?n 9
+0,Bán k? bên chung c? Him lam  em chính ch? g?i bán,72 m² - 2 PN,"2,3 t?",Qu?n 8
+1,Chung c? Chung c? Bông Sao 44.3m² 1PN,44.3 m² - 1 PN,"1,75 t?",Qu?n 8
+2,C?n H? 2 phòng ng? Qu?n 6 Gi?a N?m 2021 Nh?n Nhà,51 m² - 2 PN,"1,8 t?",Qu?n 6
+3,"C?N H? LEXINGTON 2PN, N?I TH?T CAO C?P, 71m2",71 m² - 2 PN,"3,4 t?",Qu?n 2
+4,C?n H? Sân V??n Bình Tân 136m² 2PN- g?n Aeon Mall,136 m² - 2 PN,"2,6 t?",Qu?n Bình Tân
+5,C?N TI?N BÁN HÒA V?N C?C PH?M SKY89 AN GIA 2.53 T?,56 m² - 1 PN,"2,53 t?",Qu?n 7
+6,T?NG H?P CÁC C?N BÁN FLORA NOVIA 2PN-1WC CH? 2.22?,57 m² - 2 PN,"2,2 t?",Qu?n Th? ??c
+7,?? Bán Nhanh C?n 2PN+2WC Richstar-Full NT S?n Xò,65 m² - 2 PN,"2,8 t?",Qu?n Tân Phú
+8,Chính ch? bán Oficetel y hình ??p Garden Gate 34m2,34 m² - 1 PN,"2,12 t?",Qu?n Phú Nhu?n
+9,Bán Chung c? Citihome Qu?n 2 M?i Ken...,62 m² - 2 PN,"1,65 t?",Qu?n 2
+10,"BÁN NHANH CH KV HIM LAM PA R?NG RÃI, VIEW THOÁNG.",70 m² - 2 PN,"2,3 t?",Qu?n 9
+11,C?n bán c?n h? Ngay Phú M? H?ng 2PN giá 2ty18,62 m² - 2 PN,"2,18 t?",Qu?n 7
+12,MÌNH BÁN CH FLORA NOVIA 57M2 GIÁ CH? 2.2T? VAY BAN,57 m² - 2 PN,"2,25 t?",Qu?n Th? ??c
+13,"C?n h? 2PN 56m2,TT360tr,CK 1ch? vàng,0% lãi su?t",56 m² - 2 PN,"1,2 t?",Qu?n Bình Th?nh
+14,Bán nhà giá r? - S? h?ng Riêng - Bình Chánh,64 m² - 3 PN,750 tri?u,Huy?n Bình Chánh
+15,"??Giá thép t?ng phi mã ,h? b?i 1000m2 VINHOMES",47 m² - 1 PN,"1,98 t?",Qu?n 9
+16,"C?n h? Richstar - Tân Phú, 91m2, 3PN, 2WC - 3.5 t?",91 m² - 3 PN,"3,5 t?",Qu?n Tân Phú
+17,"Ch? 760 Tri?u s? H?u C?n 3PN, T?ng Gói N?i Th?t CC",85 m² - 3 PN,799 tri?u,Huy?n Bình Chánh
+18,C?n H? Qu?n 8  61.75m² 2PN 2WC giá t?t.,61.75 m² - 2 PN,"1,745 t?",Qu?n 8
+19,Chung c? Qu?n 7 2PN,56 m² - 2 PN,"1,99 t?",Qu?n 7
+0,Chung c? phú gia h?ng 93m2 P15 gò v?p 3pn,93 m² - 3 PN,"2,85 t?",Qu?n Gò V?p
+1,"Chung c? 2 PN, 3WC, 2 t? 75 ?inh Tiên Hoàng BT",76 m² - 3 PN,"2,75 t?",Qu?n Bình Th?nh
+2,"FLORA NOVIA MT PH?M V?N ??NG, 2PN-2WC=75M2=2.7T?",75 m² - 2 PN,"2,7 t?",Qu?n Th? ??c
+3,"Chung c? Him Lam Phú An 69m² 2PN, ?ông Nam",69 m² - 2 PN,"2,4 t?",Qu?n 9
+4,"RICHMOND D? DÀNG MUA 2PN 2WC 66M2=3.45T?, 71M2=3.7",66 m² - 2 PN,"3,45 t?",Qu?n Bình Th?nh
+5,"C?n h? cao c?p Carillon 7, Tân Phú -66m2, 2.550 t?",66 m² - 2 PN,"2,55 t?",Qu?n Tân Phú
+6,"D/a cao c?p PiCity, 30Tr m2 50-80m2, bàn giao 2021",49 m² - 2 PN,"1,5 t?",Qu?n 12
+7,"MIZUKI PARK GI? HÀNG ONLINE 3 BLOCK M?I MP6,7,8",78 m² - 2 PN,"2,9 t?",Huy?n Bình Chánh
+8,"Bán c?n h? chung c? ngay trung tâm P11, Qu?n 5",74 m² - 2 PN,3 t?,Qu?n 5
+9,C?n h? 2PN 2tolel prosper plaza q12,51 m² - 2 PN,2 t?,Qu?n 12
+10,Mu?n bán chung c?,53 m² - 1 PN,"2,48 tri?u",Qu?n Th? ??c
+11,Shophouse s? h?u v?nh vi?n 1 tr?t 1 l?u,110 m² - 2 PN,"4,9 t?",Qu?n 12
+12,Bán c?n h? Phúc An -L?u 3 c?n góc,33 m² - 1 PN,460 tri?u,Huy?n Hóc Môn
+13,Chung c? Chung c? An L?c Gò V?p 65m² 2PN,65 m² - 2 PN,"2,1 t?",Qu?n Gò V?p
+14,"Chung c? Him Lam Ch? L?n 102m² 2PN, 3.7 t?",102 m² - 2 PN,"3,7 t?",Qu?n 6
+15,Chung c? Topaz City 2PN,70 m² - 2 PN,"2,1 t?",Qu?n 8
+16,??CH?U KHÓ MUA GIÁ M?I G?N BAN QU?N LÍ VINHOMES S5,47 m² - 1 PN,"1,99 t?",Qu?n 9
+17,Thanh Toán 30% S? H?u Ngay C?n H? Cao C?p 5* BC,85 m² - 3 PN,38 tri?u,Huy?n Bình Chánh
+18,Bán CH Tecco Green Nest DT65m2 nhà tr?ng giá 1.7 t,65 m² - 2 PN,"1,7 t?",Qu?n 12
+19,? Bán c?n h? The Art KDC Gia Hoà Ph??c Long B Q9,66 m² - 2 PN,"2,4 t?",Qu?n 9
+0,Chung c? Qu?n 2 61m² 1 t? 567,61 m² - 2 PN,"1,567888 t?",Qu?n 2
+1,"?? Bán Nhanh C?n 3PN Carillon 7, Giá H?t D?",86 m² - 3 PN,"3,15 t?",Qu?n Tân Phú
+2,Chung c? Chung c? 43 H? V?n Huê 57m² 2 PN,57 m² - 2 PN,"2,6 t?",Qu?n Phú Nhu?n
+3,Mái ?m lý t??ng! giá tr? th?t! c?n h? cao c?p nh?t,50 m² - 1 PN,"1,5 t?",Qu?n Bình Tân
+4,"C?N H? Q8 NH?N NHÀ ? NGAY,M?I 100%,TI?N ÍCH NHI?U",62 m² - 2 PN,"1,6 t?",Qu?n 8
+5,"C?N GÓC CHUNG C? MOONLIGHT 2PN, 75.1M2 GIÁ 3T?",75 m² - 2 PN,3 t?,Qu?n Th? ??c
+6,"Chung c? An Hòa 70m²-2PN, view Q1, giá t?t",70 m² - 2 PN,"2,85 t?",Qu?n 2
+7,Chung c? Qu?n 2 D'Lusso 70m² 2PN bán giá g?c ??t 1,70 m² - 2 PN,"3,641 t?",Qu?n 2
+8,"C?n bán Chung c? HAUSBELO, 2PN, chênh 120 tri?u",67 m² - 2 PN,"1,93 t?",Qu?n 9
+9,??M B?O MUA NHÀ B?NG GIÁ TH?T  MOONLIGHT RESIDENCE,68 m² - 2 PN,"2,6 t?",Qu?n Th? ??c
+10,Chung c? Qu?n 12 70m² 2PN,70 m² - 2 PN,"1,79 t?",Qu?n 12
+11,Bán Cc cao c?p Mizuki Park 72m2 giá 2ty780 full NT,72 m² - 2 PN,"2,78 t?",Huy?n Bình Chánh
+12,"Chuy?n công tác nên c?n bán g?p c?n h? 2PN, 2WC",58 m² - 2 PN,"1,65 t?",Qu?n 12
+13,"C?n h? 2PN, 1PK, 60m2 Resgreen, QTân Phú",60 m² - 2 PN,"3,15 t?",Qu?n Tân Phú
+14,BÁN C?N H? CHÍNH CH?.,28 m² - 2 PN,"1,8 t?",Qu?n 6
+15,H??ng d?n mua nhà 2 t? ? Qu?n 12 khi ch? có 600tr,48 m² - 2 PN,"1,89 t?",Qu?n 12
+16,Gía r? cho c?n h? Officetel Sunrise City View Lh :,39 m² - 1 PN,"1,75 t?",Qu?n 7
+17,C?n h? 1 PN chung c? sen h?ng. Block C,38.1 m² - 1 PN,"1,2 t?",Qu?n Th? ??c
+18,"CTL Tower v? trí ??p,h? tr? vay-giá t? 1,87 t?",65 m² - 2 PN,"1,87 t?",Qu?n 12
+19,CH MOONLIGHT RESIDENCE FULL NT 2PN=2.85T?,67 m² - 2 PN,"2,85 t?",Qu?n Th? ??c
+0,"C?n h? ngh? d??ng ven sông 2PN, tr? tr??c 500 tr",50 m² - 2 PN,500 tri?u,Huy?n Nhà Bè
+1,"C?n h? góc CC Giai Vi?t 150m2 3PN Block B2 4,5 t?",150 m² - 3 PN,"4,5 t?",Qu?n 8
+2,"C?N H? LEXINGTON 1PN, N?I TH?T SANG TR?NG, 48m2",48 m² - 1 PN,"2,4 t?",Qu?n 2
+3,??U T? NHÀ TR? L?I NHU?N 28% CÓ S? TRAO TAY,200 m² - 1 PN,750 tri?u,Qu?n 12
+4,Chung c? C?n H? HARMONA qu?n Tân Bình 3PN 100m2,100 m² - 3 PN,"3,7 t?",Qu?n Tân Bình
+5,Chung c? The Sun Avenue 73m² 2 PN QU?N 2 - FULL NT,73 m² - 2 PN,"3,92 t?",Qu?n 2
+6,"officetel, 36m2, có n?i th?t, giá 2.1 t? bao phí",36 m² - 1 PN,"2,1 t?",Qu?n Phú Nhu?n
+7,C?n Topaz City 2pn dt 63m2 bán g?p giá 2 t?,63 m² - 2 PN,2 t?,Qu?n 8
+8,Chung c? Khu dân c? Cityland Park Hills 75m² 2PN,75 m² - 2 PN,"3,8 t?",Qu?n Gò V?p
+9,"C?n h? Carilon 7,m?t ti?n Tân Phú, nh?n nhà ? ngay",50 m² - 1 PN,"2,25 t?",Qu?n Tân Phú
+10,"Bán c?n 2pn giá t? 1,5 t?, liên h? 0868..37..1991",58 m² - 2 PN,"1,5 t?",Qu?n 12
+11,Chinh chu carillon 7- Q.Tân Phú 88m² 3PN,88 m² - 3 PN,"3,2 t?",Qu?n Tân Phú
+12,"C?n h? Linh Tây 84m² 2 PN,2 WC , hình th?t 100%",84 m² - 2 PN,"2,75 t?",Qu?n Th? ??c
+13,Chung c? Carillon 7 88m² 3PN gi?m giá mùa d?ch,88 m² - 3 PN,"3,07 t?",Qu?n Tân Phú
+14,"C?n h? phong cách NH?T B?N, ngh? d??ng 5 sao.",65 m² - 2 PN,280 tri?u,Qu?n 7
+15,"Q7 Sài Gòn Riverside, 2PN, view sông, 2.3 t?/c?n",67 m² - 2 PN,"2,3 t?",Qu?n 7
+16,C?n H? West Gate Bình Chánh Ch? T? 660tr Có N.Th?t,60 m² - 2 PN,"2,2 t?",Huy?n Bình Chánh
+17,"City gate 3 Q8 52m2 giá 1,2 t?,78m2 2PN giá 2 t?.",52 m² - 2 PN,"1,2 t?",Qu?n 8
+18,"Bán chung c? gò v?p 73m,2PN có s? 1,980 t?",73 m² - 2 PN,"1,98 t?",Qu?n Gò V?p
+19,Jamila 99m2 - full n?i th?t thi?t k? hi?n ??i,99 m² - 3 PN,"4,6 t?",Qu?n 9
+0,"C?n h? cao c?p Richstar 91m2, thi?t k? ??p,full NT",91 m² - 3 PN,"4,2 t?",Qu?n Tân Phú
+1,C?n h? Jamila DT: 72m2 - 2PN 2WC - s? h?ng,72 m² - 2 PN,"2,85 t?",Qu?n 9
+2,C?n h? Jamila DT: 69m2 2 PN 2WC - s? h?ng,69 m² - 2 PN,"2,87 t?",Qu?n 9
+3,C?n ti?n bán l?i c?n 3pn HAUSBELO chênh t?t,74 m² - 3 PN,"2,14 t?",Qu?n 9
+4,"C?n h? CitiSoho Q2, D?ch b?nh nên bán giá r?",59 m² - 2 PN,"1,61 t?",Qu?n 2
+5,Carillon 7 88m² 3 PN- c?n góc s? 11 chính ch?,88 m² - 3 PN,"3,2 t?",Qu?n Tân Phú
+6,"Bán c?n h?  cao c?p C?ng Hòa Garden, view Lanmark",77 m² - 2 PN,3 t?,Qu?n Tân Bình
+7,C?N BÁN CC FLORA NOVIA 80m2 FULL N?I TH?T,80 m² - 3 PN,"3,5 tri?u",Qu?n Th? ??c
+8,"C?n h? 3PN 90,4m2 RiverPanorama T?ng Cao View Sông",90.4 m² - 3 PN,"3,5 t?",Qu?n 7
+9,C?n bán Sky 89 view ??p thoáng ?? c?n t? 55-114m2,55 m² - 2 PN,"2,5 t?",Qu?n 7
+10,Diamond Lotus Riverside 56m2_2PN_Q8_View Sông_R?,56 m² - 2 PN,"3,05 t?",Qu?n 8
+11,"Tôi bán c?n h? 2PN,1WC-63,8m2 Emerald,ch? g?n 3t?.",63.8 m² - 2 PN,"2,95 t?",Qu?n Tân Phú
+12,"Chung c? Tân Quy 2PN, Qu?n 7. V? trí t?t",44 m² - 2 PN,"1,7 t?",Qu?n 7
+13,MUA ??U T? HAY ? ??U THÍCH H?P - GIÁ CH?T NH?T KV,50 m² - 1 PN,"3,25 t?",Qu?n 2
+14,C?n h? WESTGATE 2pn+2wc trong c?m TTHC Bình Chánh,59 m² - 2 PN,"2,158 t?",Huy?n Bình Chánh
+15,CC City Gate Towers 2PN 2WC N?I TH?T NH? HÌNH 100%,69 m² - 2 PN,"2,25 t?",Qu?n 8
+16,C?n Bán Panorama ngay PMH m?i nh?n nhà 2PN 2ty160,62 m² - 2 PN,"2,16 t?",Qu?n 7
+17,C?t l? 100tr C?n h? 2PN Vinhomes qu?n 9,59 m² - 2 PN,"1,635 t?",Qu?n 9
+18,"The Botanica - C?n h? 2PN, view ?ông, có n?i th?t",57 m² - 2 PN,"3,3 t?",Qu?n Tân Bình
+19,"C?n h? trung tâm hành chính 5 m?t ti?n, Bình Chánh",59 m² - 2 PN,"2,15 t?",Huy?n Bình Chánh
